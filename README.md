@@ -9,6 +9,21 @@
 2. User Experience Design (UXD)
    * Project Goals
 3. Features
+4. Technologies Utilised
+5. Testing
+6. Deployment
+7. Credits
 
 # Overview of the Milestone 1 Project
 
+# User Experience Design (UXD)
+
+# Features
+
+# Technologies Utilised
+
+# Testing
+
+# Deployment
+
+# Credits
