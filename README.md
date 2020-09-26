@@ -3,13 +3,18 @@
 # Professional Website Portfolio of Jonathan Swift
 *Constructed as part of Code Institute's Milestone 1 Project: User-Centric Front-end Development module*
 
+<!-- Image of website portfolio responsiveness -->
+
 ## Table of Contents
 
 1. Overview of the Milestone 1 Project
 2. User Experience Design (UXD)
    1. Project Goals
    2. Strategy
-   3. Scope
+   3. User Stories
+      - Employers and Recruiters
+      - Website Developer
+   4. Scope
 
 # Overview of the Milestone 1 Project
 
@@ -23,4 +28,14 @@ The purpose in one of the four milestone projects is based on a firm decision, h
 
 ## Strategy
 
-As established in the aforementioned above, the product is built consciously with the employers and recruiters in mind to provide the ability in assessing of what I can offer, contribute and participate overall personally and professionally. 
+As established in the aforementioned above, the product is built consciously with the employers and recruiters in mind to provide the ability in assessing of what I can offer, contribute and participate collaboratively overall personally and professionally. The objective of this strategy is to market myself as a product and provide value in that through the website portfolio lifecycle from inception to deployment and finally testing to enable the transition into a career change to take effect.
+
+## User Stories
+
+### Employers and Recruiters
+
+Employers and recruiters operate as separate entities of their own in that there is a greater likelihood of them browsing through the website portfolio, assessing one's competency levels through their own project work and connect via various professional social media/collaborative means i.e. LinkedIn, Facebook, Twitter and GitHub.
+
+### Website Developer 
+
+As the sole developer, I am aiming to contribute towards the project goals and strategy
