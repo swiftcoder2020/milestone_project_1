@@ -16,6 +16,14 @@
       - Employers and Recruiters
       - Website Developer
    4. Scope
+   5. Structure
+   6. Skeleton
+   7. Surface
+3. Features
+4. Technologies Utilised
+5. Testing
+6. Deployment
+7. Credits & Acknowledgements
 
 # Overview of the Milestone 1 Project
 
@@ -39,12 +47,33 @@ Both of these types of users operate as separate entities of their own in that t
 
 *Employers*
 
-* As a user, it is of interest
+* As a user from a prospective employer's perspective, who is seeking for a candidate within the role of a Full Stack, Front-end or Back-end Website Developer, it is of  interest to have the ability to explore the website portfolio to comprehend who that person is personally and professionally.
+* As an employer, it is of great interest to experience the ability to comprehend and assess the level of the developer's technical competencies/experience through their own project work via GitHub, that the various websites functions ideally with no bugs, they possess the ability to be practical through their problem solving skills, there is clarity in their attention to detail within the code and evidence is present that the candidate has the ability to design and construct a website through a lifecycle of processes.
+* As an employer, it is of great interest to experience the ability to recognise that the candidate possesses a level of professionalism and creativity, which reflects the website that they have built whilst placing an emphasis on accessibility.
+As an employer, there is an incentive to obtain a Curriculum Vitae which is easily shareable to other members of my company/business that assists with the decision-making to invite that candidate for an interview and potentially recruit that individual.
 
 *Recruiters*
 
-* As a user, it is of interest
+* As a user from a prospective recruiter's perspective, it is of interest
 
 ### Website Developer 
 
-As the sole developer and a candidate, I am aiming to contribute towards the project goals and strategy
+As the sole developer and a candidate, I am aiming to contribute towards the project goals and strategy of 
+
+## Scope
+
+## Structure
+
+## Skeleton
+
+## Surface
+
+# Features
+
+# Technologies Utilised
+
+# Testing
+
+# Deployment
+
+# Credits & Acknowledgements
