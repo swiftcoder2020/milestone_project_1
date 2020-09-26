@@ -3,6 +3,7 @@
 # Professional Website Portfolio of Jonathan Swift
 *Constructed as part of Code Institute's Milestone 1 Project: User-Centric Front-end Development module*
 
+# Demonstration
 <!-- Image of website portfolio responsiveness -->
 
 ## Table of Contents
@@ -34,8 +35,16 @@ As established in the aforementioned above, the product is built consciously wit
 
 ### Employers and Recruiters
 
-Employers and recruiters operate as separate entities of their own in that there is a greater likelihood of them browsing through the website portfolio, assessing one's competency levels through their own project work and connect via various professional social media/collaborative means i.e. LinkedIn, Facebook, Twitter and GitHub.
+Both of these types of users operate as separate entities of their own in that there is a greater likelihood of them browsing through the website portfolio, assessing one's competency levels through their own project work and connect via various professional social media/collaborative means i.e. LinkedIn, Facebook, Twitter and GitHub. Therefore from their perspective:
+
+*Employers*
+
+* As a user, it is of interest
+
+*Recruiters*
+
+* As a user, it is of interest
 
 ### Website Developer 
 
-As the sole developer, I am aiming to contribute towards the project goals and strategy
+As the sole developer and a candidate, I am aiming to contribute towards the project goals and strategy
