@@ -20,20 +20,20 @@
    6. Skeleton
    7. Surface
 3. Features
-4. Technologies Utilised
+4. Languages, Tools & Technologies Utilised
 5. Testing
 6. Deployment
 7. Credits & Acknowledgements
 
 # Overview of the Milestone 1 Project
 
-This first project provided an opportunity to demonstrate with evidence of my technical skills, knowledge and experience in twofold of project management and website development to construct a static front-end site, which considers encompassing all aspects of User Experience Design (UXD) that forms the core part of this development, incorporating the 5 planes methodology and utilising the languages, tool & technologies learnt within the module aforementioned.
+This first project provided an opportunity to demonstrate my technical knowledge, skills and experience in twofold of project management and website development to construct a static front-end site. Consideration is taken in encompassing all aspects of User Experience Design (UXD) that forms the core part of this development, incorporating the 5 planes methodology and utilising the languages, tool & technologies learnt within the module aforementioned.
 
 # User Experience Design (UXD)
 
 ## Project Goals
 
-The purpose in one of the four milestone projects is based on a firm decision, having considered some project ideas, to extract and utilise Code Institute's example of developing a professional website portfolio. The focal motivation serves as a specific well founded need and aligns towards my personal primary goal of accomplishing a career change, to cater for the target audience in presenting useful information to the users and reach out to potential prospective employers & recruiters.
+The purpose in one of the four milestone projects is based on a firm decision, having considered some project ideas, to extract and utilise Code Institute's example of developing a professional website portfolio. The focal motivation serves as a specific well founded personal need and aligns towards my primary goal of accomplishing a career change, to cater for the target audience in presenting useful information to the users and reach out to potential prospective employers & recruiters.
 
 ## Strategy
 
@@ -43,22 +43,31 @@ As established in the aforementioned above, the product is built consciously wit
 
 ### Employers and Recruiters
 
-Both of these types of users operate as separate entities of their own in that there is a greater likelihood of them browsing through the website portfolio, assessing one's competency levels through their own project work and connect via various professional social media/collaborative means i.e. LinkedIn, Facebook, Twitter and GitHub. Therefore from their perspective:
+Both of these types of users operate as separate entities of their own in that there is a greater likelihood of them browsing through the website portfolio, assessing one's competency levels through their own project work and connect via various professional social media/collaborative means i.e. LinkedIn, Facebook, Twitter and GitHub. Therefore from their perspective, these key points have been identified as follows:
 
-*Employers*
+#### *Employer's Perspective*
 
-* As a user from a prospective employer's perspective, who is seeking for a candidate within the role of a Full Stack, Front-end or Back-end Website Developer, it is of  interest to have the ability to explore the website portfolio to comprehend who that person is personally and professionally.
-* As an employer, it is of great interest to experience the ability to comprehend and assess the level of the developer's technical competencies/experience through their own project work via GitHub, that the various websites functions ideally with no bugs, they possess the ability to be practical through their problem solving skills, there is clarity in their attention to detail within the code and evidence is present that the candidate has the ability to design and construct a website through a lifecycle of processes.
-* As an employer, it is of great interest to experience the ability to recognise that the candidate possesses a level of professionalism and creativity, which reflects the website that they have built whilst placing an emphasis on accessibility.
-As an employer, there is an incentive to obtain a Curriculum Vitae which is easily shareable to other members of my company/business that assists with the decision-making to invite that candidate for an interview and potentially recruit that individual.
+* As a user of a prospective employer, who is seeking for a candidate within the role of a Full Stack, Front-end or Back-end Website Developer, it is of interest to have the ability to explore the website portfolio to comprehend who that person is personally and professionally.
 
-*Recruiters*
+* As an employer, it is of great interest to experience the ability to comprehend and assess the level of the developer's technical competencies/experience through their own project work via GitHub, that the various websites functions ideally with no bugs, they possess the ability to be practical through their problem solving skills, there is clarity in their attention to detail within the code and evidence is present that the candidate has the ability to design and construct a website through a lifecycle of development processes.
 
-* As a user from a prospective recruiter's perspective, it is of interest
+* As an employer, it is of great interest to experience the ability to recognise that the candidate possesses a level of professionalism and creativity, which reflects the aesthetically appealing website that they have built whilst placing an emphasis on accessibility.
+
+* As an employer, there is an incentive to obtain a Curriculum Vitae which is easily shareable to other members of their company/business that assists with the decision-making to invite that candidate for a potential interview and with a view to recruit that individual.
+
+#### *Recruiter's Perspective*
+
+* As a user of a prospective recruiter, 
+
+* As a user, there is a responsibility to identify potential developers to suggest to their portfolio of clients with specific requirements to be matched therefore 
+
+#### *Combined User's Perspectives*
+
+* As a user, the ability to 
 
 ### Website Developer 
 
-As the sole developer and a candidate, I am aiming to contribute towards the project goals and strategy of 
+As the sole candidate in being a trainee software developer, I am aiming to contribute towards the project goals and strategy of securing the opportunity of employment within the industry of website development to increase my prospects of a fulfilling career.
 
 ## Scope
 
@@ -70,7 +79,13 @@ As the sole developer and a candidate, I am aiming to contribute towards the pro
 
 # Features
 
-# Technologies Utilised
+# Languages, Tools & Technologies Utilised
+
+* Bootstrap
+* Google Fonts
+* Font Awesome
+* HTML
+* CSS
 
 # Testing
 
