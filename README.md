@@ -7,9 +7,9 @@
 
 1. Overview of the Milestone 1 Project
 2. User Experience Design (UXD)
-   * Project Goals
-   * Strategy
-   * Scope
+   1. Project Goals
+   2. Strategy
+   3. Scope
 
 # Overview of the Milestone 1 Project
 
