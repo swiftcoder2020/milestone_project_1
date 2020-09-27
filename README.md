@@ -67,7 +67,7 @@ Both of these types of users operate as separate entities of their own in that t
 
 ### Website Developer 
 
-As the sole candidate in being a trainee software developer, I am aiming to contribute towards the project goals and strategy of securing the opportunity of employment within the industry of website development to increase my prospects of a fulfilling career.
+As the sole candidate in being a trainee software developer, I am aiming to contribute towards the project goals and strategy of securing the opportunity of employment within the industry of website development to increase my prospects of a fulfilling career, which I am passionate about.
 
 ## Scope
 
