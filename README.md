@@ -49,7 +49,7 @@ Both of these types of users operate as separate entities of their own in that t
 
 * As a user of a prospective employer, who is seeking for a candidate within the role of a Full Stack, Front-end or Back-end Website Developer, it is of interest to have the ability to explore the website portfolio to comprehend who that person is personally and professionally.
 
-* As an employer, it is of great interest to experience the ability to comprehend and assess the level of the developer's technical competencies/experience through their own project work via GitHub, that the various websites functions ideally with no bugs, they possess the ability to be practical through their problem solving skills, there is clarity in their attention to detail within the code and evidence is present that the candidate has the ability to design and construct a website through a lifecycle of development processes.
+* As an employer, it is of great interest to experience the ability to comprehend and assess the level of the developer's technical competencies/experience through their own project work via GitHub, that the various websites functions ideally with no bugs, they possess the ability to be practical through their problem solving skills, there is clarity in their attention to detail within the code whilst demonstrating good practices and evidence is present that the candidate has the ability to design and construct a website through a lifecycle of development processes.
 
 * As an employer, it is of great interest to experience the ability to recognise that the candidate possesses a level of professionalism and creativity, which reflects the aesthetically appealing website that they have built whilst placing an emphasis on accessibility.
 
@@ -57,13 +57,13 @@ Both of these types of users operate as separate entities of their own in that t
 
 #### *Recruiter's Perspective*
 
-* As a user of a prospective recruiter, 
-
-* As a user, there is a responsibility to identify potential developers to suggest to their portfolio of clients with specific requirements to be matched therefore 
+* As a user, there is a responsibility to efficiently identify an accumulation of potential developers to suggest to their portfolio of clients with specific requirements to be matched therefore the functionality of the website portfolio that enables the value in accessing useful information is essential for a recommendation to take effect.
 
 #### *Combined User's Perspectives*
 
-* As a user, the ability to 
+* As a user, the ability to comprehend the purpose of the website efficiently with ease so that it can be determined effectively whether the candidate is worth pursuing.
+
+* As a user, the website portfolio provides the content which is expected to be rendered easily, swiftly and responsively via navigational links and is achieved through means of a peripheral or alternatively through various assistive technologies.
 
 ### Website Developer 
 
