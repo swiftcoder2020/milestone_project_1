@@ -12,13 +12,13 @@
 2. User Experience Design (UXD)
    1. Project Goals
    2. Strategy
-   3. User Stories
-      - Employers and Recruiters
-      - Website Developer
-   4. Scope
-   5. Structure
-   6. Skeleton
-   7. Surface
+   3. Scope
+      * User Stories
+        * Employers and Recruiters
+        * Website Developer
+   4. Structure
+   5. Skeleton
+   6. Surface
 3. Features
 4. Languages, Tools & Technologies Utilised
 5. Testing
@@ -39,13 +39,15 @@ The purpose in one of the four milestone projects is based on a firm decision, h
 
 As established in the aforementioned above, the product is built consciously with the employers and recruiters in mind to provide the ability in assessing of what I can offer, contribute and participate collaboratively overall personally and professionally. The objective of this strategy is to market myself as a product and provide value in that through the website portfolio lifecycle from inception to deployment and finally testing to enable the transition into a career change to take effect.
 
-## User Stories
+## Scope
 
-### Employers and Recruiters
+### User Stories
+
+#### Employers and Recruiters
 
 Both of these types of users operate as separate entities of their own in that there is a greater likelihood of them browsing through the website portfolio, assessing one's competency levels through their own project work and connect via various professional social media/collaborative means i.e. LinkedIn, Facebook, Twitter and GitHub. Therefore from their perspective, these key points have been identified as follows:
 
-#### *Employer's Perspective*
+##### *Employer's Perspective*
 
 * As a user of a prospective employer, who is seeking for a candidate within the role of a Full Stack, Front-end or Back-end Website Developer, it is of interest to have the ability to explore the website portfolio to comprehend who that person is personally and professionally.
 
@@ -55,21 +57,19 @@ Both of these types of users operate as separate entities of their own in that t
 
 * As an employer, there is an incentive to obtain a Curriculum Vitae which is easily shareable to other members of their company/business that assists with the decision-making to invite that candidate for a potential interview and with a view to recruit that individual.
 
-#### *Recruiter's Perspective*
+##### *Recruiter's Perspective*
 
 * As a user, there is a responsibility to efficiently identify an accumulation of potential developers to suggest to their portfolio of clients with specific requirements to be matched therefore the functionality of the website portfolio that enables the value in accessing useful information is essential for a recommendation to take effect.
 
-#### *Combined User's Perspectives*
+##### *Combined User's Perspectives*
 
 * As a user, the ability to comprehend the purpose of the website efficiently with ease so that it can be determined effectively whether the candidate is worth pursuing.
 
 * As a user, the website portfolio provides the content which is expected to be rendered easily, swiftly and responsively via navigational links and is achieved through means of a peripheral or alternatively through various assistive technologies.
 
-### Website Developer 
+#### Website Developer 
 
 As the sole candidate in being a trainee software developer, I am aiming to contribute towards the project goals and strategy of securing the opportunity of employment within the industry of website development to increase my prospects of a fulfilling career, which I am passionate about.
-
-## Scope
 
 ## Structure
 
