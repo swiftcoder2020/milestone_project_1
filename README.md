@@ -81,7 +81,7 @@ As the sole candidate in being a trainee software developer, I am aiming to cont
 
 # Languages, Tools & Technologies Utilised
 
-* Bootstrap
+* Bootstrap v4.5.2
 * Google Fonts
 * Font Awesome
 * HTML
