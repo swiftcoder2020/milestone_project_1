@@ -99,6 +99,8 @@ As the sole candidate in being a trainee software developer, I am aiming to cont
 
 ## Media
 
-## Acknowledgement
+## Acknowledgements
 
-* User Centric front-end development lead [Jim Morel](https://github.com/JimLynx) for his sterling work in providing a webinar to assist with Milestone 1 Project preparations, [Aukje van der Wal](https://github.com/byIlsa) for her support in getting me started when I had a confidence doubting moment of not knowing what to do.
+* The Slack Community at Code Institute for their great support
+
+* User Centric front-end development lead [Jim Morel](https://github.com/JimLynx) for his sterling work in providing a webinar to assist with Milestone 1 Project preparations, [Aukje van der Wal](https://github.com/byIlsa) for her support in commencing the project when I had a confidence doubting moment of not knowing what to do.
