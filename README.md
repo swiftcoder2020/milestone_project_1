@@ -23,7 +23,7 @@
 4. Languages, Tools & Technologies Utilised
 5. Testing
 6. Deployment
-7. Credits & Acknowledgements
+7. Credits
 
 # Overview of the Milestone 1 Project
 
@@ -91,4 +91,14 @@ As the sole candidate in being a trainee software developer, I am aiming to cont
 
 # Deployment
 
-# Credits & Acknowledgements
+# Credits
+
+## Code
+
+## Content
+
+## Media
+
+## Acknowledgement
+
+* Jim Morel for his sterling work in providing a webinar to assist with Milestone 1 Project preparations, Aukje van der Wal for her support in getting me started when I had a confidence doubting moment of not knowing what to do.
