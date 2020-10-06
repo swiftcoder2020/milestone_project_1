@@ -35,7 +35,9 @@ The purpose in one of the four milestone projects is based on a firm decision, h
 
 ## Strategy
 
-As established in the aforementioned above, the product is built consciously with the employers and recruiters in mind to provide the ability in assessing of what I can offer, contribute and participate collaboratively overall personally and professionally. The objective of this strategy is to market myself as a product and provide value in that through the website portfolio lifecycle from inception to deployment and finally testing to enable the transition into a career change to take effect.
+As established above, the product is built consciously with the employers and recruiters in mind to provide the ability in assessing of what I can offer, contribute and participate collaboratively overall personally and professionally. The objective of this strategy is to market myself as a product and provide value in that through the website portfolio lifecycle from inception to deployment and finally testing to enable the transition into a career change to take effect.
+
+With this in mind, the primary focus was to project into the build of a subtle yet appealing website portfolio that encompasses the learning principles and methodologies into the CI's Full Stack Website Development course to demonstrate the effect of good judgements & practices into the design
 
 ## Scope
 
@@ -74,6 +76,8 @@ Both of these types of users operate as separate entities of their own processes
 As a trainee software developer in being a sole candidate, I am aiming to wholly contribute towards the project goals and strategy of securing the opportunity of employment within the industry of website development to increase my prospects of a fulfilling career, which I am passionate about.
 
 ## Structure
+
+
 
 ## Skeleton
 
