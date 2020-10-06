@@ -14,8 +14,6 @@
    2. Strategy
    3. Scope
       * User Stories
-        * Employers and Recruiters
-        * Website Developer
    4. Structure
    5. Skeleton
    6. Surface
@@ -43,33 +41,37 @@ As established in the aforementioned above, the product is built consciously wit
 
 ### User Stories
 
-#### Employers and Recruiters
+1. Employers and Recruiters
 
-Both of these types of users operate as separate entities of their own in that there is a greater likelihood of them browsing through the website portfolio, assessing one's competency levels through their own project work and connect via various professional social media/collaborative means i.e. LinkedIn, Facebook, Twitter and GitHub. Therefore from their perspective, these key points have been identified as follows:
+Both of these types of users operate as separate entities of their own processes in that there is a different approach when it comes to browsing through the website portfolio, assessing one's competency levels through their own project work and connecting via various professional social media/collaborative means i.e. LinkedIn, Facebook, Twitter and GitHub. Therefore from their perspective, these key points have been identified as follows:
 
-##### *Employer's Perspective*
+#### *Employer's Perspective*
 
-* As a user of a prospective employer, who is seeking for a candidate within the role of a Full Stack, Front-end or Back-end Website Developer, it is of interest to have the ability to explore the website portfolio to comprehend who that person is personally and professionally.
+* As a user of a prospective employer, who is seeking for a candidate within the role of a Full Stack, Front-end or Back-end Website Developer, it is of interest when there is the ability to explore the website portfolio in order to comprehend who that person is personally and professionally.
 
-* As an employer, it is of great interest to experience the ability to comprehend and assess the level of the developer's technical competencies/experience through their own project work via GitHub, that the various websites functions ideally with no bugs, they possess the ability to be practical through their problem solving skills, there is clarity in their attention to detail within the code whilst demonstrating good practices and evidence is present that the candidate has the ability to design and construct a website through a lifecycle of development processes.
+* As an employer, it is of great value to experience the ability to comprehensively understand and assess the level of the developer's technical competencies/experiences through their own project work via GitHub, that the various websites functions ideally with no bugs, they possess the ability to be practical through their problem solving skills, there is clarity in their attention to detail within the code whilst demonstrating good practices and evidence is present that the candidate has the ability to design through the concept of UX and construct a website by considering the lifecycle of development processes.
 
-* As an employer, it is of great interest to experience the ability to recognise that the candidate possesses a level of professionalism and creativity, which reflects the aesthetically appealing website that they have built whilst placing an emphasis on accessibility.
+* As an employer, it is of great interest to experience the ability to recognise that the candidate possesses a level of professionalism, methodology & creativity, which reflects the aesthetically appealing website that they have built whilst placing an emphasis on accessibility.
 
 * As an employer, there is an incentive to obtain a Curriculum Vitae which is easily shareable to other members of their company/business that assists with the decision-making to invite that candidate for a potential interview and with a view to recruit that individual.
 
-##### *Recruiter's Perspective*
+#### *Recruiter's Perspective*
 
-* As a user, there is a responsibility to efficiently identify an accumulation of potential developers to suggest to their portfolio of clients with specific requirements to be matched therefore the functionality of the website portfolio that enables the value in accessing useful information is essential for a recommendation to take effect.
+* As a user, there is a continuous responsibility to efficiently identify from an accumulation of potential employable developers to suggest to their portfolio of clients with various specific criterias that ticks most boxes in becoming a good match to be recruited into the company/business of many forms whether small, medium or large. In effect, the responsive performance into the functionality of the website portfolio enables the value in accessing useful information, is essential for a recommendation to a client to take effect.
 
-##### *Combined User's Perspectives*
+#### *Combined User's Perspectives*
 
-* As a user, the ability to comprehend the purpose of the website efficiently with ease so that it can be determined effectively whether the candidate is worth pursuing.
+* As a user, the ability to instantly establish the purpose of the website efficiently with ease can determine effectively whether the candidate is worth pursuing.
 
 * As a user, the website portfolio provides the content which is expected to be rendered easily, swiftly and responsively via navigational links and is achieved through means of a peripheral or alternatively through various assistive technologies.
 
-#### Website Developer 
+* As a user, the ability to assess the history of an education and employment nature is a contributory factor in potentially interviewing and recruiting the candidate, especially when the candidate updates their website with new examples of their project work.
 
-As the sole candidate in being a trainee software developer, I am aiming to contribute towards the project goals and strategy of securing the opportunity of employment within the industry of website development to increase my prospects of a fulfilling career, which I am passionate about.
+* As a user, there is a range of means in contacting the candidate through a form via the website, or alternative methods such as social media, email or telephone/mobile number.
+
+2. Website Developer 
+
+As a trainee software developer in being a sole candidate, I am aiming to wholly contribute towards the project goals and strategy of securing the opportunity of employment within the industry of website development to increase my prospects of a fulfilling career, which I am passionate about.
 
 ## Structure
 
