@@ -1,0 +1,46 @@
+/* -----Header----- */
+
+.custom-bg {
+    background-color: #d0e4fe;
+}
+
+.portfolio-links {
+    font-family: "Ar Cena", sans-serif;
+    font-size: 20px;
+    font-weight: bold;   
+}
+
+.nav-item {
+    padding: 0px 10px;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #147ed7;
+}
+
+.navbar-light .navbar-nav .active > .nav-link {
+    color: #7f7f7f;
+}
+
+.navbar-light .nav-item:focus .nav-link,
+.navbar-light .nav-item:hover .nav-link {
+    color: #7f7f7f;
+}
+
+.border-md-right {
+    border-right: 3px solid #ffffff;
+}
+
+/* -----Media queries----- */
+
+@media (min-width: 767px) {
+    .portfolio-links {
+        font-size: 35px;   
+    }
+}
+
+@media (max-width: 575px) {
+    .border-md-right {
+        border-right: none;
+    }    
+}
