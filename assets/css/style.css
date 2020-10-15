@@ -1,46 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&display=swap');
+
+/* -----Special text----- */
+
+.general-font {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+}
+
 /* -----Header----- */
 
 .custom-bg {
-    background-color: #d0e4fe;
-}
-
-.portfolio-links {
-    font-family: "Ar Cena", sans-serif;
-    font-size: 20px;
-    font-weight: bold;   
+    background-color: #d8e9fe;
 }
 
 .nav-item {
-    padding: 0px 10px;
+    padding: 0px 15px;
 }
 
 .navbar-light .navbar-nav .nav-link {
-    color: #147ed7;
+    font-family: "Ar Cena", sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    color: #3066be;
 }
 
 .navbar-light .navbar-nav .active > .nav-link {
-    color: #7f7f7f;
+    color: #686868;
 }
 
 .navbar-light .nav-item:focus .nav-link,
 .navbar-light .nav-item:hover .nav-link {
-    color: #7f7f7f;
+    color: #686868;
 }
 
 .border-md-right {
     border-right: 3px solid #ffffff;
 }
 
+/* -----Footer----- */
+
+.footer-container {
+    background-color: #3066be;
+    color: #ffffff;
+}
+
+.footer-heading {
+    font-family: "Freestyle Script", sans-serif;
+    font-size: 2.75em;
+    font-weight: bold;
+}
+
+.cv-pdf i {
+    font-size: 20px;
+    text-align: center;
+    color: #d8e9fe;
+    transition: width 1s, height 1s, transform 1s;
+}
+
+.cv-pdf i:hover {
+    color: #ffffff;
+    transform: scale(1.3);
+    -ms-transform: scale(1.3);
+    -webkit-transform: scale(1.3);        
+}
+
+.social-links li a i {
+    height: 35px;
+    width: 35px;
+    padding: 14px 0;
+    border-radius: 50%;
+    font-size: 25px;
+    line-height: 8px;
+    text-align: center;
+    color: #3066be;
+    background: #d8e9fe;
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+}
+
+.social-links li a i:hover {
+    color: #686868;
+    background: #ffffff;
+    transform: scale(1.3);
+    -ms-transform: scale(1.3);
+    -webkit-transform: scale(1.3);
+}
+
+.footer-block {
+    padding-top: 15px;
+}
+
 /* -----Media queries----- */
 
 @media (min-width: 767px) {
     .portfolio-links {
-        font-size: 35px;   
+        font-size: 30px;
     }
 }
 
 @media (max-width: 575px) {
     .border-md-right {
         border-right: none;
-    }    
+    }
 }
