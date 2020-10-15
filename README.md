@@ -100,6 +100,8 @@ For the purpose of providing the skeleton of the website portfolio, I had decide
 
 # Testing
 
+<!-- realised that I hadn't considered the element of accessibility, therefore amended the colour scheme slightly as the contrast ration was a bit low after running through https://www.accessible-colors.com -->
+
 # Deployment
 
 # Credits
