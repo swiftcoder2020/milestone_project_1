@@ -1,4 +1,6 @@
-<img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;"><img src="assets/images/learning-people-logo.png" style="margin: 0;">
+<div>
+   <img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">   <img src="assets/images/learning-people-logo.png" style="margin: 0;">
+</div>
 
 # Professional Website Portfolio of Jonathan Swift
 *Constructed as part of Code Institute's Milestone 1 Project: User-Centric Front-End Development module*
