@@ -5,7 +5,7 @@
 .general-font {
     font-family: "Montserrat", sans-serif;
     font-weight: 400;
-    font-size: 16px;
+    font-size: 1rem;
 }
 
 /* -----Header----- */
@@ -20,7 +20,7 @@
 
 .navbar-light .navbar-nav .nav-link {
     font-family: "Ar Cena", sans-serif;
-    font-size: 20px;
+    font-size: 1.25rem;
     font-weight: bold;
     color: #3066be;
 }
@@ -48,7 +48,7 @@
 }
 
 .cv-pdf i {
-    font-size: 20px;
+    font-size: 1.25rem;
     text-align: center;
     color: #d8e9fe;
     transition: width 1s, height 1s, transform 1s;
@@ -66,7 +66,7 @@
     width: 35px;
     padding: 14px 0;
     border-radius: 50%;
-    font-size: 25px;
+    font-size: 1.5rem;
     line-height: 8px;
     text-align: center;
     color: #3066be;
@@ -135,12 +135,12 @@
 
 @media (min-width: 675px) {
     .navbar-light .navbar-nav .nav-link {
-        font-size: 25px;
+        font-size: 1.5rem;
     }
 }
 
 @media (min-width: 768px) {
     .navbar-light .navbar-nav .nav-link {
-        font-size: 30px;
+        font-size: 1.8rem;
     }
 }
