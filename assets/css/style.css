@@ -20,7 +20,7 @@
 
 .navbar-light .navbar-nav .nav-link {
     font-family: "Ar Cena", sans-serif;
-    font-size: 30px;
+    font-size: 20px;
     font-weight: bold;
     color: #3066be;
 }
@@ -32,10 +32,6 @@
 .navbar-light .nav-item:focus .nav-link,
 .navbar-light .nav-item:hover .nav-link {
     color: #686868;
-}
-
-.border-md-right {
-    border-right: 3px solid #ffffff;
 }
 
 /* -----Footer----- */
@@ -94,12 +90,15 @@
 }
 
 /* -----Media queries----- */
-
-@media (min-width: 767px) {
-    .portfolio-links {
-        font-size: 30px;
+@media (min-width: 320px) {
+    img {
+        height: 95%;
+        width: 95%;
     }
+}
 
+
+@media (min-width: 576px) {
     .underline {
         text-decoration: none;
         position: relative;
@@ -128,10 +127,20 @@
         width: 80%;
         background: #3066be;
     }
+
+    .border-md-right {
+        border-right: 3px solid #ffffff;
+    }
 }
 
-@media (max-width: 575px) {
-    .border-md-right {
-        border-right: none;
+@media (min-width: 675px) {
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 25px;
+    }
+}
+
+@media (min-width: 768px) {
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 30px;
     }
 }
