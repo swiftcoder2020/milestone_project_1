@@ -117,6 +117,8 @@ For the purpose of providing the skeleton of the website portfolio, I had decide
 
 <!-- realised that I hadn't considered the element of accessibility, therefore amended the colour scheme slightly as the contrast ration was a bit low after running through https://www.accessible-colors.com -->
 
+<!-- logo image was overflowing, yet after consulting with the slack community it was because the logo was set at 320px and needed to be set at 200px -->
+
 # Deployment
 
 # Credits
