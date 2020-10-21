@@ -3,7 +3,6 @@
 * {
     margin: 0;
     padding: 0;
-    
 }
 
 /* -----Special text----- */
@@ -36,36 +35,11 @@
     color: #3066be;
 }
 
-.navbar-light .navbar-nav .active > .nav-link {
-    color: #686868;
-}
-
+.navbar-light .nav-item.active .nav-link,
 .navbar-light .nav-item:focus .nav-link,
 .navbar-light .nav-item:hover .nav-link {
     color: #686868;
 }
-
-/* -----Carousel----- */
-
-.carousel-image {
-    object-fit: contain;
-}
-
-.carousel-container {
-    background-color: #e8e8e8;
-}
-
-#portfolio-carousel {
-    width: 50%;
-    margin: 0 auto;    
-}
-
-.carousel-inner {
-    position: relative;
-}
-
-/* -----Callout image----- */
-
 
 /* -----Footer----- */
 
