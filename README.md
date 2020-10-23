@@ -119,6 +119,8 @@ For the purpose of providing the skeleton of the website portfolio, I had decide
 
 <!-- logo image was overflowing, yet after consulting with the slack community it was because the logo was set at 320px and needed to be set at 200px -->
 
+<!-- experienced a margin/padding issue to Bootstrap's grid whereby each skill block wasn't being separated -->
+
 # Deployment
 
 # Credits
