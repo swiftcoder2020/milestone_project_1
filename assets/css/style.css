@@ -73,8 +73,8 @@
     width: 35px;
     padding: 14px 0;
     border-radius: 50%;
-    font-size: 1.5rem;
     line-height: 8px;
+    font-size: 1.5rem;
     text-align: center;
     color: #3066be;
     background: #d8e9fe;
@@ -93,7 +93,54 @@
 }
 
 .footer-block {
-    padding: 15px;
+    padding: 5px 15px;
+}
+
+/* -----Skills----- */
+
+.main-container {
+    /* first value in margin accounts for top & bottom, second for left & right */
+    margin: 10px 0px;
+}
+
+.skills-title {
+    font-family: "Freestyle Script", sans-serif;
+    font-size: 2.25em;
+    font-weight: bold;
+    text-align: center;
+    color: #3066be;
+}
+
+.block-container {
+    height: 175px;
+    width: auto;
+    margin: 10px 0px;
+    padding: 15px 15px;
+    background-color: #d8e9fe;
+}
+
+.skills-heading {
+    margin-bottom: 15px;
+    font-family: "Ar Cena", sans-serif;
+    font-size: 1.5rem;
+    text-align: center;
+    color: #686868;
+}
+
+.progress {
+    position: relative;
+    height: 25px;
+    width: auto;
+    margin-bottom: 15px;
+}
+
+.progress-type {
+    position: absolute;
+    padding: 13px 10px 12px 10px;
+    background-color: rgba(25, 25, 25, 0.2);
+    font-family: "Montserrat", sans-serif;
+    font-size: 0.75rem;
+    color: #ffffff;
 }
 
 /* -----Media queries----- */
@@ -129,6 +176,10 @@
 
     .border-md-right {
         border-right: 3px solid #ffffff;
+    }
+
+    .footer-block {
+        padding: 10px 15px;
     }
 }
 
