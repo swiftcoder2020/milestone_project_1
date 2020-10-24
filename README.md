@@ -131,7 +131,8 @@ For the purpose of providing the skeleton of the website portfolio, I had decide
 
 ## Media
 
-<!-- https://www.pexels.com/photo/notebook-and-pen-beside-red-mug-on-gray-surface-3774057/ -->
+<!-- https://www.pexels.com/ -->
+<!-- https://www.iconfinder.com/ -->
 
 ## Acknowledgements
 
