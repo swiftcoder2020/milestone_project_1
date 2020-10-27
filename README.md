@@ -121,6 +121,8 @@ For the purpose of providing the skeleton of the website portfolio, I had decide
 
 <!-- experienced a margin/padding issue to Bootstrap's grid whereby each skill block wasn't being separated -->
 
+<!-- code validators from w3c, manually checking on different browsers, document the process -->
+
 # Deployment
 
 # Credits
