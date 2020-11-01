@@ -123,6 +123,8 @@ For the purpose of providing the skeleton of the website portfolio, I had decide
 
 <!-- code validators from w3c, manually checking on different browsers, document the process -->
 
+<!-- had issue with fixed-top on navbar but fixed it with putting body { padding-top: 80px; } at mobile view, then at laptop view increased this in media queries to 130px and also increased the viewheight of hero image to 70vh. Source: https://stackoverflow.com/questions/11124777/twitter-bootstrap-navbar-fixed-top-overlapping-site -->
+
 # Deployment
 
 # Credits
