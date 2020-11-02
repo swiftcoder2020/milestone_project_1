@@ -5,6 +5,10 @@
     padding: 0;
 }
 
+body {
+    padding-top: 80px;
+}
+
 /* -----Special text----- */
 
 .general-font {
@@ -99,6 +103,50 @@
     padding: 5px 15px;
 }
 
+/* -----Introduction----- */
+
+.hero-images {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    position: relative;
+    height: 45vh;
+}
+
+.index-hero-image {
+    background-image: url("../images/workspace.jpg");    
+}
+
+.profile-hero-image {
+    background-image: url("../images/cycling.jpg");
+}
+
+.contact-hero-image {
+    background-image: url("../images/collaborate.jpg");
+}
+
+.hero-text h3 {
+    font-family: "Ar Cena", sans-serif;
+    font-size: 1.5rem;
+    color: #3066be;
+}
+
+.hero-text h4 {
+    font-family: "Montserrat", sans-serif;
+    font-size: 1rem;
+}
+
+.hero-text {
+    position: absolute;
+    bottom: 10px;
+    margin: 0 10px;
+    background-color: rgba(255, 255, 255, 0.7);
+    border: 1px solid #ffffff;
+    border-radius: 1rem;
+    padding: 10px;
+    text-align: center;
+}
+
 /* -----Skills----- */
 
 .main-container {
@@ -149,6 +197,7 @@
     width: auto;
     line-height: 2;
     margin-bottom: 12px;
+    border: 1px solid #3066be;
 }
 
 .progress-type {
@@ -197,6 +246,12 @@
     background-color: #8BC3FC;
 }
 
+/* -----Carousel----- */
+
+#portfolio-carousel {
+    
+}
+
 /* -----Media queries----- */
 
 @media (min-width: 576px) {
@@ -242,9 +297,19 @@
     .navbar-light .navbar-nav .nav-link {
         font-size: 1.5rem;
     }
+
+    .hero-text {    
+        margin: 0;
+        right: 10px;
+        width: 25rem;
+    }
 }
 
-@media (min-width: 1024px) {
+@media (min-width: 1024px) {   
+    body {
+        padding-top: 130px;
+    }
+    
     .logo {
         width: auto;
         height: auto;
@@ -253,4 +318,19 @@
     .navbar-light .navbar-nav .nav-link {
         font-size: 1.875rem;
     }
+
+    .hero-images {
+        height: 70vh;
+    }
+
+    .hero-text {
+        bottom: 45%;
+        right: 3%;
+        letter-spacing: 3px;
+    }
+
+    .hero-text h4 {
+        line-height: 1.6;
+    }
+
 }
