@@ -6,7 +6,7 @@
 *Constructed as part of Code Institute's Milestone 1 Project: User-Centric Front-End Development module*
 
 # Demonstration
-<!-- Image of website portfolio responsiveness via various devices from mobile to desktop PC -->
+<!-- Image of website portfolio responsiveness via various devices from mobile phone to desktop PC -->
 
 [Active link to the website portfolio](https://swiftcoder2020.github.io/ms1_portfolio_project/)
 
@@ -30,7 +30,7 @@
 
 # Overview of the Milestone 1 Project
 
-This first project provides an opportunity to demonstrate my technical knowledge and skills learnt within the Full Stack Website Development course, yet blending in some experience in both aspects of project management and website development respectively to construct a static front-end site. Consideration is taken in encompassing all aspects of User Experience Design (UXD) that forms the core part of this development, incorporating the 5 planes methodology and utilising the languages, tool & technologies learnt within the module aforementioned.
+This first project provides an opportunity to demonstrate my technical knowledge and skills learnt within the Full Stack Website Development course, yet blending in some experience in both aspects of project management and website development respectively to construct a static front-end site. Consideration is taken in encompassing all aspects of User Experience Design (UXD) that forms the core part of this development, incorporating the 5 planes methodology, ensuring the responsiveness of the website and utilising the languages, tool & technologies learnt within the module aforementioned.
 
 # User Experience Design (UXD)
 
