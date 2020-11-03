@@ -60,9 +60,9 @@ Both of these types of users operate as separate entities of their own processes
 
 * As an employer, it is of great value to experience the ability in browsing through a candidate's website portfolio to grasp key relevant information via the content that is provided based on a Curriculum Vitae, which is rendered correctly through the design methodology and principles, whilst expressing creativity that reflects the aesthetically appealing product that the individual has built and places an emphasis on accessibility.
 
-* As a user in wanting to employ a candidate, consideration is taken in the great value towards a level of professionalism whereby, the ability to comprehensively understand and assess the developer's technical competencies/logical thinking/experiences through their own project works by way of GitHub, and an active link is offered to demonstrate their capability to reach the goal of being invited for an interview, on the basis of how well a candidate achieves being matched to a job description and person specification.
+* As a user in wanting to employ a candidate, consideration is taken in the great value towards a level of professionalism whereby, the ability to consciously understand and assess the developer's technical competencies/logical thinking/experiences through their own project works by way of GitHub or via their ISP hosting's URL. An active link is offered to demonstrate their capability to reach the goal of being invited for an interview, on the basis of how well a candidate achieves being matched to a job description and person specification.
 
-* As an employer, there is an incentive to obtain a Curriculum Vitae which is easily shareable to other members of their company/business that assists with the decision-making to invite that candidate for a potential interview and with a view to recruit that individual.
+* As an employer, there is an incentive to obtain a Curriculum Vitae which is easily shareable to other members of their company/business within the interview panel that assists with the decision-making to invite that candidate for a potential interview and with a view to recruit that individual.
 
 #### *Recruiter's Perspective*
 
@@ -80,7 +80,13 @@ Both of these types of users operate as separate entities of their own processes
 
 2. Website Developer 
 
-As a trainee Full Stack Website Developer, I am solely aiming to contribute towards the project goals and strategy, endeavouring to secure the opportunity of employment within the industry of website development to increase my prospects of a fulfilling career, which I am passionate about. It is through my technical knowledge, skills and capability that I have an interest in comprehending the full aspects of how a website is developed through current languages, tools & technologies to make a difference in people's personal & professional lives through my coding ability.
+As a trainee Full Stack Website Developer, I am solely aiming to fully contribute towards the project goals and strategy, endeavouring to secure the opportunity of employment within the industry of website development to increase my prospects of a fulfilling career, which I am passionate about. It is through my technical knowledge, skills and capability that I have an interest in comprehending the full aspects of how a website is developed through current languages, tools & technologies to make a difference in people's personal & professional lives through my coding ability.
+
+
+
+
+
+
 
 <!-- On consideration of the content requirements which contributes towards the scope and having undertaken research into what constitutes as appropriate features that is currently available
 
@@ -94,7 +100,7 @@ to incorporate & utilise from the framework such as a progress bar to portray th
 
 Previous experience in website development has enabled me to identify within this milestone project that a site structure is required when undertaking the planning preparations to construct a website, and to this day as of September 2020 this is no different given that it concerns the organisational and navigational schemas.
 
-[Website Portfolio Site Structure] (https://github.com/swiftcoder2020/ms1_portfolio_project/blob/master/assets/wireframes/website_portfolio_site_map.png)
+[Website Portfolio Site Structure](https://github.com/swiftcoder2020/ms1_portfolio_project/blob/master/assets/wireframes/website_portfolio_site_map.png)
 
 
 ## Skeleton
