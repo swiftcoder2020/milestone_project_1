@@ -8,7 +8,7 @@
 # Demonstration
 <!-- Image of website portfolio responsiveness via various devices from mobile to desktop PC -->
 
-[Active link to the website portfolio] (https://swiftcoder2020.github.io/ms1_portfolio_project/)
+[Active link to the website portfolio](https://swiftcoder2020.github.io/ms1_portfolio_project/)
 
 ## Table of Contents
 
