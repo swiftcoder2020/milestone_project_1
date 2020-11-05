@@ -44,7 +44,7 @@ As established above, the product is built consciously with the employers and re
 
 With this in mind, the primary focus is to project into the build of a website as a subtle yet bold, professional portfolio that encompasses the learning principles and methodologies from the course, whilst utilising various resources to ensure it is user-friendly and well-structured. The aim of this is to convey to prospective employers in assisting them to achieve their goal in the duration of their browsing experience to provide that value.
 
-In the duration of the conception stage in planning for this project, research was undertaken to establish what other portfolio based websites had been developed and through my educational knowledge and some professional experience, I was able to factor in the user's viewpoint by visiting those examples to utilise the current tools and technologies to ascertain the appropriate features, design & styling themes and structure. Through experience, I identified that the target audience is going to be diverse, thus the website portfolio requires to cater for this wide net of opportunities.
+In the duration of the conception stage in planning for this project, research was undertaken to establish what other portfolio based websites had been developed and through my educational knowledge and some professional experience, I was able to factor in the user's viewpoint by visiting those examples to utilise the current tools and technologies to ascertain the appropriate features, design & styling themes, especially making colour & images accessible and structure. Through experience, I identified that the target audience is going to be diverse, thus the website portfolio requires to cater for this wide net of opportunities.
 
 ## Scope
 
@@ -62,45 +62,45 @@ Both of these types of users operate as separate entities with their own process
 
 * As a user in wanting to employ a candidate, great value is identified towards the confidence in the capability of skillfully coding the website, whilst expressing creativity that reflects the aesthetically appealing product that the individual has built and places an emphasis on accessibility.
 
-<!-- DO NOT CHANGE THE CONTENT AT THIS POINT!! -->
-
 #### *Recruiter's Perspective*
 
-* As a user of a recruiter, there is a continuous responsibility to efficiently identify, from an accumulation of potential employable developers, to suggest to their portfolio of clients. Various specific criterias are determined by striving to target suitable candidates that is a good match for the client representing a company/business in many forms whether small, medium or large. Therefore in effect, the responsive performance into the functionality of the website portfolio enables the great value in accessing useful information, is essential for a recommendation to a client to take effect.
+* As a user of a recruiter, there is a continuous responsibility to efficiently identify from an accumulation of potential developers, to suggest to their portfolio of clients who will have various specific criterias that are determined from a range of companies/businesses whether small, medium or large. Therefore in effect, the responsive performance into the functionality of the website portfolio enables the great value in accessing useful information, is essential for a recommendation to a client to take effect.
+
+* As a recruiter, it is difficult to grasp the in-depth knowledge of the employer that determines whether the targeted suitable candidates is a good match to the representative client's requirements therefore by obtaining a Curriculum Vitae which is widely recognised, it concisely outlines the skills of various candidates and assesses their employment & educational history.
+
+* As a user, we receive requests to fill positions on a temporary/contractual basis or identify talents from large firms therefore candidates will need to demonstrate with proof of their capability to ensure that the role is accomplished or sustained respectively.
 
 #### *Combined User's Perspectives*
 
 * As a combination of users, there is the viewpoint that by browsing, the website portfolio provides the content which is expected to be rendered fluently, swiftly and responsively via accessing active navigational links and is achieved through means of a peripheral or alternatively through various assistive technologies.
 
-* As a user, a contributory factor in interviewing and recruiting the candidate is based upon assessing the background history into their education and employment, especially when the developer updates their website with new examples of recent project work.
+* As a user, a contributory factor in interviewing and recruiting the candidate is based upon assessing the background history into their education and employment, especially when the developer updates their website or GitHub with new examples of recent project work.
 
-* As a user, the ability to instantly establish the purpose of the website efficiently with ease can determine effectively whether the candidate is worth pursuing.
+* As a user, the ability to instantly establish the purpose of the website efficiently with ease through content which can determine effectively whether the candidate is worth pursuing.
 
-* As a user, there is a range of means in contacting the candidate through a form via the website, or alternative methods such as social media, email or telephone/mobile number.
+* As a user, there is a range of means in contacting the candidate through a form via the website, or alternative methods such as social media, email or telephone/mobile number provided via their Curriculum Vitae.
 
 2. Website Developer 
 
 As a trainee Full Stack Website Developer, I am solely aiming to fully contribute towards the project goals and strategy, endeavouring to secure the opportunity of employment within the industry of website development to increase my prospects of a fulfilling career, which I am passionate about. It is through my technical knowledge, skills and capability that I have an interest in comprehending the full aspects of how a website is developed through current languages, tools & technologies to make a difference in people's personal & professional lives through my coding ability.
 
-
-
-
-
-
-
-<!-- On consideration of the content requirements which contributes towards the scope and having undertaken research into what constitutes as appropriate features that is currently available
-
-into the website portfolio which enhances the elements of the Curriculum Vitae, I have identified by way of Bootstrap and other tools or technologies, what these will consist of
-
-to incorporate & utilise from the framework such as a progress bar to portray the current skills -->
-
 ## Structure
+
+The purpose of the Structure plane is to provide the aforementioned users within the Scope an enhanced view aesthetically of a Curriculum Vitae which can be sectioned out accordingly to various separate webpages as deemed fit in order to break up the content as opposed to incorporating them all into one page. I feel with some website development experience that with reference to the Structure illustration chart, I have identified that this website is simple and linear with a view for it to be in the middle of the ball-park per se as I develop the website deeply to create a high standard website portfolio. The navigation will feature a fixed-top feature that will enable users to scroll down effortlessly ensuring that the navigational links remain visible no matter how far down the content goes.
 
 ### *Information Architecture*
 
-Previous experience in website development has enabled me to identify within this milestone project that a site structure is required when undertaking the planning preparations to construct a website, and to this day as of September 2020 this is no different given that it concerns the organisational and navigational schemas.
+Previous reasonable experience in website development a decade ago has enabled a benefit to my advantage for this milestone project in that I had already established a site structure, which is required when undertaking the planning preparations to construct a website, and to this day as of September 2020, this is no different given that it concerns the organisational and navigational schemas.
 
 [Website Portfolio Site Structure](https://github.com/swiftcoder2020/ms1_portfolio_project/blob/master/assets/wireframes/website_portfolio_site_map.png)
+
+<!-- DO NOT CHANGE THE CONTENT AT THIS POINT!! -->
+
+
+
+
+
+
 
 
 ## Skeleton
