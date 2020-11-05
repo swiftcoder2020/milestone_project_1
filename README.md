@@ -40,7 +40,7 @@ The purpose into one of the four milestone projects is based on a firm decision,
 
 ## Strategy
 
-As established above, the product is built consciously with the employers and recruiters in mind, specifically their business recruitment objectives to provide them the value in the ability to assess what I can offer overall as a candidate, personally and professionally that is worthy for consideration into a job role applied. The objective of this strategy is to market myself as a product and provide value through the lifecycle in the development of the website portfolio, from inception to deployment and finally testing to enable the potential transition into a career change to take effect.
+As established above, the product is built consciously with the employers and recruiters in mind, specifically their business recruitment objectives to provide them the value in the ability to assess what I can offer overall as a candidate, professionally and personally that is worthy for consideration into a job role applied. The objective of this strategy is to market myself as a product and provide value through the lifecycle in the development of the website portfolio, from conception to deployment and finally testing to enable the potential transition into a career change to take effect.
 
 With this in mind, the primary focus is to project into the build of a website as a subtle yet bold, professional portfolio that encompasses the learning principles and methodologies from the course, whilst utilising various resources to ensure it is user-friendly and well-structured. The aim of this is to convey to prospective employers in assisting them to achieve their goal in the duration of their browsing experience to provide that value.
 
@@ -52,17 +52,17 @@ In the duration of the conception stage in planning for this project, research w
 
 1. Employers and Recruiters
 
-Both of these types of users operate as separate entities of their own processes in that there is a different approach when it comes to browsing through the website portfolio, assessing one's competency levels and connecting via various professional social media/collaborative means i.e. LinkedIn, Facebook, Twitter and GitHub etc. Therefore from their perspective, these key points have been identified as follows:
+Both of these types of users operate as separate entities with their own processes relating to recruitment in that there are different approaches when it comes to browsing through the website portfolio, therefore the user experience needs to cater for this such as briefly assessing one's competency levels through the content and development of the coding into the website and also connecting via various professional relevant social media/collaborative means i.e. GitHub, LinkedIn, Facebook and Twitter etc. Therefore from their perspective, these key points have been identified as follows:
 
 #### *Employer's Perspective*
 
-* As a user of a prospective employer, who is seeking for a candidate within various roles of a Full Stack, Front-end or Back-end Website Developer, it is of interest when there is the ability to explore the website portfolio in order to comprehend who that individual is personally and professionally.
+* As a user of a prospective employer, it is an incentive to experience the ability in browsing through a candidate's website portfolio to grasp key relevant information via the content, that is derived from a Curriculum Vitae which can be obtained in its traditional form for it to be easily shareable to the interview panel, assists with the decision-making to invite that candidate for a potential interview with a view to recruit that individual and that it is rendered correctly through the design methodology and principles.
 
-* As an employer, it is of great value to experience the ability in browsing through a candidate's website portfolio to grasp key relevant information via the content that is provided based on a Curriculum Vitae, which is rendered correctly through the design methodology and principles, whilst expressing creativity that reflects the aesthetically appealing product that the individual has built and places an emphasis on accessibility.
+* As an employer who is seeking for a candidate within various roles of a Full Stack, Front-end or Back-end Website Developer, it is of great value when there is the ability to explore the website portfolio to consciously understand and assess the developer's technical competencies/logical thinking in the development lifecycle/experiences through their own project works by way of GitHub or via a URL through their hosting ISP, which an active link is offered to demonstrate this.
 
-* As a user in wanting to employ a candidate, consideration is taken in the great value towards a level of professionalism whereby, the ability to consciously understand and assess the developer's technical competencies/logical thinking/experiences through their own project works by way of GitHub or via their ISP hosting's URL. An active link is offered to demonstrate their capability to reach the goal of being invited for an interview, on the basis of how well a candidate achieves being matched to a job description and person specification.
+* As a user in wanting to employ a candidate, great value is identified towards the confidence in the capability of skillfully coding the website, whilst expressing creativity that reflects the aesthetically appealing product that the individual has built and places an emphasis on accessibility.
 
-* As an employer, there is an incentive to obtain a Curriculum Vitae which is easily shareable to other members of their company/business within the interview panel that assists with the decision-making to invite that candidate for a potential interview and with a view to recruit that individual.
+<!-- DO NOT CHANGE THE CONTENT AT THIS POINT!! -->
 
 #### *Recruiter's Perspective*
 
