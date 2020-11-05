@@ -92,7 +92,7 @@ The purpose of the Structure plane is to provide the aforementioned users within
 
 Previous reasonable experience in website development a decade ago has enabled a benefit to my advantage for this milestone project in that I had already established a site structure, which is required when undertaking the planning preparations to construct a website, and to this day as of September 2020, this is no different given that it concerns the organisational and navigational schemas.
 
-[Website Portfolio Site Structure](https://github.com/swiftcoder2020/ms1_portfolio_project/blob/master/assets/wireframes/website_portfolio_site_map.png)
+[Website Portfolio Site Structure](https://github.com/swiftcoder2020/ms1_portfolio_project/wireframes/website-portfolio-sitemap.png)
 
 <!-- DO NOT CHANGE THE CONTENT AT THIS POINT!! -->
 
