@@ -19,6 +19,8 @@
    3. Scope      
       - User Stories
    4. Structure
+      - Interaction Design (IXD)
+      - Information Architecture
    5. Skeleton
       - Wireframing
    6. Surface
@@ -86,29 +88,29 @@ As a trainee Full Stack Website Developer, I am solely aiming to fully contribut
 
 ## Structure
 
-The purpose of the Structure plane is to provide the aforementioned users within the Scope an enhanced view aesthetically of a Curriculum Vitae which can be sectioned out accordingly to various separate webpages as deemed fit in order to break up the content as opposed to incorporating them all into one page. I feel with some website development experience that with reference to the Structure illustration chart, I have identified that this website is simple and linear with a view for it to be in the middle of the ball-park per se as I develop the website deeply in due course to create a high standard website portfolio. The navigation will feature a fixed-top feature that will enable users to scroll down effortlessly ensuring that the navigational links remain visible no matter how far down the content goes.
+The purpose of the Structure plane is to provide the aforementioned users within the Scope an enhanced view aesthetically of a Curriculum Vitae which can be sectioned out accordingly to various separate webpages as deemed fit in order to break up the content as opposed to incorporating them all into one page. I feel with some website development experience that with reference to the Structure illustration chart, I have identified that this website is simple and linear with a view for it to be in the middle of the ball-park per se as I develop the website deeply in due course to create a high standard website portfolio.
+
+### *Interaction Design (IXD)*
 
 ### *Information Architecture*
 
 Previous reasonable experience in website development a decade ago has enabled me to benefit to an advantage for this milestone project in that I had already established a site structure, which is required as standard when undertaking the planning preparations to construct a website, and to this day as of September 2020, this is no different given that it relates to the organisational and navigational schemas within the course.
 
-With reference to the below link to the wireframe via Balsamiq as suggested, I had originally thought of creating 7 webpages, however on reflection it was best that from a content perspective, this can be reduced to 4 webpages retaining the simplicity and these consist of:
-
-- **Home** :- A hero image would be included with a layer 
-- **Projects** :- 
-- **Profile** :-
-- **Contact** :-
-
-
+With reference to the below link to the wireframe of the site structure via Balsamiq, I had originally thought of creating 7 webpages in total, however on reflection it was best that from a content perspective, this should be reduced to 4 webpages retaining the simplicity and these consist of:
 
 [Website Portfolio Site Structure](https://github.com/swiftcoder2020/ms1_portfolio_project/blob/master/wireframes/website-portfolio-sitemap.png)
+
+- **Home** :- I plan to include a hero image with a brief introductory paragraph and perspective comprising of knowledge & experience in website development.
+- **Projects** :- This will consist of mini-projects and examples that have been developed with active links to the live websites within the course to retain its simplicity.
+- **Profile** :- Containing a hero image of my favourite hobby, a paragraph of professional background & experience and also current technological skills.
+- **Contact** :- Quite simply this will have a hero image with a brief message and a contact form.
 
 <!-- DO NOT CHANGE THE CONTENT AT THIS POINT!! -->
 
 
 
-
-
+The navigation will feature a fixed-top feature that will enable users to scroll down effortlessly ensuring that the navigational links remain visible no matter how far down the content goes.
+mobile-first approach
 
 
 
@@ -127,6 +129,7 @@ For the purpose of providing the skeleton of the website portfolio, I had decide
 * Font Awesome
 * HTML
 * CSS
+* Balsamiq
 
 # Testing
 
