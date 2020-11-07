@@ -5,10 +5,10 @@
 # Professional Website Portfolio of Jonathan Swift
 *Constructed as part of Code Institute's Milestone 1 Project: User-Centric Front-End Development module*
 
-# Demonstration
+## Demonstration
 <img src="assets/images/website-portfolio-responsiveness.png" style="margin: 0;">
 
-[Active link to the website portfolio](https://swiftcoder2020.github.io/ms1_portfolio_project/)
+**[Active link to the website portfolio](https://swiftcoder2020.github.io/ms1_portfolio_project/)**
 
 ## Table of Contents
 
