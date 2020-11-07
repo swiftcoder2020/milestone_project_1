@@ -92,13 +92,21 @@ The purpose of the Structure plane is to provide the aforementioned users within
 
 ### *Interaction Design (IXD)*
 
+In terms of the interaction design, I am conscious of the perspective in not overusing the behaviour of interactive elements, as this would overwhelm users when visiting the website portfolio, therefore my approach to this is that I wanted to implement those that are of a subtle yet appropriate use of interaction that would elicit a response that is positive. Also experience tells me that consistency in the design is crucial so this was at the forefront of my mind when approaching this project in that the layout elements e.g. header & footer, the theme colours and typography are exactly where they should be and styled so that it is pleasing to the eye visually for every webpage a user visits.
+
+
+
+
+
+<!-- The navigation will feature a fixed-top feature that will enable users to scroll down effortlessly ensuring that the navigational links remain visible no matter how far down the content goes. -->
+
 ### *Information Architecture*
 
 Previous reasonable experience in website development a decade ago has enabled me to benefit to an advantage for this milestone project in that I had already established a site structure, which is required as standard when undertaking the planning preparations to construct a website, and to this day as of September 2020, this is no different given that it relates to the organisational and navigational schemas within the course.
 
 With reference to the below link to the wireframe of the site structure via Balsamiq, I had originally thought of creating 7 webpages in total, however on reflection it was best that from a content perspective, this should be reduced to 4 webpages retaining the simplicity and these consist of:
 
-[Website Portfolio Site Structure](https://github.com/swiftcoder2020/ms1_portfolio_project/blob/master/wireframes/website-portfolio-sitemap.png)
+**[Website Portfolio Site Structure](https://github.com/swiftcoder2020/ms1_portfolio_project/blob/master/wireframes/website-portfolio-sitemap.png)**
 
 - **Home** :- I plan to include a hero image with a brief introductory paragraph and perspective comprising of knowledge & experience in website development.
 - **Projects** :- This will consist of mini-projects and examples that have been developed with active links to the live websites within the course to retain its simplicity.
@@ -109,8 +117,8 @@ With reference to the below link to the wireframe of the site structure via Bals
 
 
 
-The navigation will feature a fixed-top feature that will enable users to scroll down effortlessly ensuring that the navigational links remain visible no matter how far down the content goes.
-mobile-first approach
+
+<!-- mobile-first approach -->
 
 
 
