@@ -6,7 +6,7 @@
 *Constructed as part of Code Institute's Milestone 1 Project: User-Centric Front-End Development module*
 
 # Demonstration
-<!-- Image of website portfolio responsiveness via various devices from mobile phone to desktop PC -->
+<img src="assets/images/website-portfolio-responsiveness.png" style="margin: 0;">
 
 [Active link to the website portfolio](https://swiftcoder2020.github.io/ms1_portfolio_project/)
 
@@ -17,10 +17,10 @@
    1. Project Goals
    2. Strategy
    3. Scope      
-      * User Stories
+      - User Stories
    4. Structure
    5. Skeleton
-      * Wireframing
+      - Wireframing
    6. Surface
 3. Features
 4. Languages, Tools & Technologies Utilised
@@ -86,11 +86,20 @@ As a trainee Full Stack Website Developer, I am solely aiming to fully contribut
 
 ## Structure
 
-The purpose of the Structure plane is to provide the aforementioned users within the Scope an enhanced view aesthetically of a Curriculum Vitae which can be sectioned out accordingly to various separate webpages as deemed fit in order to break up the content as opposed to incorporating them all into one page. I feel with some website development experience that with reference to the Structure illustration chart, I have identified that this website is simple and linear with a view for it to be in the middle of the ball-park per se as I develop the website deeply to create a high standard website portfolio. The navigation will feature a fixed-top feature that will enable users to scroll down effortlessly ensuring that the navigational links remain visible no matter how far down the content goes.
+The purpose of the Structure plane is to provide the aforementioned users within the Scope an enhanced view aesthetically of a Curriculum Vitae which can be sectioned out accordingly to various separate webpages as deemed fit in order to break up the content as opposed to incorporating them all into one page. I feel with some website development experience that with reference to the Structure illustration chart, I have identified that this website is simple and linear with a view for it to be in the middle of the ball-park per se as I develop the website deeply in due course to create a high standard website portfolio. The navigation will feature a fixed-top feature that will enable users to scroll down effortlessly ensuring that the navigational links remain visible no matter how far down the content goes.
 
 ### *Information Architecture*
 
-Previous reasonable experience in website development a decade ago has enabled a benefit to my advantage for this milestone project in that I had already established a site structure, which is required when undertaking the planning preparations to construct a website, and to this day as of September 2020, this is no different given that it concerns the organisational and navigational schemas.
+Previous reasonable experience in website development a decade ago has enabled me to benefit to an advantage for this milestone project in that I had already established a site structure, which is required as standard when undertaking the planning preparations to construct a website, and to this day as of September 2020, this is no different given that it relates to the organisational and navigational schemas within the course.
+
+With reference to the below link to the wireframe via Balsamiq as suggested, I had originally thought of creating 7 webpages, however on reflection it was best that from a content perspective, this can be reduced to 4 webpages retaining the simplicity and these consist of:
+
+- **Home** :- A hero image would be included with a layer 
+- **Projects** :- 
+- **Profile** :-
+- **Contact** :-
+
+
 
 [Website Portfolio Site Structure](https://github.com/swiftcoder2020/ms1_portfolio_project/blob/master/wireframes/website-portfolio-sitemap.png)
 
