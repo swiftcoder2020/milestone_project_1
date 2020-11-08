@@ -170,6 +170,19 @@ body {
     border-radius: 10px;
     box-shadow: 0 0 5px 5px #d4d4d4;
     background-color: #d8e9fe;
+    animation-name: stretch;
+    animation-duration: .5s;
+    animation-timing-function: ease-out;
+}
+
+@keyframes stretch {
+    0% {
+        transform: scale(.5);
+    }
+    50% {}
+    100% {
+        transform: scale(1);
+    }
 }
 
 .skills-heading {
@@ -248,8 +261,14 @@ body {
 
 /* -----Carousel----- */
 
-#portfolio-carousel {
-    
+.carousel-portfolio {
+    margin-top: 10px;
+    padding: 20px 0;
+    background-color: #e8e8e8;    
+}
+
+.carousel-indicators li {
+  
 }
 
 /* -----Media queries----- */
@@ -332,5 +351,4 @@ body {
     .hero-text h4 {
         line-height: 1.6;
     }
-
 }
