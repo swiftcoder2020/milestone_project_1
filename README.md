@@ -38,7 +38,7 @@ This first project provides an opportunity to demonstrate my technical knowledge
 
 ## Project Goals
 
-The purpose into one of the four milestone projects is based on a firm decision, having considered some project ideas, to extract and utilise Code Institute's example of developing a professional website portfolio. The focal motivation serves as a specific well founded personal need and aligns towards my primary goal of accomplishing a career change, to cater for the target audience in presenting useful & relevant information which derives from the traditional Curriculum Vitae, demonstrating functionality & accessibility to the users and in conclusion, reach out to potential prospective employers & recruiters.
+The purpose into one of the four milestone projects is based on a firm decision, having considered some project ideas, to extract and utilise Code Institute's example of developing a professional website portfolio. The focal motivation serves as a specific well founded personal need and aligns towards my primary goal of accomplishing a career change, to cater for the target audience in presenting useful & relevant information which derives from the traditional Curriculum Vitae, demonstrating functionality & accessibility to the users given that it is ingrained in law and in conclusion, reach out to potential prospective employers & recruiters.
 
 ## Strategy
 
@@ -88,17 +88,21 @@ As a trainee Full Stack Website Developer, I am solely aiming to fully contribut
 
 ## Structure
 
-The purpose of the Structure plane is to provide the aforementioned users within the Scope an enhanced view aesthetically of a Curriculum Vitae which can be sectioned out accordingly to various separate webpages as deemed fit in order to break up the content as opposed to incorporating them all into one page. I feel with some website development experience that with reference to the Structure illustration chart, I have identified that this website is simple and linear with a view for it to be in the middle of the ball-park per se as I develop the website deeply in due course to create a high standard website portfolio.
+The purpose of the Structure plane is to provide the aforementioned users within the Scope an enhanced view aesthetically of a Curriculum Vitae which can be sectioned out accordingly to various separate webpages as deemed appropriate in order to break up the content and utilise the experience as opposed to incorporating them all into one page. I feel with some website development experience that with reference to the Structure illustration chart, I have identified that this website will be simple and linear with a view for it to be in the middle of the ball-park per se as I develop the website deeply in due course to create a high standard website portfolio.
 
 ### *Interaction Design (IXD)*
 
-In terms of the interaction design, I am conscious of the perspective in not overusing the behaviour of interactive elements, as this would overwhelm users when visiting the website portfolio, therefore my approach to this is that I wanted to implement those that are of a subtle yet appropriate use of interaction that would elicit a response that is positive. Also experience tells me that consistency in the design is crucial so this was at the forefront of my mind when approaching this project in that the layout elements e.g. header & footer, the theme colours and typography are exactly where they should be and styled so that it is pleasing to the eye visually for every webpage a user visits.
+In terms of the interaction design, I am conscious of the perspective in the importance of not overusing the behaviour of interactive elements, as this would overwhelm users when visiting the website portfolio, therefore my approach to this is that I wanted to implement those that are of a subtle yet appropriate use of interaction that would elicit a response that is positive and demonstrates good user experience. Also experience tells me that consistency in the design is crucial so this was at the forefront of my mind when approaching this project in that the layout elements e.g. header & footer, the theme colours and typography are exactly where they should be and styled respectively so that it is pleasing to the eye visually for every webpage a user visits. With these in mind, the following points defines what is to be included in the interaction design of the website portfolio:
 
+* The navigation will feature a fixed-top feature that will enable users to scroll down effortlessly ensuring that the navigational links remain visible no matter how far down the content goes, which will be consistent across all webpages and these are all active in functionality as convention dictates to contribute to good UX.
 
+* When users hover over or focus on each of the navigational links, interactive elements such as the colour of both the text and underline will change and in addition, the underline will expand horizontally for a nice subtle touch recognising where the mouse cursor has been directed to.
 
+* In the Current Skills section when users first views this, as the webpage loads each of the three blocks will expand in size from half to full to grasp their attention of the capability into the languages, tools & technologies on offer.
 
+* Other interactive elements such as buttons and forms function as part of the user's expectations in that it visually indicates which input field they're typing into or that the buttons are active that would create a positive response as part of the user experience in the website portfolio.
 
-<!-- The navigation will feature a fixed-top feature that will enable users to scroll down effortlessly ensuring that the navigational links remain visible no matter how far down the content goes. -->
+* Finally in the footer, interactive elements whereby once hovered over or focused on, the download icon will smoothly expand in size and Social icons such as GitHub & LinkedIn will expand in size and change in colour to encourage users to click on these links.
 
 ### *Information Architecture*
 
