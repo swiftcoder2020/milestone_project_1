@@ -100,7 +100,7 @@ In terms of the interaction design, I am conscious of the perspective in the imp
 
 * In the Current Skills section when users first views this, as the webpage loads each of the three blocks will expand in size from half to full to grasp their attention of the capability into the languages, tools & technologies on offer.
 
-* Other interactive elements such as buttons and forms function as part of the user's expectations in that it visually indicates which input field they're typing into or that the buttons are active that would create a positive response as part of the user experience in the website portfolio.
+* Other interactive elements such as buttons and forms function as part of the user's expectations in that it visually indicates which input field they're typing into or that the buttons are active and will execute a state of change that would create a positive response as part of the user experience in the website portfolio.
 
 * Finally in the footer, interactive elements whereby once hovered over or focused on, the download icon will smoothly expand in size and Social icons such as GitHub & LinkedIn will expand in size and change in colour to encourage users to click on these links.
 
@@ -108,7 +108,7 @@ In terms of the interaction design, I am conscious of the perspective in the imp
 
 Previous reasonable experience in website development a decade ago has enabled me to benefit to an advantage for this milestone project in that I had already established a site structure, which is required as standard when undertaking the planning preparations to construct a website, and to this day as of September 2020, this is no different given that it relates to the organisational and navigational schemas within the course.
 
-With reference to the below link to the wireframe of the site structure via Balsamiq, I had originally thought of creating 7 webpages in total, however on reflection it was best that from a content perspective, this should be reduced to 4 webpages retaining the simplicity and these consist of:
+With reference to the below link to the wireframe of the site structure via Balsamiq, I had originally thought of creating 7 webpages in total, however on reflection it was best that from a content perspective, this should be reduced to 4 webpages in a basic hierarchical tree structure retaining the simplicity and these consist of:
 
 **[Website Portfolio Site Structure](https://github.com/swiftcoder2020/ms1_portfolio_project/blob/master/wireframes/website-portfolio-sitemap.png)**
 
@@ -117,18 +117,17 @@ With reference to the below link to the wireframe of the site structure via Bals
 - **Profile** :- Containing a hero image of my favourite hobby, a paragraph of professional background & experience and also current technological skills.
 - **Contact** :- Quite simply this will have a hero image with a brief message and a contact form.
 
-<!-- DO NOT CHANGE THE CONTENT AT THIS POINT!! -->
+## Skeleton
 
-
+For the purpose of providing the skeleton of the website portfolio, I had decided to utilise Code Institute's suggestion of the Balsamiq software
 
 
 <!-- mobile-first approach -->
 
 
+<!-- DO NOT CHANGE THE CONTENT AT THIS POINT!! -->
 
-## Skeleton
 
-For the purpose of providing the skeleton of the website portfolio, I had decided to utilise Code Institute's suggestion of the Balsamiq software
 
 ## Surface
 
