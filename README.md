@@ -94,8 +94,6 @@ The purpose of the Structure plane is to provide the aforementioned users within
 
 In terms of the interaction design, I am conscious of the perspective in the importance of not overusing the behaviour of interactive elements, as this would overwhelm users when visiting the website portfolio, therefore my approach to this is that I wanted to implement those that are of a subtle yet appropriate use of interaction that would elicit a response that is positive and demonstrates good user experience. Also experience tells me that consistency in the design is crucial so this was at the forefront of my mind when approaching this project in that the layout elements e.g. header & footer, the theme colours and typography are exactly where they should be and styled respectively so that it is pleasing to the eye visually for every webpage a user visits. With these in mind, the following points defines what is to be included in the interaction design of the website portfolio:
 
-* The navigation will feature a fixed-top feature that will enable users to scroll down effortlessly ensuring that the navigational links remain visible no matter how far down the content goes, which will be consistent across all webpages and these are all active in functionality as convention dictates to contribute to good UX.
-
 * When users hover over or focus on each of the navigational links, interactive elements such as the colour of both the text and underline will change and in addition, the underline will expand horizontally for a nice subtle touch recognising where the mouse cursor has been directed to.
 
 * In the Current Skills section when users first views this, as the webpage loads each of the three blocks will expand in size from half to full to grasp their attention of the capability into the languages, tools & technologies on offer.
@@ -119,8 +117,11 @@ With reference to the below link to the wireframe of the site structure via Bals
 
 ## Skeleton
 
-For the purpose of providing the skeleton of the website portfolio, I had decided to utilise Code Institute's suggestion of the Balsamiq software
+For the purpose of providing the skeleton of the website portfolio, I had decided to utilise Code Institute's suggestion of the Balsamiq software to develop the wireframes in low & high fidelity
 
+
+
+<!-- * The navigation will feature a fixed-top feature that will enable users to scroll down effortlessly ensuring that the navigational links remain visible no matter how far down the content goes, which will be consistent across all webpages and these are all active in functionality as convention dictates to contribute to good UX. -->
 
 <!-- mobile-first approach -->
 
@@ -131,6 +132,8 @@ For the purpose of providing the skeleton of the website portfolio, I had decide
 
 ## Surface
 
+<!-- Colour Palette -->
+
 # Features
 
 # Languages, Tools & Technologies Utilised
@@ -138,8 +141,8 @@ For the purpose of providing the skeleton of the website portfolio, I had decide
 * Bootstrap v4.5.2
 * Google Fonts
 * Font Awesome
-* HTML
 * CSS
+* HTML
 * Balsamiq
 
 # Testing
