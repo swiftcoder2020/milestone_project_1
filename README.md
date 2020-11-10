@@ -117,11 +117,24 @@ With reference to the below link to the wireframe of the site structure via Bals
 
 ## Skeleton
 
-The website portfolio will consist of a simple hierarchy of webpages whereby 'Home' represents the top level and 'Projects', 'Profile' and 'Contact' will be of equal level at the bottom in a tree like structure. For the purpose of providing the skeleton of the website portfolio, I had decided to utilise Code Institute's suggestion of the Balsamiq software to develop the wireframes in low & high fidelity mock-ups that will form the basis of how the project will be constructed.
+The website portfolio will consist of a simple hierarchy of webpages whereby 'Home' represents the top level and 'Projects', 'Profile' and 'Contact' will be of equal level at the bottom in a tree like structure. For the purpose of providing the skeleton of the website portfolio, I had decided to utilise Code Institute's suggestion of the Balsamiq software to develop the wireframes in low & high fidelity mock-ups that will form the basis of how the project will be constructed. Each of these webpages will consider various breakpoints apiece such as mobile, tablet and desktop PC view.
 
 <!-- Conventions -->
 
-**[Templated design for mobile, tablet & desktop PC](wireframes/templated-design-for-mobile-tablet-and-desktop-PC.pdf)**
+**[Templated theme design](wireframes/templated-design-for-mobile-tablet-and-desktop-PC.pdf)**
+
+- **[Hompage]()**
+
+- **[Projects]()**
+
+- **[Profile]()**
+
+- **[Contact]()**
+
+
+
+
+
 
 <!-- * The navigation will feature a fixed-top feature that will enable users to scroll down effortlessly ensuring that the navigational links remain visible no matter how far down the content goes, which will be consistent across all webpages and these are all active in functionality as convention dictates to contribute to good UX. -->
 
