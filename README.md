@@ -1,5 +1,6 @@
 <div>
-   <img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">&nbsp; &nbsp; &nbsp;<img src="assets/images/learning-people-logo.png" style="margin: 0; width: auto; height: 88px;">
+   <img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0; padding-right: 10px;">
+   <img src="assets/images/learning-people-logo.png" style="margin: 0; padding-left: 10px; width: auto; height: 88px;">
 </div>
 
 # Professional Website Portfolio of Jonathan Swift
