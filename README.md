@@ -109,7 +109,7 @@ Previous reasonable experience in website development a decade ago has enabled m
 
 With reference to the below link to the wireframe of the site structure via Balsamiq, I had originally thought of creating 7 webpages in total, however on reflection it was best that from a content perspective, this should be reduced to 4 webpages in a basic hierarchical tree structure retaining the simplicity and these consist of:
 
-**[Website Portfolio Site Structure](https://github.com/swiftcoder2020/ms1_portfolio_project/blob/master/wireframes/website-portfolio-sitemap.png)**
+**[Website Portfolio Site Structure](wireframes/website-portfolio-sitemap.png)**
 
 - **Home** :- I plan to include a hero image with a brief introductory paragraph and perspective comprising of knowledge & experience in website development.
 - **Projects** :- This will consist of mini-projects and examples that have been developed with active links to the live websites within the course to retain its simplicity.
@@ -118,7 +118,22 @@ With reference to the below link to the wireframe of the site structure via Bals
 
 ## Skeleton
 
-For the purpose of providing the skeleton of the website portfolio, I had decided to utilise Code Institute's suggestion of the Balsamiq software to develop the wireframes in low & high fidelity
+The website portfolio will consist of a simple hierarchy of webpages whereby 'Home' represents the top level and 'Projects', 'Profile' and 'Contact' will be of equal level at the bottom in a tree like structure. For the purpose of providing the skeleton of the website portfolio, I had decided to utilise Code Institute's suggestion of the Balsamiq software to develop the wireframes in low & high fidelity mock-ups that will form the basis of how the project will be constructed. Each of these webpages will consider various breakpoints apiece such as mobile, tablet and desktop PC view.
+
+<!-- Conventions -->
+
+**[Templated theme design](wireframes/templated-design-for-mobile-tablet-and-desktop-PC.pdf)**
+
+- **[Hompage]()**
+
+- **[Projects]()**
+
+- **[Profile]()**
+
+- **[Contact]()**
+
+
+
 
 
 
@@ -139,7 +154,7 @@ For the purpose of providing the skeleton of the website portfolio, I had decide
 
 # Languages, Tools & Technologies Utilised
 
-* Bootstrap v4.5.2
+* Bootstrap v4.5.2 :- this is a CSS framework which is used to assist with making the design
 * Google Fonts
 * Font Awesome
 * CSS
