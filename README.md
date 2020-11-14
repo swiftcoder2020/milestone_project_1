@@ -105,20 +105,34 @@ In terms of the interaction design, I am conscious of the perspective in the imp
 
 ### *Information Architecture*
 
-Previous reasonable experience in website development a decade ago has enabled me to benefit to an advantage for this milestone project in that I had already established a site structure, which is required as standard when undertaking the planning preparations to construct a website, and to this day as of September 2020, this is no different given that it relates to the organisational and navigational schemas within the course.
+Previous reasonable experience in website development a decade ago has enabled me to benefit to an advantage for this milestone project in that I had already established a site structure, which is required as standard when undertaking the planning preparations to construct a website, and to this day as of September 2020, this is no different given that it relates to the organisational and navigational schemas within the course. I had also identified that the website portfolio will be structured in the form of a simple hierarchy of webpages whereby 'Home' represents the top level and 'Projects', 'Profile' and 'Contact' will be of equal horizontal level at the bottom in a tree like structure. 
 
-With reference to the below link to the wireframe of the site structure via Balsamiq, I had originally thought of creating 7 webpages in total, however on reflection it was best that from a content perspective, this should be reduced to 4 webpages in a basic hierarchical tree structure retaining the simplicity and these consist of:
+Using a reference of the below link to the wireframe of the site structure via Balsamiq, I had originally thought of creating 7 webpages in total, however on reflection I soon realised that it was best that from a content perspective, this should be reduced to 4 webpages in a basic hierarchical tree structure retaining the simplicity and these consist of:
 
 **[Website Portfolio Site Structure](wireframes/website-portfolio-sitemap.png)**
 
-- **Home** :- I plan to include a hero image with a brief introductory paragraph and perspective comprising of knowledge & experience in website development.
+- **Home** :- I plan to include a hero image with a brief introductory paragraph and a narrative perspective comprising of knowledge & experience in website development.
 - **Projects** :- This will consist of mini-projects and examples that have been developed with active links to the live websites within the course to retain its simplicity.
 - **Profile** :- Containing a hero image of my favourite hobby, a paragraph of professional background & experience and also current technological skills.
 - **Contact** :- Quite simply this will have a hero image with a brief message and a contact form.
 
 ## Skeleton
 
-The website portfolio will consist of a simple hierarchy of webpages whereby 'Home' represents the top level and 'Projects', 'Profile' and 'Contact' will be of equal level at the bottom in a tree like structure. For the purpose of providing the skeleton of the website portfolio, I had decided to utilise Code Institute's suggestion of the Balsamiq software to develop the wireframes in low & high fidelity mock-ups that will form the basis of how the project will be constructed. Each of these webpages will consider various breakpoints apiece such as mobile, tablet and desktop PC view.
+As part of the planning preparation into providing the skeleton of the project, which in layman terms is essentially a blueprint draft into the design, I had decided to utilise Code Institute's suggestion of the software Balsamiq.
+
+
+
+
+
+
+
+
+
+
+
+This would enable the development of wireframes in low & high fidelity mock-ups that will form the basis of how the website portfolio will be constructed. 
+Convention these days places an emphasis on the approach of mobile-first design for it to be scaled up
+Each of these webpages will consider various breakpoints apiece such as mobile, tablet and desktop PC view to ensure emphasis is placed on responsiveness, whilst also pondering on the emphasis on conventions within website development to the best of my ability.
 
 <!-- Conventions -->
 
@@ -151,6 +165,8 @@ The website portfolio will consist of a simple hierarchy of webpages whereby 'Ho
 <!-- Colour Palette -->
 
 # Features
+
+<!-- Bootstrap Carousel, form which features a modal to confirm submission button works (good user experience) -->
 
 # Languages, Tools & Technologies Utilised
 
