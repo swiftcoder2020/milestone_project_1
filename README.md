@@ -1,6 +1,6 @@
 <div>
-   <img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0; padding-right: 10px;">
-   <img src="assets/images/learning-people-logo.png" style="margin: 0; padding-left: 10px; width: auto; height: 88px;">
+   <img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0; padding-right: 15px;">
+   <img src="assets/images/learning-people-logo.png" style="margin: 0; padding-left: 15px; width: auto; height: 88px;">
 </div>
 
 # Professional Website Portfolio of Jonathan Swift
@@ -118,23 +118,7 @@ Using a reference of the below link to the wireframe of the site structure via B
 
 ## Skeleton
 
-As part of the planning preparation into providing the skeleton of the project, which in layman terms is essentially a blueprint draft into the design, I had decided to utilise Code Institute's suggestion of the software Balsamiq.
-
-
-
-
-
-
-
-
-
-
-
-This would enable the development of wireframes in low & high fidelity mock-ups that will form the basis of how the website portfolio will be constructed. 
-Convention these days places an emphasis on the approach of mobile-first design for it to be scaled up
-Each of these webpages will consider various breakpoints apiece such as mobile, tablet and desktop PC view to ensure emphasis is placed on responsiveness, whilst also pondering on the emphasis on conventions within website development to the best of my ability.
-
-<!-- Conventions -->
+As part of the planning preparation into providing the skeleton of the project, which in layman terms is essentially a blueprint draft into the design, I had decided to utilise Code Institute's suggestion of the software Balsamiq to develop the wireframes into the website portfolio, which will include low & high fidelity mock-ups that will form the basis of how it will be constructed. The principle of mobile-first strategy is applied whereby the usage and traffic of smartphones exceeds the traditional desktop PC and each of these webpages will be scaled up considering various breakpoints apiece such as mobile, tablet and desktop PC to ensure that great user experience is in responsiveness of the website as well as the general design conventions within website development. With this in mind, the following developed wireframes are:
 
 **[Templated theme design](wireframes/templated-design-for-mobile-tablet-and-desktop-PC.pdf)**
 
