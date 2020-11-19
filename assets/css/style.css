@@ -352,9 +352,7 @@ body {
         height: auto;
     }
 
-    .hero-images {
-        height: 60vh;
-    }
+
 
     .navbar-light .navbar-nav .nav-link {
         font-size: 1.875rem;
@@ -380,9 +378,7 @@ body {
         height: auto;
     }
 
-    .hero-images {
-        height: 70vh;
-    }
+
 
     .hero-text {    
         margin: 0;
