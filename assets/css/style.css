@@ -344,7 +344,7 @@ body {
 
 @media (min-width: 1024px) {
     body {
-        padding-top: 110px;
+        padding-top: 100px;
     }
     
     .logo {
@@ -352,7 +352,10 @@ body {
         height: auto;
     }
 
-
+    .hero-images {
+        height: 60vh;
+        margin-top: 10px;
+    }
 
     .navbar-light .navbar-nav .nav-link {
         font-size: 1.875rem;
@@ -378,7 +381,9 @@ body {
         height: auto;
     }
 
-
+    .hero-images {
+        height: 70vh;
+    }
 
     .hero-text {    
         margin: 0;
