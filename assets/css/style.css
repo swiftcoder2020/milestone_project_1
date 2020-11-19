@@ -6,7 +6,7 @@
 }
 
 body {
-    padding-top: 80px;
+    padding-top: 90px;
 }
 
 /* -----Special text----- */
@@ -29,7 +29,7 @@ body {
 }
 
 .nav-item {
-    padding: 0px 15px;
+    padding: 0px 10px;
 }
 
 .navbar-light .navbar-nav .nav-link {
@@ -48,7 +48,7 @@ body {
 /* -----Footer----- */
 
 .footer-container {
-    padding: 5px 0px;
+    padding: 10px 0px;
     background-color: #3066be;
     color: #ffffff;
 }
@@ -109,9 +109,10 @@ body {
 .hero-images {
     background-size: cover;
     background-repeat: no-repeat;
-    background-position: center;
+    background-position: 36%;
     position: relative;
     height: 45vh;
+    width: auto;
 }
 
 .index-hero-image {
@@ -135,6 +136,7 @@ body {
 .hero-text h4 {
     font-family: "Montserrat", sans-serif;
     font-size: 1rem;
+    line-height: 20px;
 }
 
 .hero-text {
@@ -272,7 +274,7 @@ body {
 
 /* -----Media queries----- */
 
-@media (min-width: 576px) {
+@media (min-width: 576px) {    
     .underline {
         text-decoration: none;
         position: relative;
@@ -306,12 +308,25 @@ body {
         border-right: 3px solid #ffffff;
     }
 
+    .hero-text h4 {
+        line-height: 25px;
+    }
+
     .footer-block {
-        padding: 10px 15px;
+        padding: 0px 15px;
     }
 }
 
 @media (min-width: 675px) {
+    .logo {
+        width: 225px;
+        height: auto;
+    }
+    
+    .nav-item {
+        padding: 0px 15px;
+    }
+
     .navbar-light .navbar-nav .nav-link {
         font-size: 1.5rem;
     }
@@ -329,42 +344,52 @@ body {
 
 @media (min-width: 1024px) {
     body {
-        padding-top: 115px;
+        padding-top: 110px;
     }
-
+    
     .logo {
-        width: 275px;
+        width: 260px;
         height: auto;
-    }
-
-    .navbar-light .navbar-nav .nav-link {
-        font-size: 1.875rem;
     }
 
     .hero-images {
         height: 55vh;
     }
 
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 1.875rem;
+    }
+
     .hero-text {    
         margin: 0;
+        padding: 15px;
         bottom: 30px;
         right: 30px;
-        width: 25rem;
+        width: 30rem;
         letter-spacing: 3px;
     }
 }
 
-@media (min-width: 1440px) {
+@media (min-width: 1440px) {   
+    body {
+        padding-top: 125px;
+    }
+    
     .logo {
         width: 300px;
         height: auto;
     }
 
-    .navbar-light .navbar-nav .nav-link {
-        font-size: 2rem;
-    }
-    
     .hero-images {
         height: 70vh;
+    }
+
+    .hero-text {    
+        margin: 0;
+        padding: 25px;
+        bottom: 90px;
+        right: 90px;
+        width: 40rem;
+        letter-spacing: 4px;
     }
 }
