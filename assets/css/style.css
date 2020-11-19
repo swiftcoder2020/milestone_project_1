@@ -344,7 +344,7 @@ body {
 
 @media (min-width: 1024px) {
     body {
-        padding-top: 110px;
+        padding-top: 125px;
     }
     
     .logo {
@@ -370,11 +370,7 @@ body {
     }
 }
 
-@media (min-width: 1440px) {   
-    body {
-        padding-top: 125px;
-    }
-    
+@media (min-width: 1440px) {
     .logo {
         width: 300px;
         height: auto;
