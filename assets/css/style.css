@@ -344,7 +344,7 @@ body {
 
 @media (min-width: 1024px) {
     body {
-        padding-top: 125px;
+        padding-top: 110px;
     }
     
     .logo {
@@ -353,7 +353,7 @@ body {
     }
 
     .hero-images {
-        height: 55vh;
+        height: 60vh;
     }
 
     .navbar-light .navbar-nav .nav-link {
@@ -370,7 +370,11 @@ body {
     }
 }
 
-@media (min-width: 1440px) {
+@media (min-width: 1440px) {   
+    body {
+        padding-top: 125px;
+    }
+    
     .logo {
         width: 300px;
         height: auto;
