@@ -16,68 +16,103 @@
 </head>
 <body>
     <header>
-        <nav class="navbar navbar-expand-sm navbar-light custom-bg">
+        <nav class="navbar navbar-expand-sm fixed-top navbar-light custom-bg">
             <a class="navbar-brand" href="index.html">
                 <img class="logo" src="assets/images/new_logo.png" alt="Logo of Jonathan Swift Full Stack Website Developer" aria-label="logo"/>
             </a>
             <button class="navbar-toggler ml-auto" type="button" data-toggle="collapse" data-target="#navbarDropdown" aria-controls="navbarDropdown" aria-expanded="false" aria-label="toggleNavigation">
-				<span class="navbar-toggler-icon"></span>
+                <span class="navbar-toggler-icon"></span>
             </button>
             <div class="collapse navbar-collapse" id="navbarDropdown">
                 <ul class="navbar-nav ml-auto">
-					<li class="nav-item ml-auto border-md-right">
+                    <li class="nav-item ml-auto border-md-right active">
                         <a class="nav-link underline" href="index.html" aria-label="homepage">Home <span class="sr-only">(Current page)</span></a>
                     </li>
-                    <li class="nav-item ml-auto border-md-right active">
+                    <li class="nav-item ml-auto border-md-right">
                         <a class="nav-link underline" href="projects.html" aria-label="explore the projects">Projects</a>
                     </li>
                     <li class="nav-item ml-auto border-md-right">
                         <a class="nav-link underline" href="profile.html" aria-label="acquaint with my profile">Profile</a>
                     </li>
                     <li class="nav-item ml-auto">
-                        <a class="nav-link underline" href="contact.html" aria="get in touch">Contact</a>
+                        <a class="nav-link underline" href="contact.html" aria-label="get in touch">Contact</a>
                     </li>
                 </ul>
             </div>
         </nav>
     </header>
     <main>
-    
+        <div id="portfolio-carousel" class="carousel slide carousel-portfolio" data-ride="carousel" data-interval="false">
+            <ol class="carousel-indicators">
+                <li data-target="#portfolio-carousel" data-slide-to="0" class="active"></li>
+                <li data-target="#portfolio-carousel" data-slide-to="1"></li>
+                <li data-target="#portfolio-carousel" data-slide-to="2"></li>
+            </ol>
+            <div class="carousel-inner">
+                <div class="carousel-item active">
+                    <img class="d-block w-100 carousel-image" src="assets/images/projects/love-running.png" alt="Love Running Mini-Project" aria-label="Love Running Mini-Project"/>
+                    <div class="carousel-caption d-none d-md-block">
+                        <h3>Love Running Mini-Project</h3>
+                        <a class="btn btn-primary btn-md" href="https://www.jswiftwebdeveloper.uk/love_running/index.html"><span>View Website</span></a>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <img class="d-block w-100 carousel-image" src="assets/images/projects/whisky-drop.png" alt="Whisky Drop" aria-label="Whisky Drop"/>
+                    <div class="carousel-caption d-none d-md-block">
+                        <h3>Whisky Drop</h3>
+                        <a class="btn btn-primary btn-md" href="https://www.jswiftwebdeveloper.uk/whisky_drop/index.html"><span>View Website</span></a>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <img class="d-block w-100 carousel-image" src="assets/images/projects/rosie-resume.png" alt="Rosie Résumé Bootstrap Mini-Project" aria-label="Rosie Résumé Bootstrap Mini-Project"/>
+                    <div class="carousel-caption d-none d-md-block">
+                        <h3>Rosie Résumé Mini-Project</h3>
+                        <a class="btn btn-primary btn-md" href="https://www.jswiftwebdeveloper.uk/resume/index.html"><span>View Website</span></a>
+                    </div>
+                </div>
+            </div>
+            <a class="carousel-control-prev" data-slide="prev" href="#portfolio-carousel">
+                <span class="carousel-control-prev-icon"></span>
+            </a>
+            <a class="carousel-control-next" data-slide="next" href="#portfolio-carousel">
+                <span class="carousel-control-next-icon"></span>
+            </a>
+        </div>
     </main>
 	<footer class="footer-container">	
         <div class="container">
             <div class="row">
-                <div class="col-xs-12 col-sm-4 footer-block">
+                <div class="col-xs-12 col-md-4 footer-block">
                     <h3 class="footer-heading">Professional Synopsis</h3>
                     <p class="general-font">
                         Trainee Full Stack Website Developer, who is technically 
-                        skilled in HTML, CSS, MySQL & PHP.
+                        skilled consisting of HTML, CSS, MySQL & PHP.
                     </p>
                 </div>
-                <div class="col-xs-12 col-sm-4 footer-block">
+                <div class="col-xs-12 col-md-4 footer-block">
                     <h3 class="footer-heading">Download a CV</h3>
                     <p class="general-font">
                         Want a traditional version of my Curriculum Vitae in 
                         printable format? That's swiftly done by clicking the icon!
-                        <a class="cv-pdf" href="#" target="_blank" rel="noopener" aria-label="downloadCV">
-                            <i class="fa fa-download" aria-hidden="true" aria-label="downloadIcon"></i>
+                        <a class="cv-pdf" href="assets/cv/Jonathan-Swift-CV.pdf" target="_blank" rel="noopener" aria-label="downloadCV">
+                            <i class="fa fa-download" aria-hidden="true" aria-label="download icon"></i>
                             <span class="sr-only">Download CV.</span>
                         </a>
                     </p>
                 </div>
-                <div class="col-xs-12 col-sm-4 footer-block">
+                <div class="col-xs-12 col-md-4 footer-block">
                     <h3 class="footer-heading">Social Links</h3>
                     <p class="general-font">Let's collaborate!</p>
                     <ul class="list-inline social-links">
                         <li class="list-inline-item">
                             <a href="https://www.github.com/swiftcoder2020" target="_blank" rel="noopener" aria-label="GitHub development community">
-                                <i class="fab fa-github" aria-hidden="true" aria-label="githubIcon"></i>
+                                <i class="fab fa-github" aria-hidden="true" aria-label="github icon"></i>
                                 <span class="sr-only">GitHub</span>
                             </a>
                         </li>
                         <li class="list-inline-item">
                             <a href="https://www.linkedin.com/in/jonathan-s-733b7882" target="_blank" rel="noopener" aria-label="LinkedIn profile">
-                                <i class="fab fa-linkedin" aria-hidden="true" aria-label="linkedinIcon"></i>
+                                <i class="fab fa-linkedin" aria-hidden="true" aria-label="linkedin icon"></i>
                                 <span class="sr-only">LinkedIn</span>
                             </a>
                         </li>

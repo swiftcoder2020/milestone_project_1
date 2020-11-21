@@ -16,16 +16,16 @@
 </head>
 <body>
     <header>
-        <nav class="navbar navbar-expand-sm navbar-light custom-bg">
+        <nav class="navbar navbar-expand-sm fixed-top navbar-light custom-bg">
             <a class="navbar-brand" href="index.html">
-                <img src="assets/images/new_logo.png" alt="Logo of Jonathan Swift Full Stack Website Developer" aria-label="logo"/>
+                <img class="logo" src="assets/images/new_logo.png" alt="Logo of Jonathan Swift Full Stack Website Developer" aria-label="logo"/>
             </a>
             <button class="navbar-toggler ml-auto" type="button" data-toggle="collapse" data-target="#navbarDropdown" aria-controls="navbarDropdown" aria-expanded="false" aria-label="toggleNavigation">
-				<span class="navbar-toggler-icon"></span>
+                <span class="navbar-toggler-icon"></span>
             </button>
             <div class="collapse navbar-collapse" id="navbarDropdown">
                 <ul class="navbar-nav ml-auto">
-					<li class="nav-item ml-auto border-md-right">
+                    <li class="nav-item ml-auto border-md-right active">
                         <a class="nav-link underline" href="index.html" aria-label="homepage">Home <span class="sr-only">(Current page)</span></a>
                     </li>
                     <li class="nav-item ml-auto border-md-right">
@@ -34,15 +34,19 @@
                     <li class="nav-item ml-auto border-md-right">
                         <a class="nav-link underline" href="profile.html" aria-label="acquaint with my profile">Profile</a>
                     </li>
-                    <li class="nav-item ml-auto active">
-                        <a class="nav-link underline" href="contact.html" aria="get in touch">Contact</a>
+                    <li class="nav-item ml-auto">
+                        <a class="nav-link underline" href="contact.html" aria-label="get in touch">Contact</a>
                     </li>
                 </ul>
             </div>
         </nav>
     </header>
     <main>
-        
+        <div class="container-fluid hero-images contact-hero-image">
+            <div class="hero-text">
+                <h1>Let's Collaborate!</h1>
+            </div>
+        </div>
     </main>
 	<footer class="footer-container">	
         <div class="container">
@@ -51,7 +55,7 @@
                     <h3 class="footer-heading">Professional Synopsis</h3>
                     <p class="general-font">
                         Trainee Full Stack Website Developer, who is technically 
-                        skilled in HTML, CSS, MySQL & PHP.
+                        skilled consisting of HTML, CSS, MySQL & PHP.
                     </p>
                 </div>
                 <div class="col-xs-12 col-sm-4 footer-block">
@@ -59,7 +63,7 @@
                     <p class="general-font">
                         Want a traditional version of my Curriculum Vitae in 
                         printable format? That's swiftly done by clicking the icon!
-                        <a class="cv-pdf" href="#" target="_blank" rel="noopener" aria-label="downloadCV">
+                        <a class="cv-pdf" href="assets/cv/Jonathan-Swift-CV.pdf" target="_blank" rel="noopener" aria-label="downloadCV">
                             <i class="fa fa-download" aria-hidden="true" aria-label="downloadIcon"></i>
                             <span class="sr-only">Download CV.</span>
                         </a>
