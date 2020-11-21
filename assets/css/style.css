@@ -24,7 +24,7 @@ body {
 }
 
 .logo {
-    width: 200px;
+    width: 215px;
     height: auto;
 }
 
@@ -111,7 +111,7 @@ body {
     background-repeat: no-repeat;
     background-position: 36%;
     position: relative;
-    height: 45vh;
+    height: 76vh;
     width: auto;
 }
 
@@ -354,7 +354,6 @@ body {
 
     .hero-images {
         height: 60vh;
-        margin-top: 50px;
     }
 
     .navbar-light .navbar-nav .nav-link {
@@ -364,8 +363,8 @@ body {
     .hero-text {    
         margin: 0;
         padding: 15px;
-        bottom: 30px;
-        right: 30px;
+        bottom: 20px;
+        right: 20px;
         width: 30rem;
         letter-spacing: 3px;
     }
