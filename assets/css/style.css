@@ -253,3 +253,73 @@ body {
 .photoshop21-bar {
     background-color: #8BC3FC;
 }
+
+/* -----Media queries----- */
+
+@media (min-width: 576px) {    
+    .underline {
+        text-decoration: none;
+        position: relative;
+    }
+
+    .underline:after {
+        position: absolute;
+        content:'';
+        height: 4px;
+        bottom: 0px;
+
+        margin: 0 auto;
+        left: 0;
+        right: 0;
+        width: 50%;
+        background: #ffffff;
+
+        -o-transition: .5s;
+        -ms-transition: .5s;
+        -moz-transition: .5s;
+        -webkit-transition: .5s;
+        transition: .5s;
+    }
+
+    .underline:hover:after {
+        width: 80%;
+        background: #3066be;
+    }
+
+    .border-md-right {
+        border-right: 3px solid #ffffff;
+    }
+
+    .index-hero-text h4 {
+        line-height: 25px;
+    }
+
+    .footer-block {
+        padding: 0px 15px;
+    }
+}
+
+@media (min-width: 675px) {
+    .logo {
+        width: 225px;
+        height: auto;
+    }
+    
+    .nav-item {
+        padding: 0px 15px;
+    }
+
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 1.5rem;
+    }
+
+    .index-hero-text {    
+        margin: 0;
+        right: 15px;
+        width: 26rem;
+    }
+
+    .index-hero-text h4 {
+        line-height: 25px;
+    }
+}
