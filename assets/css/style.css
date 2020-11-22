@@ -142,3 +142,57 @@ body {
     font-family: "Caveat Brush", sans-serif;
     color: #3066be;
 }
+
+/* -----Skills----- */
+
+.main-container {
+    margin: 15px 0px;
+}
+
+.skills-title {
+    font-family: "Caveat", sans-serif;
+    font-size: 2rem;
+    font-weight: bold;
+    text-align: center;
+    color: #3066be;
+}
+
+.block-container {
+    height: 175px;
+    width: auto;
+    margin: 15px 0px;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0 0 5px 5px #d4d4d4;
+    background-color: #d8e9fe;
+    animation-name: stretch;
+    animation-delay: .5s;
+    animation-duration: .5s;
+    animation-timing-function: ease-out;
+}
+
+@keyframes stretch {
+    0% {
+        transform: scale(.5);
+    }
+    100% {
+        transform: scale(1);
+    }
+}
+
+.skills-heading {
+    margin-bottom: 15px;
+    font-family: "Caveat Brush", sans-serif;
+    font-size: 1.5rem;
+    text-align: center;
+    color: #686868;
+}
+
+.skill-logo {
+    height: 25px;
+    width: 25px;
+}
+
+.skill-logo img {
+    margin-bottom: 12px;
+}
