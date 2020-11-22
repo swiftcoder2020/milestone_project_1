@@ -196,3 +196,60 @@ body {
 .skill-logo img {
     margin-bottom: 12px;
 }
+
+/* -----Progress bar----- */
+
+.progress {
+    position: relative;
+    height: 25px;
+    width: auto;
+    line-height: 2;
+    margin-bottom: 12px;
+    border: 1px solid #3066be;
+}
+
+.progress-type {
+    position: absolute;
+    width: 140px;
+    padding-left: 8px;
+    background-color: rgba(25, 25, 25, 0.2);
+    font-family: "Montserrat", sans-serif;
+    font-size: 0.75rem;
+    color: #ffffff;
+}
+
+.html5-bar {
+    background-color: #f06529;
+}
+
+.css3-bar {
+    background-color: #2965f1;
+}
+
+.bootstrap4-bar {
+    background-color: #7952b3;
+}
+
+.mysql8-bar {
+    background-color: #00758F;
+}
+
+.mssql-bar {
+    background-color: #800000;
+}
+
+.php7-bar {
+    background-color: #B4A7D6;
+}
+
+.balsamiq4-bar {
+    background-color: #a60000;
+}
+
+.dreamweaver20-bar {
+    background-color: #89EF08;
+}
+
+.photoshop21-bar {
+    background-color: #8BC3FC;
+}
