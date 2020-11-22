@@ -137,3 +137,8 @@ body {
     font-size: 1rem;
     line-height: 22px;
 }
+
+.index-hero-text h3 {
+    font-family: "Caveat Brush", sans-serif;
+    color: #3066be;
+}
