@@ -113,3 +113,27 @@ body {
     height: 350px;
     width: auto;
 }
+
+.index-hero-image {
+    background-image: url("../images/workspace.jpg");
+    background-position: 36% 0%;
+}
+
+.index-hero-text {
+    position: absolute;
+    bottom: 20px;
+    right: 0px;
+    margin: 0 10px;
+    background-color: rgba(255, 255, 255, 0.7);
+    border: 1px solid #ffffff;
+    border-radius: 1rem;
+    padding: 10px;
+    text-align: center;
+    letter-spacing: 1px;
+}
+
+.index-hero-text h4 {
+    font-family: "Montserrat", sans-serif;
+    font-size: 1rem;
+    line-height: 22px;
+}
