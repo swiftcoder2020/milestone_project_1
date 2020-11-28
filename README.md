@@ -120,17 +120,17 @@ I had also identified as part of the information architecture that the website p
 
 ## Skeleton
 
-As part of the planning preparation into providing the skeleton of the project, which in layman terms is essentially a blueprint draft into the design, I had decided to utilise Code Institute's suggestion of the software Balsamiq to develop the wireframes into the website portfolio, which will include low & high fidelity mock-ups that will form the basis of how it will be constructed. The principle of mobile-first strategy is applied whereby the usage and traffic of smartphones exceeds the traditional desktop PC and each of these webpages will be scaled up considering various breakpoints apiece such as mobile, tablet and desktop PC to ensure that great user experience is in responsiveness of the website as well as the general design conventions within website development. With this in mind, the following developed wireframes are:
+As part of the planning preparation into providing the skeleton of the project, which in layman terms is essentially a blueprint draft into the design, I had decided to utilise Code Institute's suggestion of the software Balsamiq to develop the wireframes into the website portfolio, which will include low & high fidelity mock-ups that will form the basis of how it will be constructed. The principle of mobile-first strategy is applied whereby the usage and traffic of smartphones exceeds the traditional laptop/desktop PC and each of these webpages will be scaled up considering various breakpoints apiece such as mobile, tablet, laptop and desktop PC to ensure that great user experience is in responsiveness of the website as well as the general design conventions within website development. With this in mind, the following developed wireframes are:
 
-**[Templated theme design](wireframes/templated-design-for-mobile-tablet-and-desktop-PC.pdf)**
+**[Templated theme design](wireframes/templated-design-for-all-devices.pdf)**
 
-- **[Hompage]()**
+- **[Hompage](wireframes/homepage-for-all-devices.pdf)**
 
-- **[Projects]()**
+- **[Projects](wireframes/projects-for-all-devices.pdf)**
 
-- **[Profile]()**
+- **[Profile](wireframes/profile-for-all-devices.pdf)**
 
-- **[Contact]()**
+- **[Contact](wireframes/contact-for-all-devices.pdf)**
 
 Also consideration has been taken into the visual design of the navigation which will include a fixed-top feature that will enable users to scroll down effortlessly ensuring that the navigational links remain visible no matter how far down the content goes, which will be consistent across all webpages and these are all active in functionality as convention dictates to contribute to good UX.
 
