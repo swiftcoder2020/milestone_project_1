@@ -7,7 +7,7 @@
 *Constructed as part of Code Institute's Milestone 1 Project: User-Centric Front-End Development module*
 
 ## Demonstration
-<img src="assets/images/website-portfolio-responsiveness.png" style="margin: 0;">
+<img src="" style="margin: 0;">
 
 **[Active link to the website portfolio](https://swiftcoder2020.github.io/ms1_portfolio_project/)**
 
@@ -33,21 +33,22 @@
 
 # Overview of the Milestone 1 Project
 
-This first project provides an opportunity to demonstrate my technical knowledge and skills learnt within the Full Stack Website Development course, yet blending in some experience in both aspects of project management and website development respectively to construct a static front-end site. Consideration is taken in encompassing all aspects of User Experience Design (UXD) that forms the core part of this development, incorporating the 5 planes methodology, ensuring the responsiveness of the website and utilising the languages, tool & technologies learnt within the module aforementioned.
+This first project provides an opportunity to demonstrate my technical knowledge and skills learnt within the Full Stack Website Development course, yet blending in a year's experience in both aspects of project management and website development respectively to construct a static front-end site. Consideration is taken in encompassing the steep learning curve in all aspects of User Experience Design (UXD) that forms the core part of this development, especially incorporating the 5 planes methodology, ensuring the responsiveness of the website i.e. catering for all devices from mobile to desktop PC, and utilising the languages, tools & technologies learnt within the module aforementioned.
 
 # User Experience Design (UXD)
 
 ## Project Goals
 
-The purpose into one of the four milestone projects is based on a firm decision, having considered some project ideas, to extract and utilise Code Institute's example of developing a professional website portfolio. The focal motivation serves as a specific well founded personal need and aligns towards my primary goal of accomplishing a career change, to cater for the target audience in presenting useful & relevant information which derives from the traditional Curriculum Vitae, demonstrating functionality & accessibility to the users given that it is ingrained in law and in conclusion, reach out to potential prospective employers & recruiters.
+The purpose into one of the four milestone projects within the course is based on a firm decision, having considered some project ideas, to cognitively extract and utilise Code Institute's example of developing a professional website portfolio to initiate the transition into becoming a Full Stack Website Developer. The focal motivation serves as a specific well founded personal need and aligns towards my primary goal of accomplishing the desire into a career change, to cater for the target audience in presenting information that is useful & relevant to the users which derives from the traditional form of a Curriculum Vitae, demonstrating functionality & accessibility to the users given that it is ingrained in law and in conclusion, reach out to potential prospective employers & recruiters.
 
 ## Strategy
 
-As established above, the product is built consciously with the employers and recruiters in mind, specifically their business recruitment objectives to provide them the value in the ability to assess what I can offer overall as a candidate, professionally and personally that is worthy for consideration into a job role applied. The objective of this strategy is to market myself as a product and provide value through the lifecycle in the development of the website portfolio, from conception to deployment and finally testing to enable the potential transition into a career change to take effect.
+As established above, the product is built consciously with the employers and recruiters in mind, specifically their business recruitment objectives to provide them the value in 
+the ability to assess what I can offer overall as a candidate, professionally and personally through developing a website portfolio. The objective of this strategy is to market myself as a product and provide value through the lifecycle in the development of the project from conception to testing stages and finally deployment whereby this operates as a fully functional, responsive source of information through the user's browser that conforms to conventions and elicits good user experience.
 
-With this in mind, the primary focus is to project into the build of a website as a subtle yet bold, professional portfolio that encompasses the learning principles and methodologies from the course, whilst utilising various resources to ensure it is user-friendly and well-structured. The aim of this is to convey to prospective employers in assisting them to achieve their goal in the duration of their browsing experience to provide that value.
+With this in mind, the primary focus is to project into the construction of a subtle yet bold professional portfolio that has potential to evolve, it encompasses the learning principles and methodologies from the course, whilst utilising various resources to ensure it is user-friendly and well-structured, demonstrate the capabilities as a developer and provide context of educational & employment background. The aim of this is to convey to prospective employers in assisting them to achieve their goal in the duration of their browsing experience to provide that value.
 
-In the duration of the conception stage in planning for this project, research was undertaken to establish what other portfolio based websites had been developed and through my educational knowledge and some professional experience, I was able to factor in the user's viewpoint by visiting those examples to utilise the current tools and technologies to ascertain the appropriate features, design & styling themes, especially making colour & images accessible and structure. Through experience, I identified that the target audience is going to be diverse, thus the website portfolio requires to cater for this wide net of opportunities.
+In the duration of the conception stage in planning for this project, research was undertaken to establish what other portfolio based websites had been developed and through my educational knowledge and brief professional experience, I was able to factor in the user's viewpoint by visiting those examples to utilise the current tools and technologies to ascertain the appropriate features, design & styling themes, especially making colour & images accessible and structure. Through experience, I identified that the target audience is going to be diverse, thus the website portfolio requires to cater for this wide net of opportunities.
 
 ## Scope
 
@@ -140,7 +141,7 @@ Also consideration has been taken into the visual design of the navigation which
 
 ## Surface
 
-<!-- Colour Palette -->
+<!-- Colour Palette --> contemporary colours
 
 # Features
 
