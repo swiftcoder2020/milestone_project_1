@@ -7,7 +7,7 @@
 *Constructed as part of Code Institute's Milestone 1 Project: User-Centric Front-End Development module*
 
 ## Demonstration
-<img src="assets/images/website-portfolio-responsiveness.png" style="margin: 0;">
+<img src="" style="margin: 0;">
 
 **[Active link to the website portfolio](https://swiftcoder2020.github.io/ms1_portfolio_project/)**
 
@@ -17,7 +17,7 @@
 2. User Experience Design (UXD)
    1. Project Goals
    2. Strategy
-   3. Scope      
+   3. Scope
       - User Stories
    4. Structure
       - Interaction Design (IXD)
@@ -33,7 +33,7 @@
 
 # Overview of the Milestone 1 Project
 
-This first project provides an opportunity to demonstrate my technical knowledge and skills learnt within the Full Stack Website Development course, yet blending in some experience in both aspects of project management and website development respectively to construct a static front-end site. Consideration is taken in encompassing all aspects of User Experience Design (UXD) that forms the core part of this development, incorporating the 5 planes methodology, ensuring the responsiveness of the website and utilising the languages, tool & technologies learnt within the module aforementioned.
+This first project into the Diploma provides an opportunity to demonstrate my technical knowledge and skills learnt within the Full Stack Website Development course, yet blending in some educational background in both aspects of project management and website development to construct a static front-end site. Consideration is taken in encompassing all aspects of User Experience Design (UXD) that forms the core part of this development, incorporating the 5 planes methodology, ensuring the responsiveness of the website and utilising the languages, tool & technologies learnt within the module aforementioned.
 
 # User Experience Design (UXD)
 
