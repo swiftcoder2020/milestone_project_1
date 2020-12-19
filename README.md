@@ -39,15 +39,16 @@ This first project into the Diploma provides an opportunity to demonstrate my te
 
 ## Project Goals
 
-The purpose into one of the four milestone projects is based on a firm decision, having considered some project ideas, to extract and utilise Code Institute's example of developing a professional website portfolio. The focal motivation serves as a specific well founded personal need and aligns towards my primary goal of accomplishing a career change, to cater for the target audience in presenting useful & relevant information which derives from the traditional Curriculum Vitae, demonstrating functionality & accessibility to the users given that it is ingrained in law and in conclusion, reach out to potential prospective employers & recruiters.
+The purpose into one of the four milestone projects within the course is based on a firm decision, having considered some project ideas, to cognitively extract and utilise Code Institute's example of developing a professional website portfolio to initiate the transition into becoming a Full Stack Website Developer. The focal motivation serves as a specific well founded personal need and aligns towards my primary goal of accomplishing the desire into a career change, to cater for the target audience in presenting information that is useful & relevant to the users which derives from the traditional form of a Curriculum Vitae, demonstrating functionality & accessibility to the users given that it is ingrained in law and in conclusion, reach out to potential prospective employers & recruiters.
 
 ## Strategy
 
-As established above, the product is built consciously with the employers and recruiters in mind, specifically their business recruitment objectives to provide them the value in the ability to assess what I can offer overall as a candidate, professionally and personally that is worthy for consideration into a job role applied. The objective of this strategy is to market myself as a product and provide value through the lifecycle in the development of the website portfolio, from conception to deployment and finally testing to enable the potential transition into a career change to take effect.
+As established above, the product is built consciously with the employers and recruiters in mind, specifically their business recruitment objectives to provide them the value in 
+the ability to assess what I can offer overall as a candidate, professionally and personally through developing a website portfolio. The objective of this strategy is to market myself as a product and provide value through the lifecycle in the development of the project from conception to testing stages and finally deployment whereby this operates as a fully functional, responsive source of information through the user's browser that conforms to conventions and elicits good user experience.
 
-With this in mind, the primary focus is to project into the build of a website as a subtle yet bold, professional portfolio that encompasses the learning principles and methodologies from the course, whilst utilising various resources to ensure it is user-friendly and well-structured. The aim of this is to convey to prospective employers in assisting them to achieve their goal in the duration of their browsing experience to provide that value.
+With this in mind, the primary focus is to project into the construction of a subtle yet bold professional portfolio that has potential to evolve, it encompasses the learning principles and methodologies from the course, whilst utilising various resources to ensure it is user-friendly and well-structured, demonstrate the capabilities as a developer and provide context of educational & employment background. The aim of this is to convey to prospective employers in assisting them to achieve their goal in the duration of their browsing experience to provide that value.
 
-In the duration of the conception stage in planning for this project, research was undertaken to establish what other portfolio based websites had been developed and through my educational knowledge and some professional experience, I was able to factor in the user's viewpoint by visiting those examples to utilise the current tools and technologies to ascertain the appropriate features, design & styling themes, especially making colour & images accessible and structure. Through experience, I identified that the target audience is going to be diverse, thus the website portfolio requires to cater for this wide net of opportunities.
+In the duration of the conception stage in planning for this project, research was undertaken to establish what other portfolio based websites had been developed and through my educational knowledge and brief professional experience, I was able to factor in the user's viewpoint by visiting those examples to utilise the current tools and technologies to ascertain the appropriate features, design & styling themes, especially making colour & images accessible and structure. Through experience, I identified that the target audience is going to be diverse, thus the website portfolio requires to cater for this wide net of opportunities.
 
 ## Scope
 
@@ -120,17 +121,17 @@ I had also identified as part of the information architecture that the website p
 
 ## Skeleton
 
-As part of the planning preparation into providing the skeleton of the project, which in layman terms is essentially a blueprint draft into the design, I had decided to utilise Code Institute's suggestion of the software Balsamiq to develop the wireframes into the website portfolio, which will include low & high fidelity mock-ups that will form the basis of how it will be constructed. The principle of mobile-first strategy is applied whereby the usage and traffic of smartphones exceeds the traditional desktop PC and each of these webpages will be scaled up considering various breakpoints apiece such as mobile, tablet and desktop PC to ensure that great user experience is in responsiveness of the website as well as the general design conventions within website development. With this in mind, the following developed wireframes are:
+As part of the planning preparation into providing the skeleton of the project, which in layman terms is essentially a blueprint draft into the design, I had decided to utilise Code Institute's suggestion of the software Balsamiq to develop the wireframes into the website portfolio, which will include low & high fidelity mock-ups that will form the basis of how it will be constructed. The principle of mobile-first strategy is applied whereby the usage and traffic of smartphones exceeds the traditional laptop/desktop PC and each of these webpages will be scaled up considering various breakpoints apiece such as mobile, tablet, laptop and desktop PC to ensure that great user experience is in responsiveness of the website as well as the general design conventions within website development. With this in mind, the following developed wireframes are:
 
-**[Templated theme design](wireframes/templated-design-for-mobile-tablet-and-desktop-PC.pdf)**
+**[Templated theme design](wireframes/templated-design-for-all-devices.pdf)**
 
-- **[Hompage]()**
+- **[Hompage](wireframes/homepage-for-all-devices.pdf)**
 
-- **[Projects]()**
+- **[Projects](wireframes/projects-for-all-devices.pdf)**
 
-- **[Profile]()**
+- **[Profile](wireframes/profile-for-all-devices.pdf)**
 
-- **[Contact]()**
+- **[Contact](wireframes/contact-for-all-devices.pdf)**
 
 Also consideration has been taken into the visual design of the navigation which will include a fixed-top feature that will enable users to scroll down effortlessly ensuring that the navigational links remain visible no matter how far down the content goes, which will be consistent across all webpages and these are all active in functionality as convention dictates to contribute to good UX.
 
@@ -140,7 +141,7 @@ Also consideration has been taken into the visual design of the navigation which
 
 ## Surface
 
-<!-- Colour Palette -->
+<!-- Colour Palette --> contemporary colours
 
 # Features
 
