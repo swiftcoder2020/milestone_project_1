@@ -39,7 +39,7 @@ This first project into the Diploma provides an opportunity to demonstrate my te
 
 ## Project Goals
 
-The purpose into one of the four milestone projects within the course is based on a firm decision, having considered some project ideas, to cognitively extract and utilise Code Institute's example of developing a professional website portfolio to initiate the transition into becoming a Full Stack Website Developer. The focal motivation serves as a specific well founded personal need and aligns towards my primary goal of accomplishing the desire into a career change, to cater for the target audience in presenting information that is useful & relevant to the users which derives from the traditional form of a Curriculum Vitae, demonstrating functionality & accessibility to the users given that it is ingrained in law and in conclusion, reach out to potential prospective employers & recruiters.
+The purpose into one of the four milestone projects is based on a firm decision, having considered some project ideas, to implement Code Institute's example of developing a professional website portfolio to initiate the transition into becoming a Full Stack Website Developer as I progress through the course. The focal motivation serves as a specific well founded personal need and aligns towards my primary goal of accomplishing the desire into a career change, to cater for the target audience in presenting information that is useful & relevant to the users which derives from the traditional form of a Curriculum Vitae, demonstrating functionality & accessibility to the users given that it is ingrained in law and in conclusion, reach out to potential prospective employers & recruiters.
 
 ## Strategy
 
