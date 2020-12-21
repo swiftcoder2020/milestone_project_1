@@ -13,23 +13,23 @@
 
 ## Table of Contents
 
-1. Overview of the Milestone 1 Project
-2. User Experience Design (UXD)
-   1. Project Goals
-   2. Strategy
-   3. Scope
-      - User Stories
-   4. Structure
-      - Interaction Design (IXD)
-      - Information Architecture
-   5. Skeleton
-      - Wireframing
-   6. Surface
-3. Features
-4. Languages, Tools & Technologies Utilised
-5. Testing
-6. Deployment
-7. Credits
+1. [Overview of the Milestone 1 Project](https://github.com/swiftcoder2020/ms1_portfolio_project/blob/master/README.md#overview-of-the-milestone-1-project)
+2. [User Experience Design (UXD)](https://github.com/swiftcoder2020/ms1_portfolio_project/blob/master/README.md#user-experience-design-uxd)
+   1. [Project Goals](https://github.com/swiftcoder2020/ms1_portfolio_project/blob/master/README.md#project-goals)
+   2. [Strategy](https://github.com/swiftcoder2020/ms1_portfolio_project/blob/master/README.md#strategy)
+   3. [Scope](https://github.com/swiftcoder2020/ms1_portfolio_project/blob/master/README.md#scope)
+      - [User Stories](https://github.com/swiftcoder2020/ms1_portfolio_project/blob/master/README.md#user-stories)
+   4. [Structure](https://github.com/swiftcoder2020/ms1_portfolio_project/blob/master/README.md#structure)
+      - [Interaction Design (IXD)](https://github.com/swiftcoder2020/ms1_portfolio_project/blob/master/README.md#interaction-design-ixd)
+      - [Information Architecture](https://github.com/swiftcoder2020/ms1_portfolio_project/blob/master/README.md#information-architecture)
+   5. [Skeleton](https://github.com/swiftcoder2020/ms1_portfolio_project/blob/master/README.md#skeleton)
+      - [Wireframing](https://github.com/swiftcoder2020/ms1_portfolio_project/blob/master/README.md#wireframes)
+   6. [Surface](https://github.com/swiftcoder2020/ms1_portfolio_project/blob/master/README.md#surface)
+3. [Features](https://github.com/swiftcoder2020/ms1_portfolio_project/blob/master/README.md#features)
+4. [Languages, Tools & Technologies Utilised](https://github.com/swiftcoder2020/ms1_portfolio_project/blob/master/README.md#languages-tools--technologies-utilised)
+5. [Testing](https://github.com/swiftcoder2020/ms1_portfolio_project/blob/master/README.md#deployment)
+6. [Deployment](https://github.com/swiftcoder2020/ms1_portfolio_project/blob/master/README.md#deployment)
+7. [Credits](https://github.com/swiftcoder2020/ms1_portfolio_project/blob/master/README.md#credits)
 
 # Overview of the Milestone 1 Project
 
@@ -150,6 +150,8 @@ One advantage to this milestone project has enabled the benefit of having alread
 Originally, the site structure consisted of 7 webpages in total, however on reflection I soon realised that upon reviewing this that this needed to be amended for the purpose of the project and also from a content perspective that this should be reduced to 4 webpages thereby retaining the simplicity.
 
 I had also identified as part of the information architecture that the website portfolio will be structured in the form of a simple yet basic hierarchy of webpages whereby 'Home' represents the top level and 'Projects', 'Profile' and 'Contact' will be of equal horizontal level at the bottom in a tree like structure and this is reflected in the site structure, therefore the below links represents the thought process into structuring the webpages through the software Balsamiq,  
+
+#### *Wireframes*
 
 **[Website Portfolio Site Structure](wireframes/website-portfolio-sitemap.png)**
 
