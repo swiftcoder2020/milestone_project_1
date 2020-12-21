@@ -85,11 +85,21 @@ opportunities.
 
 1. Employers and Recruiters
 
-Both of these types of users operate as separate entities with their own processes relating to recruitment in that there are different approaches when it comes to browsing through the website portfolio, therefore the user experience needs to cater for this such as briefly assessing one's competency levels through the content and development of the coding into the website and also connecting via various professional relevant social media/collaborative means i.e. GitHub, LinkedIn, Facebook and Twitter etc. Therefore from their perspective, these key points have been identified as follows:
+Both of these types of users operate as separate entities with their own processes relating to recruitment 
+in that there are different approaches when it comes to browsing through the website portfolio, therefore 
+the user experience needs to cater for this such as briefly assessing one's competency levels through the 
+content and development of the coding into the website and also connecting via various professional 
+relevant social media/collaborative means i.e. GitHub, LinkedIn, Facebook and Twitter etc. Therefore from 
+their perspective, these key points have been identified as follows:
 
 #### *Employer's Perspective*
 
-* As a user of a prospective employer, it is an incentive to experience the ability in browsing through a candidate's website portfolio to grasp key relevant information via the content, that is derived from a Curriculum Vitae which can be obtained in its traditional form for it to be easily shareable to the interview panel, assists with the decision-making to invite that candidate for a potential interview with a view to recruit that individual and that it is rendered correctly through the design methodology and principles.
+* As a user of a prospective employer, it would be an incentive to experience the ability in browsing 
+through a candidate's website portfolio to grasp key relevant information via the content, that is derived 
+from a Curriculum Vitae which can be obtained in its traditional form for it to be easily shareable to the 
+interview panel, assists with the decision-making to invite that candidate for a potential interview with 
+a view to recruit that individual and that it is rendered correctly through the design methodology and 
+principles.
 
 * As an employer who is seeking for a candidate within various roles of a Full Stack, Front-end or Back-end Website Developer, it is of great value when there is the ability to explore the website portfolio to consciously understand and assess the developer's technical competencies/logical thinking in the development lifecycle/experiences through their own project works by way of GitHub or via a URL through their hosting ISP, which an active link is offered to demonstrate this.
 
