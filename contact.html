@@ -15,8 +15,7 @@
     <title>.:.Website Portfolio of Jonathan Swift:.:</title>
 </head>
 <body>
-    <header>
-        <nav class="navbar navbar-expand-sm fixed-top navbar-light custom-bg">
+    <nav class="navbar navbar-expand-sm fixed-top navbar-light custom-bg">
             <a class="navbar-brand" href="index.html">
                 <img class="logo" src="assets/images/new_logo.png" alt="Logo of Jonathan Swift Full Stack Website Developer" aria-label="logo"/>
             </a>
@@ -39,13 +38,37 @@
                     </li>
                 </ul>
             </div>
-        </nav>
-    </header>
-    <main>
+    </nav>
+    <header>
         <div class="container-fluid hero-images contact-hero-image">
-            <div class="hero-text">
+            <div class="contact-hero-text">
                 <h1>Let's Collaborate!</h1>
-            </div>
+            </div>            
+        </div>
+    </header>
+    <main>        
+        <div class="container">
+            <form class="form-container">
+                <div class="form-group row">
+                    <label for="fullname" class="col-sm-2 col-form-label form-labels">Name</label>
+                    <div class="col-sm-10">
+                        <input type="text" id="fullnameinput" class="form-control form-inputs" placeholder="Your full name" aria-desscribedby="fullnameHelp" required />
+                    </div>
+                </div>
+                <div class="form-group row">
+                    <label for="emailaddress" class="col-sm-2 col-form-label form-labels">Email</label>
+                    <div class="col-sm-10">
+                        <input type="email" id="emailaddressinput" class="form-control form-inputs" placeholder="Your email address" aria-desscribedby="emailHelp" required />
+                    </div>
+                </div>
+                <div class="form-group row">
+                    <label for="message" class="col-sm-2 col-form-label form-labels">Message</label>
+                    <div class="col-sm-10">
+                        <textarea class="form-control form-inputs" id="messagetextarea" cols="30" rows="10" placeholder="Your message..."></textarea>
+                    </div>
+                </div>
+                <input class="btn btn-primary contact-button" type="submit" value="Submit">
+            </form>
         </div>
     </main>
 	<footer class="footer-container">	

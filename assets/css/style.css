@@ -119,6 +119,11 @@ body {
     background-position: 36% 0%;
 }
 
+.contact-hero-image {
+    background-image: url("../images/collaborate.jpg");
+    background-position: 30% 0%;
+}
+
 .index-hero-text {
     position: absolute;
     bottom: 20px;
@@ -141,6 +146,19 @@ body {
 .index-hero-text h3 {
     font-family: "Caveat Brush", sans-serif;
     color: #3066be;
+}
+
+.contact-hero-text {
+    position: absolute;
+    top: 15px;
+    right: 8px;
+    text-align: center;
+    letter-spacing: 1px;
+}
+
+.contact-hero-text h1 {
+    font-family: "Caveat Brush", sans-serif;
+    color: #ffffff;
 }
 
 /* -----Skills----- */
