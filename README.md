@@ -41,17 +41,6 @@ that forms the core part of this development, incorporating the 5 planes methodo
 responsiveness of the website and utilising the languages, tools & technologies learnt within the module 
 aforementioned.
 
-
-
-
-
-
-
-
-  
- 
-
-
 # User Experience Design (UXD)
 
 ## Project Goals
@@ -59,12 +48,12 @@ aforementioned.
 The purpose into one of the four milestone projects is based on a firm decision, having considered some 
 project ideas, to implement Code Institute's example of developing a professional website portfolio to 
 initiate the transition into becoming a Full Stack Website Developer as I progress through the course. 
-The focal motivation serves as a specific well founded personal need and aligns towards my primary goal 
-of accomplishing the desire into a career change, to cater for the target audience in presenting 
-information that is useful & relevant to the users which derives from the traditional form of a 
-Curriculum Vitae, demonstrating functionality & accessibility to the users given that it is ingrained in 
-law and in conclusion, reach out to potential prospective employers & recruiters to lead them in 
-initiating contact.
+The focal motivation serves as a specific long yet well founded personal need and aligns towards my 
+primary goal of accomplishing the desire into a career change through upskilling, to cater for the target 
+audience in presenting information that is useful & relevant to the users which derives from the 
+traditional form of a Curriculum Vitae, demonstrating functionality & accessibility to the users given 
+that it is ingrained in law and in conclusion, reach out to potential prospective employers & recruiters 
+to lead them in initiating contact.
 
 ## Strategy
 
