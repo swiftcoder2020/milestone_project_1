@@ -35,7 +35,11 @@
 
 As the first project into the Diploma, this represents the opportunity to demonstrate my technical 
 knowledge and skills learnt within the Full Stack Website Development course, yet blending in some 
-educational
+educational background in both aspects of project management and website development to construct a 
+static front-end site. Consideration is taken in encompassing all aspects of User Experience Design (UXD) 
+that forms the core part of this development, incorporating the 5 planes methodology, ensuring the 
+responsiveness of the website and utilising the languages, tools & technologies learnt within the module 
+aforementioned.
 
 
 
@@ -44,18 +48,9 @@ educational
 
 
 
+  
+ 
 
-
-
-
-
-
-
-
-background in both aspects of project management and website development to construct a static front-end 
-site. Consideration is taken in encompassing all aspects of User Experience Design (UXD) that forms the 
-core part of this development, incorporating the 5 planes methodology, ensuring the responsiveness of the 
-website and utilising the languages, tool & technologies learnt within the module aforementioned.
 
 # User Experience Design (UXD)
 
