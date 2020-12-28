@@ -78,7 +78,7 @@ In the duration of the conception stage to plan out for this project, research w
 ideas to consider from other portfolio websites to potentially include appropriate features, design and 
 styling themes, especially making colours and images accessible on the basis of the current languages, 
 tools and technologies yet within the level of capability. Through my volunteering knowledge and brief 
-professional experience, I was able to factor in the user's viewpoint into some design and styling themes,
+professional experience, I was able to factor in the user's viewpoint into some design and styling themes, 
 structuring websites whilst placing an emphasis into accessibility so was aware of some conventions and 
 principles yet further research was required to expand the knowledge into the advancement of website 
 development a decade on. Through my professional experience, I identified that the target audience is 
@@ -101,37 +101,34 @@ identified as follows:
 #### *Employer's Perspective*
 
 * As a user of a prospective employer, it would be an incentive to experience the ability in browsing 
-through a candidate's website portfolio to assimilate the developer by grasping key relevant information 
-via the content as derived from a Curriculum Vitae, which can be obtainable in its traditional form 
-through the website. The objective of it is to invite new and/or returning visitors to initiate their
-first contact with the developer which is dependent on the CV being easily shareable to potential 
-employers and interview panel to assist them with the decision-making in recruiting that individual.
+through a candidate's website portfolio to assimilate into the developer by grasping key relevant 
+information via the content as derived from a Curriculum Vitae, which can be obtainable in its 
+traditional form through the website. The objective of it is to invite new and/or returning visitors to 
+initiate their first contact with the developer which is dependent on the CV being easily shareable to 
+potential employers and interview panel to assist them with the decision-making in recruiting that 
+individual.
 
 * As an employer who is seeking for a candidate to connect with as a human being, within various roles of 
-a Full Stack, Front-end or Back-end Website Developer, 
+a Full Stack, Front-end or Back-end Website Developer, it would be of great value to have the ability to 
+explore the website portfolio which is rendered correctly, especially with the mobile-first approach 
+through the design methodology and principles. The outcome for the user would be to consciously 
+comprehend and assess the developer's technical competencies/logical thinking in the development 
+lifecycle or experiences through their own project works by way of GitHub or alternatively via a URL of 
+their hosting ISP, which an active link is offered to demonstrate this.
 
-
-
-
-
-it is of great value when there is the ability to explore the website 
-portfolio which is rendered correctly, especially with the mobile-first approach through the design 
-methodology and principles. The outcome for the user would be to consciously understand and assess the 
-developer's technical competencies/logical thinking in the development lifecycle or experiences through 
-their own project works by way of GitHub or alternatively via a URL through their hosting ISP, which an 
-active link is offered to demonstrate this.
-
-* As a user in wanting to employ a candidate, great value is identified towards the confidence in the 
-capability of skillfully coding the website, whilst expressing creativity that reflects the aesthetically 
-appealing product that the individual has built and places an emphasis on accessibility.
-
+* As a user in wanting to employ a candidate, the value is greatly appreciated in identifying the 
+confidence in the capability of skillfully coding the website, whilst expressing creativity that reflects 
+the aesthethically appealing product that the individual has built and places an emphasis on 
+accessibility.
+  
 #### *Recruiter's Perspective*
 
 * As a user of a recruiter, there is a continuous responsibility to efficiently identify from an 
 accumulation of potential developers, to suggest to their portfolio of clients who will have various 
-specific criterias that are determined from a range of companies/businesses whether small, medium or large. 
-Therefore in effect, the responsive performance into the functionality of the website portfolio enables the 
-great value in accessing useful information, is essential for a recommendation to a client to take effect.
+specific criterias that are determined from a range of companies/businesses whether small, medium or 
+large. Therefore in effect, the responsive performance into the functionality of the website portfolio 
+enables the great value in accessing useful information, is essential for a recommendation to a client to 
+take effect.
 
 * As a recruiter, it is difficult to grasp the in-depth knowledge of the employer that determines whether 
 the targeted suitable candidates is a good match to the representative client's requirements therefore by 
@@ -141,11 +138,6 @@ candidates and assesses their employment & educational history.
 * As a user, we receive requests to fill positions on a temporary/contractual basis or identify talents 
 from large firms therefore candidates will need to demonstrate with proof of their capability to ensure 
 that the role is accomplished or sustained respectively.
-
-
-
-
-
 
 #### *Combined User's Perspectives*
 
@@ -176,13 +168,13 @@ people's personal & professional lives through my coding ability.
 
 ## Structure
 
-The purpose of the Structure plane is to provide the aforementioned users within the Scope an enhanced 
-view aesthetically of a Curriculum Vitae which can be sectioned out accordingly to various separate 
-webpages in order to break up the content and utilise some of the website development experience as 
-opposed to incorporating them all into one page. Also gut instinct tells me that with reference to the 
-Structure illustration chart, I have identified that this website will be simple and linear with a view 
-for it to be in the middle of the ball-park per se as I develop the website deeply in due course to create 
-a high standard website portfolio.
+The purpose of the Structure plane is to provide the aforementioned new or returning users within the 
+Scope an enhanced view aesthetically of a Curriculum Vitae which can be sectioned out accordingly to 
+various separate webpages in order to break up the content and utilise some of the website development 
+experience as opposed to incorporating them all into one page. Also gut instinct tells me that with 
+reference to the Structure illustration chart, I have identified that this website will be simple and 
+linear with a view for it to be in the middle of the ball-park per se as I develop the website deeply in 
+due course to create a high standard website portfolio.
 
 ### *Interaction Design (IXD)*
 
@@ -261,9 +253,12 @@ developed wireframes are:
 
 - **[Contact](wireframes/contact-for-all-devices.pdf)**
 
-Also consideration has been taken into the visual design of the navigation which will include a fixed-top feature that will enable users to scroll down effortlessly ensuring that the navigational links remain visible no matter how far down the content goes, which will be consistent across all webpages and these are all active in functionality as convention dictates to contribute to good UX.
+Also consideration has been taken into the visual design of the navigation which will include a fixed-top 
+feature that will enable users to scroll down effortlessly ensuring that the navigational links remain 
+visible no matter how far down the content goes, which will be consistent across all webpages and these 
+are all active in functionality as convention dictates to contribute to good UX.
 
-<!-- DO NOT CHANGE THE CONTENT AT THIS POINT!! -->
+
 
 
 
