@@ -58,28 +58,31 @@ to lead them in initiating contact.
 ## Strategy
 
 As established above, the product is built consciously with the employers and recruiters in mind, 
-specifically their business recruitment objectives to provide them the value in the ability to assess what 
-I can offer overall as a candidate, professionally and personally through developing a website portfolio. 
-The objective of this strategy is to market myself as a product and provide value through the lifecycle in 
-the bulk construction of the project from conception to the development and testing stages prior to 
-finally consider the deployment, whereby this operates as a responsive website using the approach of the 
-mobile-first principle, that it's a fully functional source of information through the user's browser 
-which conforms to conventions and elicits good user experience.
+specifically their business recruitment objectives to provide them the value in the ability to assess 
+what I can offer overall as a candidate, professionally and personally through developing a website 
+portfolio. The objective of this strategy is to market myself as a product and provide value through the 
+lifecycle in the bulk construction of the project from conception to the development and testing stages 
+prior to finally consider the deployment, whereby this operates as a responsive website using the 
+approach of the mobile-first principle, that it's a fully functional source of information through the 
+user's browser which conforms to conventions and elicits good user experience.
 
 With this in mind, the primary focus is to project into the construction of a subtle and appealing design 
 with an element of boldness into the professional portfolio that has potential to evolve. It would also 
-encompasses the learning principles and methodologies from the course, whilst utilising various resources 
+encompass the learning principles and methodologies from the course, whilst utilising various resources 
 to ensure it is user-friendly and well-structured, demonstrate the capabilities as a developer and provide 
-context of educational & employment background. The aim of this is to convey to prospective employers in 
-assisting them to achieve their goal in the duration of their browsing experience to provide that value.
+context of their educational & employment background. The aim of this is to convey to prospective 
+employers in assisting them to achieve their goal in the duration of their browsing experience to provide 
+that value.
 
-In the duration of the conception stage in planning for this project, research was undertaken to establish 
-what other portfolio based websites had been developed and through my educational knowledge and brief 
-professional experience, I was able to factor in the user's viewpoint by visiting those examples to 
-utilise the current tools and technologies to ascertain the appropriate features, design & styling themes, 
-especially making colour & images accessible and structure. Through experience, I identified that the 
-target audience is going to be diverse, thus the website portfolio requires to cater for this wide net of 
-opportunities.
+In the duration of the conception stage to plan out for this project, research was undertaken to establish 
+ideas to consider from other portfolio websites to potentially include appropriate features, design and 
+styling themes, especially making colours and images accessible on the basis of the current languages, 
+tools and technologies yet within the level of capability. Through my volunteering knowledge and brief 
+professional experience, I was able to factor in the user's viewpoint into some design and styling themes,
+structuring websites whilst placing an emphasis into accessibility so was aware of some conventions and 
+principles yet further research was required to expand the knowledge into the advancement of website 
+development a decade on. Through my professional experience, I identified that the target audience is 
+going to be diverse, thus the website portfolio requires to cater for this wide net of opportunities.
 
 ## Scope
 
