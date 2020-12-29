@@ -131,9 +131,9 @@ enables the great value in accessing useful information, is essential for a reco
 take effect.
 
 * As a recruiter, it is difficult to grasp the in-depth knowledge of the employer that determines whether 
-the targeted suitable candidates is a good match to the representative client's requirements therefore by 
-obtaining a Curriculum Vitae which is widely recognised, it concisely outlines the skills of various 
-candidates and assesses their employment & educational history.
+the targeted candidates that is deemed suitable is a good match to the representative client's 
+requirements therefore by obtaining a Curriculum Vitae which is widely recognised, it concisely outlines 
+the skills of various candidates and assesses their employment & educational history.
 
 * As a user, we receive requests to fill positions on a temporary/contractual basis or identify talents 
 from large firms therefore candidates will need to demonstrate with proof of their capability to ensure 
@@ -171,10 +171,10 @@ people's personal & professional lives through my coding ability.
 The purpose of the Structure plane is to provide the aforementioned new or returning users within the 
 Scope an enhanced view aesthetically of a Curriculum Vitae which can be sectioned out accordingly to 
 various separate webpages in order to break up the content and utilise some of the website development 
-experience as opposed to incorporating them all into one page. Also gut instinct tells me that with 
+experience as opposed to combining them all into one page. Also gut instinct tells me that with 
 reference to the Structure illustration chart, I have identified that this website will be simple and 
 linear with a view for it to be in the middle of the ball-park per se as I develop the website deeply in 
-due course to create a high standard website portfolio.
+due course to create a great standard website portfolio.
 
 ### *Interaction Design (IXD)*
 
@@ -224,11 +224,17 @@ process into structuring the webpages through the software Balsamiq,
 
 #### *Wireframing the website*
 
+Below represents how a website will be structured as an information architecture in the form of a sitemap 
+along with details for each of the webpages within the project:
+
 **[Website Portfolio Site Structure](wireframes/website-portfolio-sitemap.png)**
 
-- **Home** :- I plan to include a hero image with a brief introductory paragraph and a narrative perspective comprising of knowledge & experience in website development.
-- **Projects** :- This will consist of mini-projects and examples that have been developed with active links to the live websites within the course to retain its simplicity.
-- **Profile** :- Containing a hero image of my favourite hobby, a paragraph of professional background & experience and also current technological skills.
+- **Home** :- I plan to include a hero image with a brief introductory paragraph and a narrative 
+perspective comprising of knowledge & experience in website development.
+- **Projects** :- This will consist of mini-projects and examples that have been developed with active 
+links to the live websites within the course to retain its simplicity.
+- **Profile** :- Containing a hero image of my favourite hobby, a paragraph of professional background & 
+experience and also current technological skills.
 - **Contact** :- Quite simply this will have a hero image with a brief message and a contact form.
 
 ## Skeleton
@@ -253,21 +259,33 @@ developed wireframes are:
 
 - **[Contact](wireframes/contact-for-all-devices.pdf)**
 
-Also consideration has been taken into the visual design of the navigation which will include a fixed-top 
-feature that will enable users to scroll down effortlessly ensuring that the navigational links remain 
-visible no matter how far down the content goes, which will be consistent across all webpages and these 
-are all active in functionality as convention dictates to contribute to good UX.
+Given that this plane is concerned with the navigational and interface design, consideration is taken to 
+influence new/returning visitors by prolonging the experience as much as possible, through providing 
+content that is specifically relevant and appropriate at various points throughout the experience. This 
+results in giving users greater value into the website with the addition of conventions that focuses on 
+the visual design of the navigation which will include a fixed-top navbar that will enable users to scroll 
+down effortlessly ensuring that the navigational links remain visible no matter how far down the content 
+goes, which will be consistent across all webpages and these are all active in functionality as convention 
+dictates to contribute to good UX. Also the fixed-top navbar will apply for most breakpoints with the 
+exception of the smaller mobile view whereby this is to feature a hamburger menu for the benefit of being 
+a responsive design.
+
+The landing homepage is to lead new/returning visitors into the purpose of the website as they explore to 
+other webpages with an explanation into the type of portfolio that is being conveyed and the differing 
+expectations of both sides i.e. employers/recruiters vs the developer. 
 
 
 
 
+
+
+
+
+
+<!-- lead user towards continuing the experience, introduce specific content at the most relevant and
+appropriate points in the experience -->
 
 ## Surface
-
-
-
-
-
 
 <!-- Colour Palette --> contemporary colours
 
