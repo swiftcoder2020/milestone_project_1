@@ -36,10 +36,10 @@
 As the first project into the Diploma, this represents the opportunity to demonstrate my technical 
 knowledge and skills learnt within the Full Stack Website Development course, yet blending in some 
 educational background in both aspects of project management and website development to construct a 
-static front-end site. Consideration is taken in encompassing all aspects of User Experience Design (UXD) 
-that forms the core part of this development, incorporating the 5 planes methodology, ensuring the 
-responsiveness of the website and utilising the languages, tools & technologies learnt within the module 
-aforementioned.
+static front-end site with the use of HTML & CSS. Consideration is taken in encompassing all aspects of 
+User Experience Design (UXD) that forms the core part of this development, incorporating the 5 planes 
+methodology, ensuring the responsiveness of the website and utilising the languages, tools & technologies 
+learnt within the module aforementioned.
 
 # User Experience Design (UXD)
 
@@ -98,7 +98,7 @@ relevant social media/collaborative means i.e. GitHub, LinkedIn, Facebook and Tw
 their perspective whether they are a new or returning visitor to the website, these key points have been 
 identified as follows:
 
-#### *Employer's Perspective*
+a) *Employer's Perspective*
 
 * As a user of a prospective employer, it would be an incentive to experience the ability in browsing 
 through a candidate's website portfolio to assimilate into the developer by grasping key relevant 
@@ -120,8 +120,8 @@ their hosting ISP, which an active link is offered to demonstrate this.
 confidence in the capability of skillfully coding the website, whilst expressing creativity that reflects 
 the aesthethically appealing product that the individual has built and places an emphasis on 
 accessibility.
-  
-#### *Recruiter's Perspective*
+
+b) *Recruiter's Perspective*
 
 * As a user of a recruiter, there is a continuous responsibility to efficiently identify from an 
 accumulation of potential developers, to suggest to their portfolio of clients who will have various 
@@ -139,7 +139,7 @@ the skills of various candidates and assesses their employment & educational his
 from large firms therefore candidates will need to demonstrate with proof of their capability to ensure 
 that the role is accomplished or sustained respectively.
 
-#### *Combined User's Perspectives*
+c) *Combined User's Perspectives*
 
 * As a combination of users, there is the viewpoint that by browsing, the website portfolio provides the 
 content which is expected to be rendered fluently, swiftly and responsively via accessing active 
@@ -157,7 +157,7 @@ content which can determine effectively whether the candidate is worth pursuing.
 alternative methods such as social media, email or telephone/mobile number provided via their Curriculum 
 Vitae.
 
-2. Website Developer 
+2. Website Developer
 
 As a trainee Full Stack Website Developer, I am solely aiming to fully contribute towards the project 
 goals and strategy, endeavouring to secure the opportunity of employment within the industry of website 
@@ -219,13 +219,14 @@ content perspective that this should be reduced to 4 webpages thereby retaining 
 I had also identified as part of the information architecture that the website portfolio will be 
 structured in the form of a simple yet basic hierarchy of webpages whereby 'Home' represents the top level 
 and 'Projects', 'Profile' and 'Contact' will be of equal horizontal level at the bottom in a tree like 
-structure and this is reflected in the site structure, therefore the below links represents the thought 
-process into structuring the webpages through the software Balsamiq,  
+structure and this is reflected in the site structure, therefore the below links in the next section 
+represents the thought process into structuring the webpages through the software Balsamiq.
 
 #### *Wireframing the website*
 
 Below represents how a website will be structured as an information architecture in the form of a sitemap 
-along with details for each of the webpages within the project:
+along with details for each of the webpages within the project and illustrates the logical movement into 
+different sections:
 
 **[Website Portfolio Site Structure](wireframes/website-portfolio-sitemap.png)**
 
@@ -235,7 +236,8 @@ perspective comprising of knowledge & experience in website development.
 links to the live websites within the course to retain its simplicity.
 - **Profile** :- Containing a hero image of my favourite hobby, a paragraph of professional background & 
 experience and also current technological skills.
-- **Contact** :- Quite simply this will have a hero image with a brief message and a contact form.
+- **Contact** :- Quite simply this will have a hero image with a brief message and a contact form to 
+initiate a call to action.
 
 ## Skeleton
 
@@ -263,35 +265,59 @@ Given that this plane is concerned with the navigational and interface design, c
 influence new/returning visitors by prolonging the experience as much as possible, through providing 
 content that is specifically relevant and appropriate at various points throughout the experience. This 
 results in giving users greater value into the website with the addition of conventions that focuses on 
-the visual design of the navigation which will include a fixed-top navbar that will enable users to scroll 
-down effortlessly ensuring that the navigational links remain visible no matter how far down the content 
-goes, which will be consistent across all webpages and these are all active in functionality as convention 
-dictates to contribute to good UX. Also the fixed-top navbar will apply for most breakpoints with the 
-exception of the smaller mobile view whereby this is to feature a hamburger menu for the benefit of being 
-a responsive design.
+the visual design of the navigation amongst others. 
 
-The landing homepage is to lead new/returning visitors into the purpose of the website as they explore to 
-other webpages with an explanation into the type of portfolio that is being conveyed and the differing 
-expectations of both sides i.e. employers/recruiters vs the developer. 
+One of those conventions is that it will include a navigation bar to be positioned at the top in a fixed 
+manner that is applicable at all breakpoints. This would consist of a logo which is placed at the top left 
+of the webpage in typical fashion and finally the styling of each navigational links that will be visible 
+at most breakpoints with the exception of the smaller mobile view, whereby this will feature a hamburger 
+menu to create the benefit of a responsive design as space is limited due to screen resolutions.
 
+Another convention is that the landing homepage is to lead new/returning visitors into the purpose of the 
+website as they explore to other webpages with an explanation into the type of portfolio that is being 
+conveyed and the differing expectations of both sides i.e. employers/recruiters vs the developer thus the 
+outcome is to encourage these users in the direction of a call to action whereby it initates that contact.
 
+An aspect of website development which is one that I would consider as an essential convention is the 
+visual hierarchy whereby the structure of the content is considered i.e. the most or least important, that 
+is to be read and this is reflected in the navigation leading the users to various specific webpages.
 
-
-
-
-
-
-
-<!-- lead user towards continuing the experience, introduce specific content at the most relevant and
-appropriate points in the experience -->
+Finally I have made use of both buttons and icons in sparse measures as I have identified that the usage 
+of these are going to be low as I felt it wouldn't appropriately relate to this specific project.
 
 ## Surface
+
+Upon the approach into the final fifth plane, a benefit prior to the milestone 1 project was that I had 
+already envisaged what the colour palette was going to consist of which would form the basis of the feel 
+into the design
+
+
+
+
+I had envisaged the colour palette prior to the milestone 1 project whereby I wanted the subtle colours 
+of light blue, bold blue, grey and white
+
+
+
+
+
+
+
 
 <!-- Colour Palette --> contemporary colours
 
 # Features
 
-<!-- Bootstrap Carousel, form which features a modal to confirm submission button works (good user experience) -->
+
+that will enable users to scroll 
+down effortlessly ensuring that the navigational links remain visible no matter how far down the content 
+goes, which will be consistent across all webpages and these are all active in functionality as convention 
+dictates to contribute to good UX. 
+
+
+
+
+<!-- fixed-top navbar Bootstrap Carousel, form which features a modal to confirm submission button works (good user experience) -->
 
 # Languages, Tools & Technologies Utilised
 
