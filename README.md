@@ -326,25 +326,65 @@ These are illustrated in the colour palette as per below:
 
 # Features
 
+## Navigation
 
-that will enable users to scroll 
-down effortlessly ensuring that the navigational links remain visible no matter how far down the content 
-goes, which will be consistent across all webpages and these are all active in functionality as convention 
-dictates to contribute to good UX. 
+The navigation bar will be designed by utilising Bootstrap's navbar in a horizontal position as a 
+fixed-top effect that will enable users to scroll down the webpage effortlessly ensuring that the logo 
+and navigational links remain visible no matter how far down the content goes to contribute to the website 
+portfolio being user friendly. These will be consistent across all webpages and are all active in 
+functionality as convention dictates to ensure good UX is applied. I was satisfied with the design of the 
+hamburger icon as this fitted nicely into the theme of the website. From tablet view and beyond, the only 
+change I had applied was to increase the font size as I was aware that it would suit the design better if 
+the font size on mobile view was smaller.
 
+Also to add extra appeal usability to the navigation, I designed the links whereby a dark grey is applied 
+indicating the current page that the new/returning visitors are browsing through and a more vibrant blue 
+to indicate the available links to visit. I have also added a CSS trick whereby once you hover over the 
+navigational links, the font colour changes to a dark grey colour and also the underline colour changes 
+from white to a vibrant blue which this also expands in size horizontally into a neat feature.
 
+## Skills
 
+Within the Skills section, I have utilised Bootstrap's grid to create 3 x sub-sections to separate 
+each type of skill i.e. front-end, back-end and any miscellaneous yet relevant skills relating to website 
+development. Again I have also implemented a neat feature within each of the rectangular shapes whereby 
+once the landing page has loaded, these 3 sub-sections are smaller in size to begin with yet scales up as 
+a CSS animation trick, in size as the seconds pass to direct the employer's & recruiter's attention.
 
-<!-- fixed-top navbar Bootstrap Carousel, form which features a modal to confirm submission button works (good user experience) -->
+## Projects
+
+This section will feature Bootstrap's Carousel to highlight the developer's best or recent project works 
+in which an image is provided showing the website's responsiveness and will include a button to direct 
+users to the URL of the project. It will also contain a section utilising Bootstrap's Card feature so as 
+to exhibit the demonstration of all the previous developments as a portfolio whereby each project includes 
+a synopsis such as an overview into the website, what languages, tools and technologies were used so that 
+the new/returning visitors can grasp with recognition the purpose and capabilities, prior to visiting the 
+external links provided.
+
+## Contact
+
+Lastly this webpage will feature a customised format of Bootstrap's form with the aim of including a modal 
+to imply a part functionality and confirmation that the submission button works rather than leaving it in 
+an inactive state to elicit good user experience.
 
 # Languages, Tools & Technologies Utilised
 
+* GitHub :- collaborative tool in a community of developers
+* GitPod :- editor utilised to code the website
+* Git :- a form of versioning control
 * Bootstrap v4.5.2 :- this is a CSS framework which is used to assist with making the design
 * Google Fonts
 * Font Awesome
-* CSS
-* HTML
-* Balsamiq
+* jQuery :- a brief bit of HTML coding has been applied which relates to the functionality of the 
+hamburger menu component applicable in mobile view.
+* Popper :- a brief bit of HTML coding has been applied which relates to the functionality of the 
+hamburger menu component applicable in mobile view.
+* JavaScript :- a brief bit of HTML coding has been applied which relates to the functionality of the 
+hamburger menu component applicable in mobile view.
+* CSS3 :- this is the current standard that is used.
+* HTML5 :- this is the current standard that is used.
+* Balsamiq :- the software has been utilised to create wireframes as part of the preparational work into 
+the website portfolio in mock up form.
 
 # Testing
 
