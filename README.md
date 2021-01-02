@@ -312,8 +312,14 @@ the icons prior to it being hovered over.
 underlined colour which expandsonce the mouse cursor has hovered over the navigational link, the main 
 headings within the contents, the buttons included in the carousel & contact form and also as the focal 
 point of the footer as a background colour.
+* D4D4D4 - Light Grey appears as the colour for the shadowed effect within the content to add extra 
+appeal to key elements.
 * #686868 - Dim Grey is to be applicable to the navigational links subsequent to hovering over, the 
 subtitle within the content section.
+
+These are illustrated in the colour palette as per below:
+
+**[JS Website Portfolio Colour Palatte](images/js-website-portfolio.png)**
 
 # Features
 
