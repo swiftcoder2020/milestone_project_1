@@ -23,8 +23,9 @@
       - [Interaction Design (IXD)](https://github.com/swiftcoder2020/ms1_portfolio_project/blob/master/README.md#interaction-design-ixd)
       - [Information Architecture](https://github.com/swiftcoder2020/ms1_portfolio_project/blob/master/README.md#information-architecture)
    5. [Skeleton](https://github.com/swiftcoder2020/ms1_portfolio_project/blob/master/README.md#skeleton)
-      - [Wireframing the website]()
+      - [Wireframing the website](https://github.com/swiftcoder2020/ms1_portfolio_project/blob/master/README.md#wireframing-the-website)
    6. [Surface](https://github.com/swiftcoder2020/ms1_portfolio_project/blob/master/README.md#surface)
+      - [Colour palette]()
 3. [Features](https://github.com/swiftcoder2020/ms1_portfolio_project/blob/master/README.md#features)
 4. [Languages, Tools & Technologies Utilised](https://github.com/swiftcoder2020/ms1_portfolio_project/blob/master/README.md#languages-tools--technologies-utilised)
 5. [Testing](https://github.com/swiftcoder2020/ms1_portfolio_project/blob/master/README.md#testing)
@@ -319,7 +320,9 @@ subtitle within the content section.
 
 These are illustrated in the colour palette as per below:
 
-**[JS Website Portfolio Colour Palatte](images/js-website-portfolio.png)**
+### Colour Palette
+
+<img src="images/js-website-portfolio.png">
 
 # Features
 
