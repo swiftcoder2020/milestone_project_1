@@ -268,10 +268,11 @@ results in giving users greater value into the website with the addition of conv
 the visual design of the navigation amongst others. 
 
 One of those conventions is that it will include a navigation bar to be positioned at the top in a fixed 
-manner that is applicable at all breakpoints. This would consist of a logo which is placed at the top left 
-of the webpage in typical fashion and finally the styling of each navigational links that will be visible 
-at most breakpoints with the exception of the smaller mobile view, whereby this will feature a hamburger 
-menu to create the benefit of a responsive design as space is limited due to screen resolutions.
+manner that is applicable at all breakpoints to accommodate for each device used which is then based on 
+different screen resolutions in pixels. This would consist of a logo which is placed at the top left of 
+the webpage in typical fashion and finally the styling of each navigational links that will be visible at 
+most breakpoints with the exception of the smaller mobile view, whereby this will feature a hamburger 
+menu to create the benefit of a responsive design as space is restricted due to screen resolutions.
 
 Another convention is that the landing homepage is to lead new/returning visitors into the purpose of the 
 website as they explore to other webpages with an explanation into the type of portfolio that is being 
@@ -283,28 +284,36 @@ visual hierarchy whereby the structure of the content is considered i.e. the mos
 is to be read and this is reflected in the navigation leading the users to various specific webpages.
 
 Finally I have made use of both buttons and icons in sparse measures as I have identified that the usage 
-of these are going to be low as I felt it wouldn't appropriately relate to this specific project.
+of these are going to be low at a minimal as I felt it wouldn't appropriately relate to this specific 
+project.
+
+It is with acknowledgement that a balance has to be struck between the features and usefulness which also 
+relates to the Skeleton plane to maximise the usability of the website therefore with this in mind, 
+consideration has been given to ensure that the shape remains consistent throughout the webpages to avoid 
+a sense of disorientation. 
 
 ## Surface
 
-Upon the approach into the final fifth plane, a benefit prior to the milestone 1 project was that I had 
-already envisaged what the colour palette was going to consist of which would form the basis of the feel 
-into the design
+Upon the approach into the final fifth plane, I had already identified one benefit prior to the milestone 
+1 project in that the colour palette had already been envisaged and it was going to consist of it forming 
+the basis into the feel of the design which reflected my personality whereby I had recognised that I 
+wanted subtle yet contemporary colours of light blue, vibrant blue, dark grey and white.
 
+Specifically the placement or utilisation of the colours are going to be as follows:
 
-
-
-I had envisaged the colour palette prior to the milestone 1 project whereby I wanted the subtle colours 
-of light blue, bold blue, grey and white
-
-
-
-
-
-
-
-
-<!-- Colour Palette --> contemporary colours
+* #FFFFFF - White would be attributed to the separator of each navigational links, underlines each of the 
+navigational links to make it more appealing and in addition is there for a reason as it will form the 
+effect of the interactive feature. Also it attributes towards the background colour of the content and the 
+headings, paragraph and subsequent to hovering over the icons within the footer section.
+* #D8E9FE - Beau Blue which is going to be used in the header within the logo & navigational links 
+section, the background colour of some contents such as the skills & projects features and the colour of 
+the icons prior to it being hovered over.
+* #3066BE - True Blue will be used as the font colour prior to hovering over the navigational links, the 
+underlined colour which expandsonce the mouse cursor has hovered over the navigational link, the main 
+headings within the contents, the buttons included in the carousel & contact form and also as the focal 
+point of the footer as a background colour.
+* #686868 - Dim Grey is to be applicable to the navigational links subsequent to hovering over, the 
+subtitle within the content section.
 
 # Features
 
