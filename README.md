@@ -250,9 +250,9 @@ strategy is applied whereby the usage and traffic of smartphones exceeds the tra
 PC and each of these webpages will be scaled up considering various breakpoints apiece such as mobile, 
 tablet, laptop and desktop PC to ensure that great user experience is in responsiveness of the website as 
 well as the general design conventions within website development. With this in mind, the following 
-developed wireframes are:
+developed wireframes at various breakpoints of xs, sm, md, lg & xl are:
 
-**[Templated theme design](wireframes/templated-design-for-all-devices.pdf)**
+- **[Templated theme design](wireframes/templated-design-for-all-devices.pdf)**
 
 - **[Hompage](wireframes/homepage-for-all-devices.pdf)**
 
@@ -322,7 +322,7 @@ These are illustrated in the colour palette as per below:
 
 ### Colour Palette
 
-<img src="images/js-website-portfolio.png">
+<img src="assets/images/js-website-portfolio.png">
 
 # Features
 
