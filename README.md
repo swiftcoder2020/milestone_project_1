@@ -25,7 +25,7 @@
    5. [Skeleton](https://github.com/swiftcoder2020/ms1_portfolio_project/blob/master/README.md#skeleton)
       - [Wireframing the website](https://github.com/swiftcoder2020/ms1_portfolio_project/blob/master/README.md#wireframing-the-website)
    6. [Surface](https://github.com/swiftcoder2020/ms1_portfolio_project/blob/master/README.md#surface)
-      - [Colour palette]()
+      - [Colour palette](https://github.com/swiftcoder2020/ms1_portfolio_project/blob/master/README.md#colour-palette)
 3. [Features](https://github.com/swiftcoder2020/ms1_portfolio_project/blob/master/README.md#features)
 4. [Languages, Tools & Technologies Utilised](https://github.com/swiftcoder2020/ms1_portfolio_project/blob/master/README.md#languages-tools--technologies-utilised)
 5. [Testing](https://github.com/swiftcoder2020/ms1_portfolio_project/blob/master/README.md#testing)
