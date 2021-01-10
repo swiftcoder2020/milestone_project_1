@@ -343,6 +343,10 @@ body {
 }
 
 @media (min-width: 1024px){
+    body {
+        padding-top: 120px;
+    }
+    
     .underline {
         text-decoration: none;
         position: relative;
