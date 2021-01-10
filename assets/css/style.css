@@ -407,4 +407,8 @@ body {
     .main-container {
         margin: 30px 0px;
     }
+
+    .skills-title {
+        margin-bottom: 30px;
+    }
 }
