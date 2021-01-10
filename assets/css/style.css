@@ -432,6 +432,11 @@ body {
         margin-bottom: 30px;
     }
 
+    .contact-hero-text {    
+        top: 40px;
+        right: 40px;
+    }
+
     .contact-hero-text h1 {
         font-size: 3.5rem;
     }
