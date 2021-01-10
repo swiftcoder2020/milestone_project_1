@@ -170,10 +170,6 @@ body {
 
 /* -----Skills----- */
 
-.main-container {
-    margin: 20px 0px;
-}
-
 .skills-title {
     margin-bottom: 10px;
     font-family: "Caveat", sans-serif;
@@ -288,6 +284,13 @@ body {
 }
 
 /* -----Contact form----- */
+
+.contact-heading {
+    font-family: "Caveat", sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: #3066be;
+}
 
 .contact-button {
     display: flex;
