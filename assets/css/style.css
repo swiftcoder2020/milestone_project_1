@@ -297,21 +297,24 @@ body {
     }
 }
 
-
-
-
-
-
-
-
-
-@media (min-width: 576px) {    
-    
+@media (min-width: 576px) {
+    .nav-item {
+        padding: 0px 7px;
+    }
 
     .link-md-separator {
         border-right: 3px solid #ffffff;
     }
 }
+
+
+
+
+
+
+
+
+
 
 @media (min-width: 675px) {
     .logo {
