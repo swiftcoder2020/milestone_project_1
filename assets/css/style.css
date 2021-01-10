@@ -144,16 +144,22 @@ body {
     letter-spacing: 1px;
 }
 
+.index-hero-text h3 {
+    font-family: "Caveat Brush", sans-serif;
+    color: #3066be;
+}
+
 .index-hero-text h4 {
     font-family: "Montserrat", sans-serif;
     font-size: 1rem;
     line-height: 22px;
 }
 
-.index-hero-text h3 {
-    font-family: "Caveat Brush", sans-serif;
-    color: #3066be;
-}
+
+
+
+
+
 
 .contact-hero-text {
     position: absolute;
