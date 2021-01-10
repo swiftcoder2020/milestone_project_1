@@ -447,6 +447,8 @@ body {
         bottom: 45px;
         right: 45px;
         width: 390px;
+        padding: 15px;
+        letter-spacing: 1px;
     }
 
     .index-hero-text h4 {
