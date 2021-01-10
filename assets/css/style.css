@@ -326,6 +326,7 @@ body {
     }
 
     .progress {
+        height: 35px;
         margin-bottom: 24px;
     }
 }
