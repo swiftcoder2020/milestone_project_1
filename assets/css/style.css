@@ -35,7 +35,7 @@ body {
 }
 
 .nav-item {
-    padding: 0px 10px;
+    text-align: right;
 }
 
 .navbar-light .navbar-nav .nav-link {
