@@ -294,6 +294,7 @@ body {
     .block-container {
         max-width: 470px;
         margin: 20px auto;
+        padding-left: 25px;
     }
 }
 
@@ -318,6 +319,7 @@ body {
         height: 240px;
         max-width: 550px;
         margin: 20px auto;
+        padding-left: 30px;
     }
 
     .skill-logo img {
