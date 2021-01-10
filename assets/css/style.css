@@ -407,6 +407,11 @@ body {
         padding-top: 120px;
     }
 
+    .general-content {
+        font-weight: 500;
+        font-size: 1.25rem;
+    }
+
     .logo {
         width: 285px;
         height: auto;
