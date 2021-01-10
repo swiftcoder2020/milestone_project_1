@@ -307,7 +307,11 @@ body {
     }
 }
 
-
+@media (min-width: 610px){
+    .nav-item {
+        padding: 0px 10px;
+    }
+}
 
 
 
