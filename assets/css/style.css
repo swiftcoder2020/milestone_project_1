@@ -290,6 +290,7 @@ body {
 /* -----Contact form----- */
 
 .contact-heading {
+    margin-bottom: 20px;
     font-family: "Caveat", sans-serif;
     font-weight: bold;
     text-align: center;
