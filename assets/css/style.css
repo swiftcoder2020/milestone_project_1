@@ -311,6 +311,11 @@ body {
     .nav-item {
         padding: 0px 10px;
     }
+
+    .contact-hero-text {    
+        top: 20px;
+        right: 20px;
+    }
 }
 
 @media (min-width: 700px) {
