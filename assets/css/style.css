@@ -458,4 +458,8 @@ body {
         line-height: 40px;
         font-size: 1.25rem;
     }
+
+    .contact-hero-image {
+        background-position: 30% 30%;
+    }
 }
