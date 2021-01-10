@@ -306,34 +306,7 @@ body {
 
 
 @media (min-width: 576px) {    
-    .underline {
-        text-decoration: none;
-        position: relative;
-    }
-
-    .underline:after {
-        position: absolute;
-        content:'';
-        height: 4px;
-        bottom: 0px;
-
-        margin: 0 auto;
-        left: 0;
-        right: 0;
-        width: 50%;
-        background: #ffffff;
-
-        -o-transition: .5s;
-        -ms-transition: .5s;
-        -moz-transition: .5s;
-        -webkit-transition: .5s;
-        transition: .5s;
-    }
-
-    .underline:hover:after {
-        width: 80%;
-        background: #3066be;
-    }
+    
 
     .border-md-right {
         border-right: 3px solid #ffffff;
@@ -370,5 +343,36 @@ body {
 
     .index-hero-text h4 {
         line-height: 25px;
+    }
+}
+
+@media (min-width: 1024px){
+    .underline {
+        text-decoration: none;
+        position: relative;
+    }
+
+    .underline:after {
+        position: absolute;
+        content:'';
+        height: 4px;
+        bottom: 0px;
+
+        margin: 0 auto;
+        left: 0;
+        right: 0;
+        width: 50%;
+        background: #ffffff;
+
+        -o-transition: .5s;
+        -ms-transition: .5s;
+        -moz-transition: .5s;
+        -webkit-transition: .5s;
+        transition: .5s;
+    }
+
+    .underline:hover:after {
+        width: 80%;
+        background: #3066be;
     }
 }
