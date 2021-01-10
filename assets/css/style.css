@@ -304,6 +304,7 @@ body {
 .form-labels{
     font-family: "Caveat", sans-serif;
     font-size: 1.5rem;
+    font-weight: bold;
 }
 
 .form-inputs {
