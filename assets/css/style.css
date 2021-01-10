@@ -306,6 +306,11 @@ body {
     font-size: 1.5rem;
 }
 
+.form-inputs {
+    font-family: "Montserrat", sans-serif;
+    font-size: 1.5rem;
+}
+
 .contact-button {
     display: flex;
     margin: 0 auto;
