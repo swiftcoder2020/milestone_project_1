@@ -352,6 +352,10 @@ body {
         height: auto;
     }
 
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 1.75rem;
+    }
+
     .underline {
         text-decoration: none;
         position: relative;
