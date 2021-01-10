@@ -302,7 +302,7 @@ body {
     color: #3066be;
 }
 
-.form-labels{
+.form-labels {
     font-family: "Caveat", sans-serif;
     font-size: 1.5rem;
     font-weight: bold;
@@ -343,7 +343,7 @@ body {
         padding: 0px 10px;
     }
 
-    .contact-hero-text {    
+    .contact-hero-text {
         top: 20px;
         right: 20px;
     }
@@ -393,11 +393,11 @@ body {
     }
 }
 
-@media (min-width: 1024px){
+@media (min-width: 1024px) {
     body {
         padding-top: 120px;
     }
-    
+
     .logo {
         width: 285px;
         height: auto;
@@ -465,7 +465,7 @@ body {
         margin-bottom: 30px;
     }
 
-    .contact-hero-text {    
+    .contact-hero-text {
         top: 40px;
         right: 40px;
     }
@@ -475,7 +475,7 @@ body {
     }
 }
 
-@media (min-width: 1440px){
+@media (min-width: 1440px) {
     .index-hero-text {
         bottom: 50px;
         right: 75px;
@@ -496,7 +496,7 @@ body {
         background-position: 30% 30%;
     }
 
-    .contact-hero-text {    
+    .contact-hero-text {
         top: 40px;
         right: 200px;
     }
