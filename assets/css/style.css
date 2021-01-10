@@ -130,6 +130,10 @@ body {
     background-position: 36% 0%;
 }
 
+.profile-hero-image {
+    background-image: url("../images/cycling.jpg");
+}
+
 .contact-hero-image {
     background-image: url("../images/collaborate.jpg");
     background-position: 30% 0%;
