@@ -176,8 +176,8 @@ body {
 }
 
 .skills-title {
+    margin-bottom: 10px;
     font-family: "Caveat", sans-serif;
-    font-size: 2rem;
     font-weight: bold;
     text-align: center;
     color: #3066be;
