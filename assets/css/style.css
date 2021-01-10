@@ -388,4 +388,8 @@ body {
         width: 80%;
         background: #3066be;
     }
+
+    .hero-images {
+        height: 65vh;
+    }
 }
