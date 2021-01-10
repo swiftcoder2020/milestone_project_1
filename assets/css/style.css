@@ -311,14 +311,6 @@ body {
     .link-md-separator {
         border-right: 3px solid #ffffff;
     }
-
-    .index-hero-text h4 {
-        line-height: 25px;
-    }
-
-    .footer-block {
-        padding: 0px 15px;
-    }
 }
 
 @media (min-width: 675px) {
