@@ -69,6 +69,12 @@ body {
     font-weight: bold;
 }
 
+.footer-content {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+    font-size: 1rem;
+}
+
 .cv-pdf i {
     font-size: 1.25rem;
     text-align: center;
