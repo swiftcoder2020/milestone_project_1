@@ -427,6 +427,10 @@ body {
     .skills-title {
         margin-bottom: 30px;
     }
+
+    .contact-hero-text h1 {
+        font-size: 3rem;
+    }
 }
 
 @media (min-width: 1440px){
