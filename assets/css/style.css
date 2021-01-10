@@ -347,6 +347,11 @@ body {
         padding-top: 120px;
     }
     
+    .logo {
+        width: 285px;
+        height: auto;
+    }
+
     .underline {
         text-decoration: none;
         position: relative;
