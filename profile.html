@@ -3,11 +3,12 @@
 <head>
     <meta charset="UTF-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <meta name="description" content="Website Portfolio of Jonathan Swift"/>
+    <meta name="author" content="Jonathan Swift"/>
     <meta name="keywords" content="website development, website portfolio, full stack website development, front-end website development, back-end website development, 
     full stack website developer, front-end website developer, back-end website developer, front-end, back-end, developer, UX, User Experience Design, Bootstrap, 
     HTML5, HTML, CSS3, CSS, MySQL, PHP, GitHub, Gitpod"/>
-    <meta name="author" content="Jonathan Swift"/>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous"/>
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.10/css/all.css" integrity="sha384-+d0P83n9kaQMCwj8F4RJB66tzIwOKmrdb46+porD/OvrJ+37WqIM7UoBtwHO6Nlg" crossorigin="anonymous"/>
     <link rel="stylesheet" href="assets/css/style.css"/>
@@ -15,56 +16,42 @@
     <title>.:.Website Portfolio of Jonathan Swift:.:</title>
 </head>
 <body>
-    <header>
-        <nav class="navbar navbar-expand-sm fixed-top navbar-light custom-bg">
-            <a class="navbar-brand" href="index.html">
-                <img class="logo" src="assets/images/new_logo.png" alt="Logo of Jonathan Swift Full Stack Website Developer" aria-label="logo"/>
-            </a>
-            <button class="navbar-toggler ml-auto" type="button" data-toggle="collapse" data-target="#navbarDropdown" aria-controls="navbarDropdown" aria-expanded="false" aria-label="toggleNavigation">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="collapse navbar-collapse" id="navbarDropdown">
-                <ul class="navbar-nav ml-auto">
-                    <li class="nav-item ml-auto border-md-right active">
-                        <a class="nav-link underline" href="index.html" aria-label="homepage">Home <span class="sr-only">(Current page)</span></a>
-                    </li>
-                    <li class="nav-item ml-auto border-md-right">
-                        <a class="nav-link underline" href="projects.html" aria-label="explore the projects">Projects</a>
-                    </li>
-                    <li class="nav-item ml-auto border-md-right">
-                        <a class="nav-link underline" href="profile.html" aria-label="acquaint with my profile">Profile</a>
-                    </li>
-                    <li class="nav-item ml-auto">
-                        <a class="nav-link underline" href="contact.html" aria-label="get in touch">Contact</a>
-                    </li>
-                </ul>
-            </div>
-        </nav>
-    </header>
-    <main>
-        <div class="container-fluid hero-images profile-hero-image">
-            <p>
-                I view a challenge like riding a road bicycle where you are clipped to the pedals and you're faced with a hill, whether small, medium or large; there's no turning back. 
-                The only way to get to the top is to put every effort in, persevere and ride on no matter what.
-            </p>
-        </div> 
-    </main>
-    <section>
-        studied Business Information Technology at University of Central Lancashire & graduated 2010
-        work placement year with Buoyant Upholtery Limited 2007-08
-        studying Full Stack Website Development
-    </section>
-	<footer class="footer-container">	
+    <nav class="navbar navbar-expand-sm fixed-top navbar-light bg-light-blue">
+        <a class="navbar-brand" href="index.html">
+            <img class="logo" src="assets/images/new_logo.png" alt="Logo of Jonathan Swift Full Stack Website Developer" aria-label="portfolioLogo"/>
+        </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarDropdown" aria-controls="navbarDropdown" aria-expanded="false" aria-label="toggleNavigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarDropdown">
+            <ul class="navbar-nav ml-auto">
+                <li class="nav-item link-md-separator active">
+                    <a class="nav-link underline" href="index.html" aria-label="Homepage">Home <span class="sr-only">(Current page)</span></a>
+                </li>
+                <li class="nav-item link-md-separator">
+                    <a class="nav-link underline" href="projects.html" aria-label="Explore the projects">Projects</a>
+                </li>
+                <li class="nav-item link-md-separator">
+                    <a class="nav-link underline" href="profile.html" aria-label="Acquaint with my profile">Profile</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link underline" href="contact.html" aria-label="Get in touch">Contact</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+	<footer class="footer-container">
         <div class="container">
             <div class="row">
-                <div class="col-xs-12 col-sm-4 footer-block">
+                <div class="col-xs-12 col-md-4 footer-block">
                     <h3 class="footer-heading">Professional Synopsis</h3>
                     <p class="general-font">
-                        Trainee Full Stack Website Developer, who is technically 
-                        skilled consisting of HTML, CSS, MySQL & PHP.
+                        Trainee upskilling to become a Full Stack Website Developer, 
+                        who is technically skilled consisting of HTML, CSS, MySQL & 
+                        PHP.
                     </p>
                 </div>
-                <div class="col-xs-12 col-sm-4 footer-block">
+                <div class="col-xs-12 col-md-4 footer-block">
                     <h3 class="footer-heading">Download a CV</h3>
                     <p class="general-font">
                         Want a traditional version of my Curriculum Vitae in 
@@ -75,7 +62,7 @@
                         </a>
                     </p>
                 </div>
-                <div class="col-xs-12 col-sm-4 footer-block">
+                <div class="col-xs-12 col-md-4 footer-block">
                     <h3 class="footer-heading">Social Links</h3>
                     <p class="general-font">Let's collaborate!</p>
                     <ul class="list-inline social-links">
