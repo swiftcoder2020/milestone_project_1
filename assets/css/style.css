@@ -138,6 +138,7 @@ body {
 
 .profile-hero-image {
     background-image: url("../images/cycling.jpg");
+    background-position: 30% 0%;
 }
 
 .contact-hero-image {
