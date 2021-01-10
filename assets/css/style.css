@@ -398,4 +398,9 @@ body {
         right: 45px;
         width: 390px;
     }
+
+    .index-hero-text h4 {
+        margin: 0 10px;
+        line-height: 30px;
+    }
 }
