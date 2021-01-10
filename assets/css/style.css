@@ -356,6 +356,10 @@ body {
         font-size: 1.75rem;
     }
 
+    .nav-item {
+        padding: 0px 15px;
+    }
+
     .underline {
         text-decoration: none;
         position: relative;
