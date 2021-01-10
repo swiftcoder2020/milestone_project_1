@@ -281,6 +281,13 @@ body {
     background-color: #8BC3FC;
 }
 
+/* -----Carousel----- */
+
+.carousel-portfolio {
+    padding: 20px 5px;
+    background-color: #e8e8e8;
+}
+
 /* -----Media queries----- */
 
 @media (min-width: 576px) {    
