@@ -329,7 +329,18 @@ body {
     }
 }
 
+@media (min-width: 768px){
+    .index-hero-text {
+        width: 325px;
+        right: 20px;
+        margin: 0px;
+    }
 
+    .index-hero-text h4 {
+        margin: 0 10px;
+        line-height: 23px;
+    }
+}
 
 
 
