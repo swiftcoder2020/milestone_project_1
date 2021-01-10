@@ -313,7 +313,21 @@ body {
     }
 }
 
+@media (min-width: 700px){
+    .block-container {
+        height: 215px;
+        max-width: 550px;
+        margin: 20px auto;
+    }
 
+    .skill-logo img {
+        margin-bottom: 25px;
+    }
+
+    .progress {
+        margin-bottom: 24px;
+    }
+}
 
 
 
