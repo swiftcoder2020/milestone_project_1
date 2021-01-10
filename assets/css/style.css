@@ -287,6 +287,13 @@ body {
     background-color: #e8e8e8;
 }
 
+/* -----Contact form----- */
+
+.contact-button {
+    display: flex;
+    margin: 0 auto;
+}
+
 /* -----Media queries----- */
 
 @media (min-width: 500px) {
@@ -461,5 +468,10 @@ body {
 
     .contact-hero-image {
         background-position: 30% 30%;
+    }
+
+    .contact-hero-text {    
+        top: 40px;
+        right: 200px;
     }
 }
