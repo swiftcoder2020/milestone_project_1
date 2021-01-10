@@ -320,30 +320,7 @@ body {
 
 
 
-@media (min-width: 675px) {
-    .logo {
-        width: 225px;
-        height: auto;
-    }
-    
-    .nav-item {
-        padding: 0px 15px;
-    }
 
-    .navbar-light .navbar-nav .nav-link {
-        font-size: 1.5rem;
-    }
-
-    .index-hero-text {    
-        margin: 0;
-        right: 15px;
-        width: 26rem;
-    }
-
-    .index-hero-text h4 {
-        line-height: 25px;
-    }
-}
 
 @media (min-width: 1024px){
     .underline {
