@@ -290,6 +290,21 @@ body {
 
 /* -----Media queries----- */
 
+@media (min-width: 500px){
+    .block-container {
+        max-width: 470px;
+        margin: 20px auto;
+    }
+}
+
+
+
+
+
+
+
+
+
 @media (min-width: 576px) {    
     .underline {
         text-decoration: none;
