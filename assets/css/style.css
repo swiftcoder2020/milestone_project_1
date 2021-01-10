@@ -155,11 +155,10 @@ body {
     line-height: 22px;
 }
 
-/* hidden until I'm ready to review this css 10/01/21 */
-/* .contact-hero-text {
+.contact-hero-text {
     position: absolute;
     top: 15px;
-    right: 8px;
+    right: 10px;
     text-align: center;
     letter-spacing: 1px;
 }
@@ -167,7 +166,7 @@ body {
 .contact-hero-text h1 {
     font-family: "Caveat Brush", sans-serif;
     color: #ffffff;
-} */
+}
 
 /* -----Skills----- */
 
