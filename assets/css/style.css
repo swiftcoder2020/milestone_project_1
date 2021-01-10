@@ -315,7 +315,7 @@ body {
 
 @media (min-width: 700px) {
     .block-container {
-        height: 215px;
+        height: 240px;
         max-width: 550px;
         margin: 20px auto;
     }
