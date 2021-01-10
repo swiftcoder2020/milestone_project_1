@@ -290,7 +290,7 @@ body {
 
 /* -----Media queries----- */
 
-@media (min-width: 500px){
+@media (min-width: 500px) {
     .block-container {
         max-width: 470px;
         margin: 20px auto;
@@ -307,13 +307,13 @@ body {
     }
 }
 
-@media (min-width: 610px){
+@media (min-width: 610px) {
     .nav-item {
         padding: 0px 10px;
     }
 }
 
-@media (min-width: 700px){
+@media (min-width: 700px) {
     .block-container {
         height: 215px;
         max-width: 550px;
@@ -329,7 +329,7 @@ body {
     }
 }
 
-@media (min-width: 768px){
+@media (min-width: 768px) {
     .index-hero-text {
         width: 325px;
         right: 20px;
@@ -341,11 +341,6 @@ body {
         line-height: 23px;
     }
 }
-
-
-
-
-
 
 @media (min-width: 1024px){
     .underline {
