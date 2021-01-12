@@ -325,6 +325,11 @@ body {
     color: #3066be;
 }
 
+.project-text {
+    font-family: "Montserrat", sans-serif;
+    font-size: 0.875rem;
+}
+
 .icons-container {
     position: absolute;
     top: 10px;
