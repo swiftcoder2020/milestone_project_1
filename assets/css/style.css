@@ -34,7 +34,7 @@ body {
 }
 
 .logo {
-    width: 215px;
+    width: 210px;
     height: auto;
 }
 
@@ -296,6 +296,10 @@ body {
 .carousel-portfolio {
     padding: 20px 5px;
     background-color: #e8e8e8;
+}
+
+.carousel-indicators {
+    margin-top: 20px;
 }
 
 /* -----Contact form----- */
