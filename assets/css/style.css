@@ -306,6 +306,18 @@ body {
 
 .card-container {
     margin-top: 25px;
+    padding: 15px;
+}
+
+.project-container {
+    padding: 15px 0px;
+    border-radius: 15px;
+    box-shadow: 0 0 5px 5px #d4d4d4;
+    background-color: #d8e9fe;
+    animation-name: stretch;
+    animation-delay: .5s;
+    animation-duration: .5s;
+    animation-timing-function: ease-out;
 }
 
 .icons-container {
