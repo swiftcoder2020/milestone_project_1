@@ -302,6 +302,18 @@ body {
     padding-bottom: 20px;
 }
 
+/* -----Card----- */
+
+.card-container {
+    margin-top: 25px;
+}
+
+.icons-container {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+
 /* -----Contact form----- */
 
 .contact-heading {
