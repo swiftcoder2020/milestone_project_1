@@ -34,7 +34,7 @@ body {
 }
 
 .logo {
-    width: 210px;
+    width: 215px;
     height: auto;
 }
 
@@ -294,12 +294,18 @@ body {
 /* -----Carousel----- */
 
 .carousel-portfolio {
-    padding: 20px 5px;
+    padding: 25px 5px;
     background-color: #e8e8e8;
 }
 
-.carousel-indicators {
-    margin-top: 20px;
+.carousel-item {
+    padding-bottom: 20px;
+}
+
+.carousel-control-prev-icon, 
+.carousel-control-next-icon {
+    opacity: 0.75;
+    color: #ffffff;
 }
 
 /* -----Contact form----- */
@@ -350,6 +356,10 @@ body {
 
     .link-md-separator {
         border-right: 3px solid #ffffff;
+    }
+
+    .carousel-portfolio {
+        padding: 25px 15px;
     }
 }
 
@@ -405,6 +415,13 @@ body {
 
     .contact-hero-text h1 {
         font-size: 2.75rem;
+    }
+
+    .carousel-caption {
+        background-color: #686868;
+        opacity: 0.9;
+        border-radius: 15px;
+        border: 2px solid #ffffff;
     }
 }
 
