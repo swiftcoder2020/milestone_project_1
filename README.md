@@ -311,7 +311,7 @@ headings, paragraph and subsequent to hovering over the icons within the footer 
 section, the background colour of some contents such as the skills & projects features and the colour of 
 the icons prior to it being hovered over.
 * #3066BE - True Blue will be used as the font colour prior to hovering over the navigational links, the 
-underlined colour which expandsonce the mouse cursor has hovered over the navigational link, the main 
+underlined colour which expands once the mouse cursor has hovered over the navigational link, the main 
 headings within the contents, the buttons included in the carousel & contact form and also as the focal 
 point of the footer as a background colour.
 * D4D4D4 - Light Grey appears as the colour for the shadowed effect within the content to add extra 
