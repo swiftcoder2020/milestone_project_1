@@ -320,6 +320,11 @@ body {
     animation-timing-function: ease-out;
 }
 
+.project-icons {
+    padding: 0px 5px;
+    font-size: 1.25rem;
+}
+
 .project-title {
     font-family: "Caveat Brush", sans-serif;
     color: #3066be;
