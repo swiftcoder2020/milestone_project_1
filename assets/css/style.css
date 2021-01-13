@@ -375,7 +375,7 @@ body {
 /* -----Media queries----- */
 
 @media (min-width: 500px) {
-    .block-container {
+    .skill-container {
         max-width: 470px;
         margin: 20px auto;
         padding-left: 25px;
@@ -408,7 +408,7 @@ body {
 }
 
 @media (min-width: 700px) {
-    .block-container {
+    .skill-container {
         height: 240px;
         max-width: 550px;
         margin: 20px auto;
@@ -537,6 +537,11 @@ body {
 
     .skills-title {
         margin-bottom: 30px;
+    }
+
+    .project-icons {
+        padding: 10px;
+        font-size: 1.5rem;
     }
 
     .contact-hero-text {
