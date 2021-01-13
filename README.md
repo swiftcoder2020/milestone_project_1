@@ -120,14 +120,14 @@ their hosting ISP, which an active link is offered to demonstrate this.
 
 * As a user in wanting to employ a candidate, the value is greatly appreciated in identifying the 
 confidence in the capability of skillfully coding the website, whilst expressing creativity that reflects 
-the aesthethically appealing product that the individual has built and places an emphasis on 
+the aesthetically appealing product that the individual has built and places an emphasis on 
 accessibility.
 
 b) *Recruiter's Perspective*
 
 * As a user of a recruiter, there is a continuous responsibility to efficiently identify from an 
 accumulation of potential developers, to suggest to their portfolio of clients who will have various 
-specific criterias that are determined from a range of companies/businesses whether small, medium or 
+specific criteria that are determined from a range of companies/businesses whether small, medium or 
 large. Therefore in effect, the responsive performance into the functionality of the website portfolio 
 enables the great value in accessing useful information, is essential for a recommendation to a client to 
 take effect.
