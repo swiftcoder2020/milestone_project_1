@@ -83,7 +83,8 @@ professional experience, I was able to factor in the user's viewpoint into some 
 structuring websites whilst placing an emphasis into accessibility so was aware of some conventions and 
 principles yet further research was required to expand the knowledge into the advancement of website 
 development a decade on. Through my professional experience, I identified that the target audience is 
-going to be diverse, thus the website portfolio requires to cater for this wide net of opportunities.
+going to be diverse, thus the requirement of the website portfolio is to cater for this wide net of 
+opportunities.
 
 ## Scope
 
@@ -387,6 +388,14 @@ hamburger menu component applicable in mobile view.
 the website portfolio in mock up form.
 
 # Testing
+
+
+
+
+
+
+
+
 
 <!-- realised that I hadn't considered the element of accessibility, therefore amended the colour scheme slightly as the contrast ration was a bit low after running through https://www.accessible-colors.com -->
 
