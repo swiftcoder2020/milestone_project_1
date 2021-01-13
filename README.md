@@ -14,7 +14,7 @@
 ## Table of Contents
 
 1. [Overview](#overview)
-2. [User Experience Design](#user-experience-design)
+2. [User Experience Design (UXD)](#user-experience-design-uxd)
    1. [Project Goals](#project-goals)
    2. [Strategy](#strategy)
    3. [Scope](#scope)
