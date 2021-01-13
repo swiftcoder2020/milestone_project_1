@@ -267,7 +267,7 @@ Given that this plane is concerned with the navigational and interface design, c
 influence new/returning visitors by prolonging the experience as much as possible, through providing 
 content that is specifically relevant and appropriate at various points throughout the experience. This 
 results in giving users greater value into the website with the addition of conventions that focuses on 
-the visual design of the navigation amongst others. 
+the visual design of the navigation amongst others.
 
 One of those conventions is that it will include a navigation bar to be positioned at the top in a fixed 
 manner that is applicable at all breakpoints to accommodate for each device used which is then based on 
@@ -279,7 +279,7 @@ menu to create the benefit of a responsive design as space is restricted due to 
 Another convention is that the landing homepage is to lead new/returning visitors into the purpose of the 
 website as they explore to other webpages with an explanation into the type of portfolio that is being 
 conveyed and the differing expectations of both sides i.e. employers/recruiters vs the developer thus the 
-outcome is to encourage these users in the direction of a call to action whereby it initates that contact.
+outcome is to encourage these users in the direction of a call to action whereby it initiates that contact.
 
 An aspect of website development which is one that I would consider as an essential convention is the 
 visual hierarchy whereby the structure of the content is considered i.e. the most or least important, that 
@@ -292,7 +292,7 @@ project.
 It is with acknowledgement that a balance has to be struck between the features and usefulness which also 
 relates to the Skeleton plane to maximise the usability of the website therefore with this in mind, 
 consideration has been given to ensure that the shape remains consistent throughout the webpages to avoid 
-a sense of disorientation. 
+a sense of disorientation.
 
 ## Surface
 
