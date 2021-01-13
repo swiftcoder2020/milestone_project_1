@@ -7,14 +7,14 @@
 *Constructed as part of Code Institute's Milestone 1 Project: User-Centric Front-End Development module*
 
 ## Demonstration
-<img src="" style="margin: 0;">
+![Responsive image of site](assets/images/responsive.png)
 
 **[Active link to the website portfolio](https://swiftcoder2020.github.io/ms1_portfolio_project/)**
 
 ## Table of Contents
 
-1. [Overview of the Milestone 1 Project](https://github.com/swiftcoder2020/ms1_portfolio_project/blob/master/README.md#overview-of-the-milestone-1-project)
-2. [User Experience Design (UXD)](https://github.com/swiftcoder2020/ms1_portfolio_project/blob/master/README.md#user-experience-design-uxd)
+1. [Overview](#overview)
+2. [User Experience Design](#user-experience-design)
    1. [Project Goals](https://github.com/swiftcoder2020/ms1_portfolio_project/blob/master/README.md#project-goals)
    2. [Strategy](https://github.com/swiftcoder2020/ms1_portfolio_project/blob/master/README.md#strategy)
    3. [Scope](https://github.com/swiftcoder2020/ms1_portfolio_project/blob/master/README.md#scope)
@@ -32,7 +32,7 @@
 6. [Deployment](https://github.com/swiftcoder2020/ms1_portfolio_project/blob/master/README.md#deployment)
 7. [Credits](https://github.com/swiftcoder2020/ms1_portfolio_project/blob/master/README.md#credits)
 
-# Overview of the Milestone 1 Project
+# Overview
 
 As the first project into the Diploma, this represents the opportunity to demonstrate my technical 
 knowledge and skills learnt within the Full Stack Website Development course, yet blending in some 
@@ -42,7 +42,7 @@ User Experience Design (UXD) that forms the core part of this development, incor
 methodology, ensuring the responsiveness of the website and utilising the languages, tools & technologies 
 learnt within the module aforementioned.
 
-# User Experience Design (UXD)
+# User Experience Design
 
 ## Project Goals
 
@@ -400,16 +400,35 @@ the website portfolio in mock up form.
 
 # Deployment
 
+This project has been deployed on GitHub Pages with the following process:
+
+- All code was written on Gitpod, an online IDE.
+- The code was then pushed to GitHub where it is stored in my Repository.
+- Under the settings section of the GitHub repository, scrolled down to GitHub Pages section.
+- Under 'Source' drop-down, the 'Master branch' was selected.
+- Once selected, this publishes the project to GitHub Pages and displays the site url.
+- There is no difference between the deployed version and the development version.
+- The code can be run locally through clone or download.
+- You can do this by opening the repository, clicking on the green 'Code' button and selecting either 'clone or download'.
+- The Clone option provides a url, which you can use on your desktop IDE.
+- The Download ZIP option provides a link to download a ZIP file which can be unzipped on your local machine.
+
+<!-- https://stackoverflow.com/questions/6771258/what-does-meta-http-equiv-x-ua-compatible-content-ie-edge-do -->
+
 # Credits
 
 ## Code
 
+<!-- should already have done this in the development of the project -->
+
 ## Content
+
+All text contents is written by myself.
 
 ## Media
 
-<!-- https://www.pexels.com/ -->
-<!-- https://www.iconfinder.com/ -->
+Main images taken from [Pexels](https://www.pexels.com/) a free source stock image website 
+Main icons taken from [Icon Finder](https://www.iconfinder.com/) a free source icon website
 
 ## Acknowledgements
 
