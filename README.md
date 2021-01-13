@@ -411,16 +411,16 @@ the website portfolio in mock up form.
 
 This project has been deployed on GitHub Pages with the following process:
 
-- All code was written on Gitpod, an online IDE.
-- The code was then pushed to GitHub where it is stored in my Repository.
-- Under the settings section of the GitHub repository, scrolled down to GitHub Pages section.
-- Under 'Source' drop-down, the 'Master branch' was selected.
-- Once selected, this publishes the project to GitHub Pages and displays the site url.
-- There is no difference between the deployed version and the development version.
-- The code can be run locally through clone or download.
-- You can do this by opening the repository, clicking on the green 'Code' button and selecting either 'clone or download'.
-- The Clone option provides a url, which you can use on your desktop IDE.
-- The Download ZIP option provides a link to download a ZIP file which can be unzipped on your local machine.
+* All code was written on Gitpod, an online IDE.
+* The code was then pushed to GitHub where it is stored in my Repository.
+* Under the settings section of the GitHub repository, scrolled down to GitHub Pages section.
+* Under 'Source' drop-down, the 'Master branch' was selected.
+* Once selected, this publishes the project to GitHub Pages and displays the site url.
+* There is no difference between the deployed version and the development version.
+* The code can be run locally through clone or download.
+* You can do this by opening the repository, clicking on the green 'Code' button and selecting either 'clone or download'.
+* The Clone option provides a url, which you can use on your desktop IDE.
+* The Download ZIP option provides a link to download a ZIP file which can be unzipped on your local machine.
 
 <!-- https://stackoverflow.com/questions/6771258/what-does-meta-http-equiv-x-ua-compatible-content-ie-edge-do -->
 
