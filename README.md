@@ -12,7 +12,7 @@
 
 <img src="assets/images/responsive.png">
 
-**![Active link to the website portfolio](https://swiftcoder2020.github.io/ms1_portfolio_project/)**
+**[Active link to the website portfolio](https://swiftcoder2020.github.io/ms1_portfolio_project/)**
 
 ## Table of Contents
 
