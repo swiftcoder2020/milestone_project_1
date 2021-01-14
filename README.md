@@ -405,7 +405,8 @@ positioned exactly like the wireframe design.
 utilising Google Chrome's Dev Tools to establish if the structure is rendered correctly from devices at 
 mobile view in 320px scaling up to desktop PC view at a maximum of 1920px.
 
-6. Tested by refreshing the homepage at the Skills section 
+6. Tested by refreshing the homepage at the Skills section to be assured that when the webpage loads, each 
+of the sub-sections expands from a smaller size into a set height & width using CSS animation.
 
 7. Tested the Download CV icon to ensure that it expands when you hover over the icon to signify 
 interaction and that when you click on it, a new secure tab is opened producing my Curriculum Vitae in an 
@@ -416,7 +417,13 @@ to give a sense of engagement to lure the new/returning visitor into viewing my 
 and also my LinkedIn account if they wish to connect with me via a new and secure way of opening a new 
 tab.
 
+9. Tested both the left and right arrow icons within the carousel in that it functions correctly to the 
+next image slide.
 
+10. Tested the button within the carousel to ensure that it leads the users to a new secure tab and that 
+the correct website loads up which is related to the specific project worked on. As I clicked on the 
+button I had realised that this didn't function as it was supposed to, therefore a quick fix was to apply 
+some simply HTML code so that it can open up in a new tab as described.
 
 
 
