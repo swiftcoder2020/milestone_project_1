@@ -389,9 +389,32 @@ the website portfolio in mock up form.
 
 # Testing
 
+1. Utilised the website [Online-Spellcheck](https://www.online-spellcheck.com/) to ensure that spelling and grammar of the readme.md is correct.
 
+2. Tested that the hyperlinked logo on each internal webpage leads users to the homepage.
 
+3. Tested each navigational link items such as Home, Projects, Profile and Contact in a logical order & 
+thoroughly on every webpage to ensure it is functioning correctly i.e. that it is not broken; and 
+directing to the right webpage. Also when visiting a particular webpage, that the contrast colour within 
+the navigational link signifies the existing webpage that the user is browsing through for good UX.
 
+4. Tested the hamburger menu icon to ensure that the toggler functions and that each navigational link is 
+positioned exactly like the wireframe design.
+
+5. Tested the responsiveness of the website portfolio to ensure it reflects the design of the wireframe by 
+utilising Google Chrome's Dev Tools to establish if the structure is rendered correctly from devices at 
+mobile view in 320px scaling up to desktop PC view at a maximum of 1920px.
+
+6. Tested by refreshing the homepage at the Skills section 
+
+7. Tested the Download CV icon to ensure that it expands when you hover over the icon to signify 
+interaction and that when you click on it, a new secure tab is opened producing my Curriculum Vitae in an 
+integrated Adobe Reader pdf file.
+
+8. Tested icons related to Social Media whereby similar to hovering on the Download CV icon, it expands 
+to give a sense of engagement to lure the new/returning visitor into viewing my GitHub profile & projects 
+and also my LinkedIn account if they wish to connect with me via a new and secure way of opening a new 
+tab.
 
 
 
