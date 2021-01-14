@@ -27,10 +27,11 @@
    6. [Surface](#surface)
       - [Colour palette](#colour-palette)
 3. [Features](#features)
-4. [Languages, Tools & Technologies Utilised](#languages-tools--technologies-utilised)
-5. [Testing](#testing)
-6. [Deployment](#deployment)
-7. [Credits](#credits)
+4. [Technologies Utilised](#technologies-utilised)
+5. [Project bugs and solutions](#project-bugs-and-solutions)
+6. [Testing](#testing)
+7. [Deployment](#deployment)
+8. [Credits](#credits)
 
 # Overview
 
@@ -387,6 +388,20 @@ hamburger menu component applicable in mobile view.
 * Balsamiq :- the software has been utilised to create wireframes as part of the preparational work into 
 the website portfolio in mock up form.
 
+# Project Bugs and Solutions
+
+Obviously a website project is not without its technical bugs, (and no I'm not talking of the C19 kind, 
+even though a virus exists within the technical world!) which requires the skill of implementing a 
+problem-solving approach to reach to good fixable solutions. These consisted of:
+
+1. The content wasn't rendered correctly between the navigational links and the hero images as it was 
+being hidden under navbar due to Bootstrap's CSS styling of fixed-top. This presented me with a problem 
+as I hadn't utilised the placement of navbars before let alone used the framework so I wasn't aware that 
+it may be a known issue, therefore as a result of researching, I found a fix to resolve this through 
+[Stack Overflow](https://stackoverflow.com/questions/11124777/twitter-bootstrap-navbar-fixed-top-overlapping-site)
+which required setting the body class with the attribute of padding-top and setting a pixel unit at a 
+couple of breakpoints using media query as I scaled up the navbar for laptop view onwards.
+
 # Testing
 
 1. Utilised the website [Online-Spellcheck](https://www.online-spellcheck.com/) to ensure that spelling and grammar of the readme.md is correct.
@@ -427,6 +442,13 @@ some simply HTML code so that it can open up in a new tab as described.
 
 
 
+
+
+
+
+
+
+
 <!-- realised that I hadn't considered the element of accessibility, therefore amended the colour scheme slightly as the contrast ration was a bit low after running through https://www.accessible-colors.com -->
 
 <!-- logo image was overflowing, yet after consulting with the slack community it was because the logo was set at 320px and needed to be set at 200px -->
@@ -434,8 +456,6 @@ some simply HTML code so that it can open up in a new tab as described.
 <!-- experienced a margin/padding issue to Bootstrap's grid whereby each skill block wasn't being separated -->
 
 <!-- code validators from w3c, manually checking on different browsers, document the process -->
-
-<!-- had issue with fixed-top on navbar but fixed it with putting body { padding-top: 80px; } at mobile view, then at laptop view increased this in media queries to 130px and also increased the viewheight of hero image to 70vh. Source: https://stackoverflow.com/questions/11124777/twitter-bootstrap-navbar-fixed-top-overlapping-site -->
 
 # Deployment
 
