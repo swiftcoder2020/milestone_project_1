@@ -369,7 +369,7 @@ Lastly this webpage will feature a customised format of Bootstrap's form with th
 to imply a part functionality and confirmation that the submission button works rather than leaving it in 
 an inactive state to elicit good user experience.
 
-# Languages, Tools & Technologies Utilised
+# Technologies Utilised
 
 * GitHub :- collaborative tool in a community of developers
 * GitPod :- editor utilised to code the website
