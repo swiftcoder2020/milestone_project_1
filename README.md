@@ -7,9 +7,12 @@
 *Constructed as part of Code Institute's Milestone 1 Project: User-Centric Front-End Development module*
 
 ## Demonstration
-![Responsive image of site](assets/images/responsive.png)
 
-**[Active link to the website portfolio](https://swiftcoder2020.github.io/ms1_portfolio_project/)**
+### **Responsive image of site**
+
+<img src="assets/images/responsive.png">
+
+**![Active link to the website portfolio](https://swiftcoder2020.github.io/ms1_portfolio_project/)**
 
 ## Table of Contents
 
@@ -231,7 +234,7 @@ Below represents how a website will be structured as an information architecture
 along with details for each of the webpages within the project and illustrates the logical movement into 
 different sections:
 
-**[Website Portfolio Site Structure](wireframes/website-portfolio-sitemap.png)**
+**![Website Portfolio Site Structure](wireframes/website-portfolio-sitemap.png)**
 
 - **Home** :- I plan to include a hero image with a brief introductory paragraph and a narrative 
 perspective comprising of knowledge & experience in website development.
@@ -256,7 +259,7 @@ developed wireframes at various breakpoints of xs, sm, md, lg & xl are:
 
 - **[Templated theme design](wireframes/templated-design-for-all-devices.pdf)**
 
-- **[Hompage](wireframes/homepage-for-all-devices.pdf)**
+- **[Homepage](wireframes/homepage-for-all-devices.pdf)**
 
 - **[Projects](wireframes/projects-for-all-devices.pdf)**
 
@@ -325,6 +328,8 @@ These are illustrated in the colour palette as per below:
 ### Colour Palette
 
 <img src="assets/images/js-website-portfolio.png">
+
+Source: [Coolors](https://coolors.co/ffffff-d8e9fe-3066be-d4d4d4-686868)
 
 # Features
 
@@ -402,6 +407,10 @@ it may be a known issue, therefore as a result of researching, I found a fix to 
 which required setting the body class with the attribute of padding-top and setting a pixel unit at a 
 couple of breakpoints using media query as I scaled up the navbar for laptop view onwards.
 
+2. The logo image was overflowing the hamburger menu icon, meaning that it forced this to go below the 
+logo as opposed to next to it as I had wireframed the design. After consulting with the Slack community, 
+it was because the logo was set at 320px and needed to be set at 200px maximum.
+
 # Testing
 
 1. Utilised the website [Online-Spellcheck](https://www.online-spellcheck.com/) to ensure that spelling and grammar of the readme.md is correct.
@@ -438,9 +447,21 @@ next image slide.
 10. Tested the button within the carousel to ensure that it leads the users to a new secure tab and that 
 the correct website loads up which is related to the specific project worked on. As I clicked on the 
 button I had realised that this didn't function as it was supposed to, therefore a quick fix was to apply 
-some simply HTML code so that it can open up in a new tab as described.
+some simply HTML code so that it can open up in a new tab as described by adding target="_blank" and 
+rel="noopener".
 
+11. Tested the indicators to ensure that the links directs users to a specific image within the carousel.
 
+12. Tested by refreshing the Projects webpage at the section of the portfolio work to ensure that when the 
+webpage loads, each of the sub-sections of specific projects undertaken expands from a smaller size into a 
+set height & width using CSS animation.
+
+13. Tested both the GitHub & external link icons to guide new/returning visitors to specific projects 
+developed within the repository and also a live link to demonstrate the finished result of the website.
+
+14. Tested the Submit button within the Contact webpage whereby 
+
+ 
 
 
 
@@ -451,7 +472,7 @@ some simply HTML code so that it can open up in a new tab as described.
 
 <!-- realised that I hadn't considered the element of accessibility, therefore amended the colour scheme slightly as the contrast ration was a bit low after running through https://www.accessible-colors.com -->
 
-<!-- logo image was overflowing, yet after consulting with the slack community it was because the logo was set at 320px and needed to be set at 200px -->
+
 
 <!-- experienced a margin/padding issue to Bootstrap's grid whereby each skill block wasn't being separated -->
 
