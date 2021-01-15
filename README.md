@@ -411,6 +411,10 @@ couple of breakpoints using media query as I scaled up the navbar for laptop vie
 logo as opposed to next to it as I had wireframed the design. After consulting with the Slack community, 
 it was because the logo was set at 320px and needed to be set at 200px maximum.
 
+3. 
+
+<!-- experienced a margin/padding issue to Bootstrap's grid whereby each skill block wasn't being separated -->
+
 # Testing
 
 1. Utilised the website [Online-Spellcheck](https://www.online-spellcheck.com/) to ensure that spelling and grammar of the readme.md is correct.
@@ -467,30 +471,47 @@ to result in an error message conveying 'Please fill out this field' to validate
 inputted prior to submission.
 
 16. Tested by utilising the [HTML Validator](https://validator.w3.org/) for each webpage of the website 
-to ensure the coding quality is of a high standard.
+to ensure the coding quality is of a high standard. The result is split into two sub-sections below:
 
-- Homepage:- this flagged up 3 warnings regarding a misuse of aria-label.
-
-- Projects:- this flagged up 6 warnings regarding a misuse of aria-label.
-
-- Profile:- this flagged up 3 warnings regarding a misuse of aria-label.
+a) Errors
 
 - Contact:- this flagged up 2 errors, the first was regarding an attribute not allowed on the input 
-element, however this was rectified by removing aria-desscribedby="". The second was concerning the label 
-and input whereby the value of the 'for' attribute of the 'label' element must be the ID of a non-hidden 
-form control. This was rectified by ensuring that the for and id have matching names which is something 
-that was suggested on [Stack Overflow](https://stackoverflow.com/questions/38569235/the-for-attribute-of-the-label-element-must-refer-to-a-non-hidden-form-control/44844597). 
-Otherwise, this flagged up 3 warnings regarding a misuse of aria label.
+element in relation to the code aria-desscribedby="". I first thought it was simply because of an 
+additional letter of 's' in the word described, however this did not eliminate the error therefore this 
+was rectified by removing the attribute. The second was concerning the label and input whereby the value 
+of the 'for' attribute of the 'label' element must be the ID of a non-hidden form control. This was 
+rectified by ensuring that the for and id have matching names which is something that was suggested on 
+[Stack Overflow](https://stackoverflow.com/questions/38569235/the-for-attribute-of-the-label-element-must-refer-to-a-non-hidden-form-control/44844597). 
 
-17. Tested by utilising the [CSS Validator](https://jigsaw.w3.org/css-validator/) which resulted in no 
-errors found as illustrated below.
+b) Warnings
+
+- Homepage:- this flagged up 3 warnings regarding a possible misuse of aria-label which they all relate 
+into the use of Font Awesome icons.
+
+- Projects:- this flagged up 6 warnings regarding a possible misuse of aria-label which they all relate 
+into the use of Font Awesome icons.
+
+- Profile:- this flagged up 3 warnings regarding a possible misuse of aria-label which they all relate 
+into the use of Font Awesome icons.
+
+- Contact:- subsequent to rectifying the above error for this webpage, this flagged up 3 warnings 
+regarding a possible misuse of aria-label which they all relate into the use of Font Awesome icons.
+
+In addition and by relating to the above four webpages however, according to the link 
+[Font Awesome Accessibility](https://fontawesome.com/how-to-use/on-the-web/other-topics/accessibility#web-fonts-semantic)
+this attribute is necessary for accessibilty reasons particularly as I have included a few focusable 
+interactive elements within my footer. 
+ 
+17. Tested by utilising the [CSS Validator](https://jigsaw.w3.org/css-validator/) which resulted in an 
+excellent feedback of no errors found as illustrated below.
 
 <img src="assets/images/css-validator.png">
 
-18. Tested the colour palette to ensure of its accessibility via [Accessible Colors](https://www.accessible-colors.com) 
-and realised that I hadn't considered the emphasis of checking this prior to the development of the 
-website. This was rectified by amending the colour scheme slightly as the contrast ratio was a bit low 
-which meant I had considered this yet adjusted it to ensure compliance. Also double checked on 
+18. Tested the colour palette to ensure of its accessibility via 
+[Accessible Colors](https://www.accessible-colors.com) and realised that I hadn't considered the emphasis 
+of checking this prior to the development of the website. This was rectified by amending the colour 
+scheme slightly as the contrast ratio was a bit low meaning it rendered it as a fail and also that I had 
+considered this yet it required tweaking it by adjustment to ensure compliance. Also double checked on 
 [a11y](https://color.a11y.com/) after Accessible Colors which it passed with flying colours.
 
 19. Tested by utilising [Google's Mobile-Friendly Test](https://search.google.com/test/mobile-friendly) 
@@ -505,20 +526,18 @@ each webpage is rendered correctly to fit within these devices. The following we
 
 - [Contact](https://search.google.com/test/mobile-friendly?id=-UFIP_KVTRLG4OFN4cqJTA)
 
-
+20. Tested the performance of the website via Google's Lighthouse for mobile devices 
+and the report suggested it was excellent as illustrated below:
  
+<img src="assets/images/google-lighthouse-mobile.png">
 
+Also this has been tested for desktop PC as well, again similarly to the result above:
 
+<img src="assets/images/google-lighthouse-desktop.png">
 
-
-
-<!--   as the contrast ration was a bit low after running through  -->
-
-
-
-<!-- experienced a margin/padding issue to Bootstrap's grid whereby each skill block wasn't being separated -->
-
-<!-- code validators from w3c, manually checking on different browsers, document the process -->
+21. Executed the CSS coding via [Autoprefixer](https://autoprefixer.github.io/) whereby my original 
+stylesheet is copied and the Autoprefixer's code is pasted into style.css to ensure cross browser 
+compatibility in the styling of the website.
 
 # Deployment
 
