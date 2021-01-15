@@ -511,32 +511,39 @@ take effect.
 
   - This is reflected in the testing section which demonstrates a great responsive performance.
 
-As a recruiter, it is difficult to grasp the in-depth knowledge of the employer that determines whether 
+- As a recruiter, it is difficult to grasp the in-depth knowledge of the employer that determines whether 
 the targeted candidates that is deemed suitable is a good match to the representative client's 
 requirements therefore by obtaining a Curriculum Vitae which is widely recognised, it concisely outlines 
 the skills of various candidates and assesses their employment & educational history.
 
-  - The skills
+  - The skills is provided within the main homepage to allow employers/recruiters to assess the 
+  developer's competencies.
 
-As a user, we receive requests to fill positions on a temporary/contractual basis or identify talents 
+- As a user, we receive requests to fill positions on a temporary/contractual basis or identify talents 
 from large firms therefore candidates will need to demonstrate with proof of their capability to ensure 
 that the role is accomplished or sustained respectively.
 
+  - Previous projects has been provided to accomplish this outcome.
+
 c) Combined User's Perspectives
 
-As a combination of users, there is the viewpoint that by browsing, the website portfolio provides the 
+- As a combination of users, there is the viewpoint that by browsing, the website portfolio provides the 
 content which is expected to be rendered fluently, swiftly and responsively via accessing active 
 navigational links and is achieved through means of a peripheral or alternatively through various 
 assistive technologies.
 
-As a user, a contributory factor in interviewing and recruiting the candidate is based upon assessing the 
+  - All navigational links allows the users to access the information required.
+
+- As a user, a contributory factor in interviewing and recruiting the candidate is based upon assessing the 
 background history into their education and employment, especially when the developer updates their 
 website or GitHub with new examples of recent project work.
 
-As a user, the ability to instantly establish the purpose of the website efficiently with ease through 
+  - This has been provided through the Profile webpage and also a link to the GitHub has been provided.
+
+- As a user, the ability to instantly establish the purpose of the website efficiently with ease through 
 content which can determine effectively whether the candidate is worth pursuing.
 
-  - 
+  - Every thought has been considered to provide relevant and key content to users.
 
 - As a user, there is a range of means in contacting the candidate through a form via the website, or 
 alternative methods such as social media, email or telephone/mobile number provided via their Curriculum 
