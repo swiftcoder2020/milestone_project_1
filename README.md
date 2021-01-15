@@ -108,11 +108,11 @@ a) *Employer's Perspective*
 
 * As a user of a prospective employer, it would be an incentive to experience the ability in browsing 
 through a candidate's website portfolio to assimilate into the developer by grasping key relevant 
-information via the content as derived from a Curriculum Vitae, which can be obtainable in its 
-traditional form through the website. The objective of it is to invite new and/or returning visitors to 
-initiate their first contact with the developer which is dependent on the CV being easily shareable to 
-potential employers and interview panel to assist them with the decision-making in recruiting that 
-individual.
+information in an engaging manner via the content as derived from a Curriculum Vitae, which can be 
+obtainable in its traditional form through the website. The objective of it is to invite new and/or 
+returning visitors to initiate their first contact with the developer which is dependent on the CV being 
+easily shareable to potential employers and interview panel to assist them with the decision-making in 
+recruiting that individual.
 
 * As an employer who is seeking for a candidate to connect with as a human being, within various roles of 
 a Full Stack, Front-end or Back-end Website Developer, it would be of great value to have the ability to 
@@ -459,6 +459,94 @@ sub-section.
 
 # Testing
 
+## User Stories
+
+Each of the below general technical testing has considered and been matched to the User Stories to the 
+best of one's ability:
+
+1. Employers and Recruiters
+
+a) Employer's Perspective
+
+- As a user of a prospective employer, it would be an incentive to experience the ability in browsing 
+through a candidate's website portfolio to assimilate into the developer by grasping key relevant 
+information in an engaging manner via the content as derived from a Curriculum Vitae, which can be 
+obtainable in its traditional form through the website. The objective of it is to invite new and/or 
+returning visitors to initiate their first contact with the developer which is dependent on the CV being 
+easily shareable to potential employers and interview panel to assist them with the decision-making in 
+recruiting that individual.
+
+  - The website has been designed with providing key relevant information into the knowledge, skills and 
+experience which is sufficiently provided and does provide users with a traditional Curriculum Vitae that 
+is available to download.
+
+- As an employer who is seeking for a candidate to connect with as a human being, within various roles of 
+a Full Stack, Front-end or Back-end Website Developer, it would be of great value to have the ability to 
+explore the website portfolio which is rendered correctly, especially with the mobile-first approach 
+through the design methodology and principles. The outcome for the user would be to consciously 
+comprehend and assess the developer's technical competencies/logical thinking in the development 
+lifecycle or experiences through their own project works by way of GitHub or alternatively via a URL of 
+their hosting ISP, which an active link is offered to demonstrate this.
+
+  - The design of the website demonstrates that this has been rendered correctly, especially with the 
+  mobile-first approach as illustrated below in the main testing section. It also conveys the developer's 
+  technical competencies/logical thinking by providing previous project work, especially prior to the 
+  Full Stack Web Developer course.
+
+- As a user in wanting to employ a candidate, the value is greatly appreciated in identifying the 
+confidence in the capability of skillfully coding the website, whilst expressing creativity that reflects 
+the aesthetically appealing product that the individual has built and places an emphasis on accessibility.
+
+  - Every thought has been implemented to express the confidence as much as possible and allowing that 
+  creativity to be conveyed to users which allows the website to be aesthetically pleasing.
+
+b) Recruiter's Perspective
+
+- As a user of a recruiter, there is a continuous responsibility to efficiently identify from an 
+accumulation of potential developers, to suggest to their portfolio of clients who will have various 
+specific criteria that are determined from a range of companies/businesses whether small, medium or 
+large. Therefore in effect, the responsive performance into the functionality of the website portfolio 
+enables the great value in accessing useful information, is essential for a recommendation to a client to 
+take effect.
+
+  - This is reflected in the testing section which demonstrates a great responsive performance.
+
+As a recruiter, it is difficult to grasp the in-depth knowledge of the employer that determines whether 
+the targeted candidates that is deemed suitable is a good match to the representative client's 
+requirements therefore by obtaining a Curriculum Vitae which is widely recognised, it concisely outlines 
+the skills of various candidates and assesses their employment & educational history.
+
+  - The skills
+
+As a user, we receive requests to fill positions on a temporary/contractual basis or identify talents 
+from large firms therefore candidates will need to demonstrate with proof of their capability to ensure 
+that the role is accomplished or sustained respectively.
+
+c) Combined User's Perspectives
+
+As a combination of users, there is the viewpoint that by browsing, the website portfolio provides the 
+content which is expected to be rendered fluently, swiftly and responsively via accessing active 
+navigational links and is achieved through means of a peripheral or alternatively through various 
+assistive technologies.
+
+As a user, a contributory factor in interviewing and recruiting the candidate is based upon assessing the 
+background history into their education and employment, especially when the developer updates their 
+website or GitHub with new examples of recent project work.
+
+As a user, the ability to instantly establish the purpose of the website efficiently with ease through 
+content which can determine effectively whether the candidate is worth pursuing.
+
+  - 
+
+- As a user, there is a range of means in contacting the candidate through a form via the website, or 
+alternative methods such as social media, email or telephone/mobile number provided via their Curriculum 
+Vitae.
+
+  - A contact form has been provided within the website and a section into the developer's social media 
+  is presented via the footer of the website.
+
+## General technical testing
+
 1. Utilised the website [Online-Spellcheck](https://www.online-spellcheck.com/) to ensure that spelling and grammar of the readme.md is correct.
 
 2. Tested that the hyperlinked logo on each internal webpage leads users to the homepage.
@@ -608,19 +696,42 @@ This project has been deployed on GitHub Pages with the following process:
 
 ## Code
 
-<!-- should already have done this in the development of the project -->
+Most of the code was developed by the use of Bootstrap's library throughout the project for the purpose of 
+ensuring the responsiveness of the website such as the Grid layout, components such as the Navbar, 
+Carousel, Card and Forms.
+
+Inspiration was taken of the underline by utilising pseudo styles in CSS via 
+[codepen](https://codepen.io/bootstrapped/pen/yJqbPa) so I cannot claim any credit for this.
+
+Inspiration in developing the Current Skills section was taken from 
+[Daiden Sacha](https://daidensacha.github.io/Portfolio-Daiden-Sacha/) yet the code was purely one of my 
+own.
 
 ## Content
 
-All text contents is written by myself.
+All hero images were derived from as below in the next section and text contents is written by myself as 
+a developer.
 
 ## Media
 
-Main images taken from [Pexels](https://www.pexels.com/) a free source stock image website 
-Main icons taken from [Icon Finder](https://www.iconfinder.com/) a free source icon website
+Main hero images taken from [Pexels](https://www.pexels.com/) a free source stock image website 
+Main icons taken from [Font Awesome](https://fontawesome.com) a free source icon website
 
 ## Acknowledgements
 
-* The Slack Community at Code Institute for their great support
+* I cannot even begin to express my wholehearted gratitude to the Slack Community at the Code Institute 
+for their fabulous yet inspirational support in what has been a significantly challenging few months for 
+me personally in the duration of the development of this website and I am forever grateful & in their 
+debt. There has been too many people to name but I wish to express my thanks to the tutors Igor and a 
+couple of others who have helped guide me to solutions and also to my mentor for he was able to do 
+through my first milestone project.
 
-* User Centric front-end development lead [Jim Morel](https://github.com/JimLynx) for his sterling work in providing a webinar to assist with Milestone 1 Project preparations, [Aukje van der Wal](https://github.com/byIlsa) for her support in commencing the project when I had a confidence doubting moment of not knowing what to do.
+* Special thanks goes to the User Centric front-end development lead 
+[Jim Morel](https://github.com/JimLynx) for his absolutely sterling work in providing a webinar to assist 
+with Milestone 1 Project preparations, and has been so supportive throughout this journey, you are my man 
+a legend! And also to [Aukje van der Wal](https://github.com/byIlsa) for her support in commencing the 
+project when I had a confidence doubting moment of not knowing what to do and providing useful resources. 
+To Matthew Lister when I was suffering from stress, he was there as a listening ear and lead me on the 
+right path to pick myself up again. Finally to Ngiap who has helped keep my feet on the ground trying to 
+recognise the importance of health & wellbeing in his messages. Apologies if I've missed off anybody, it 
+was unintentional but they were the main people I felt I had to acknowledge in the milestone 1 journey.
