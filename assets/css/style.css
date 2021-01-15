@@ -1,3 +1,10 @@
+/*
+* Prefixed by https://autoprefixer.github.io
+* PostCSS: v7.0.29,
+* Autoprefixer: v9.7.6
+* Browsers: last 4 version
+*/
+
 @import url('https://fonts.googleapis.com/css2?family=Caveat+Brush&family=Caveat:wght@400;500;600;700&family=Montserrat:wght@300;400;500;600;700&display=swap');
 
 /*-----General style of website portfolio-----*/
@@ -79,7 +86,10 @@ body {
     font-size: 1.25rem;
     text-align: center;
     color: #d8e9fe;
+    -webkit-transition: width 1s, height 1s, -webkit-transform 1s;
+    transition: width 1s, height 1s, -webkit-transform 1s;
     transition: width 1s, height 1s, transform 1s;
+    transition: width 1s, height 1s, transform 1s, -webkit-transform 1s;
     -moz-transition: width 1s, height 1s, transform 1s;
     -webkit-transition: width 1s, height 1s, transform 1s;
     -o-transition: width 1s, height 1s, transform 1s;
@@ -200,21 +210,40 @@ body {
     padding: 15px 0px;
     padding-left: 20px;
     border-radius: 15px;
-    box-shadow: 0 0 5px 5px #d4d4d4;
+    -webkit-box-shadow: 0 0 5px 5px #d4d4d4;
+            box-shadow: 0 0 5px 5px #d4d4d4;
     background-color: #d8e9fe;
-    animation-name: stretch;
-    animation-delay: .5s;
-    animation-duration: .5s;
-    animation-timing-function: ease-out;
+    -webkit-animation-name: stretch;
+            animation-name: stretch;
+    -webkit-animation-delay: .5s;
+            animation-delay: .5s;
+    -webkit-animation-duration: .5s;
+            animation-duration: .5s;
+    -webkit-animation-timing-function: ease-out;
+            animation-timing-function: ease-out;
+}
+
+@-webkit-keyframes stretch {
+    0% {
+        -webkit-transform: scale(.5);
+                transform: scale(.5);
+    }
+
+    100% {
+        -webkit-transform: scale(1);
+                transform: scale(1);
+    }
 }
 
 @keyframes stretch {
     0% {
-        transform: scale(.5);
+        -webkit-transform: scale(.5);
+                transform: scale(.5);
     }
 
     100% {
-        transform: scale(1);
+        -webkit-transform: scale(1);
+                transform: scale(1);
     }
 }
 
@@ -312,12 +341,17 @@ body {
 .project-container {
     padding: 15px 0px;
     border-radius: 15px;
-    box-shadow: 0 0 5px 5px #d4d4d4;
+    -webkit-box-shadow: 0 0 5px 5px #d4d4d4;
+            box-shadow: 0 0 5px 5px #d4d4d4;
     background-color: #d8e9fe;
-    animation-name: stretch;
-    animation-delay: .5s;
-    animation-duration: .5s;
-    animation-timing-function: ease-out;
+    -webkit-animation-name: stretch;
+            animation-name: stretch;
+    -webkit-animation-delay: .5s;
+            animation-delay: .5s;
+    -webkit-animation-duration: .5s;
+            animation-duration: .5s;
+    -webkit-animation-timing-function: ease-out;
+            animation-timing-function: ease-out;
 }
 
 .project-icons {
@@ -368,6 +402,8 @@ body {
 }
 
 .contact-button {
+    display: -webkit-box;
+    display: -ms-flexbox;
     display: flex;
     margin: 0 auto;
 }
@@ -503,8 +539,6 @@ body {
         background: #ffffff;
 
         -o-transition: .5s;
-        -ms-transition: .5s;
-        -moz-transition: .5s;
         -webkit-transition: .5s;
         transition: .5s;
     }
