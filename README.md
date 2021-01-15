@@ -482,7 +482,10 @@ form control. This was rectified by ensuring that the for and id have matching n
 that was suggested on [Stack Overflow](https://stackoverflow.com/questions/38569235/the-for-attribute-of-the-label-element-must-refer-to-a-non-hidden-form-control/44844597). 
 Otherwise, this flagged up 3 warnings regarding a misuse of aria label.
 
-17. Tested by utilising the [CSS Validator](https://jigsaw.w3.org/css-validator/)
+17. Tested by utilising the [CSS Validator](https://jigsaw.w3.org/css-validator/) which resulted in no 
+errors found as illustrated below.
+
+<img src="assets/images/css-validator.png">
 
 18. Tested the colour palette to ensure of its accessibility via [Accessible Colors](https://www.accessible-colors.com) 
 and realised that I hadn't considered the emphasis of checking this prior to the development of the 
