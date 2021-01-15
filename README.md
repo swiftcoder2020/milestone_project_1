@@ -331,6 +331,20 @@ These are illustrated in the colour palette as per below:
 
 Source: [Coolors](https://coolors.co/ffffff-d8e9fe-3066be-d4d4d4-686868)
 
+### Typography
+
+Within this project, only three fonts were used throughout the website as a whole which consisted of 
+Caveat Brush being used for the navigational links, as a call to action within the hero images and as a 
+sub-title. For the main title, Caveat was only used in the main section and footer of the website. Finally 
+the Montserrat was used as the general font for the main content of the website. In the eventuality that 
+for whatever reason that the font isn't imported into the styling of the website, a fallback has been 
+considered to use Sans Serif.
+
+### Imagery
+
+From a visual aspect, imagery is known to be important to engage the user's attention into the website, 
+which the background hero image conveys an sense of aesthetic modern yet energetic feel.
+
 # Features
 
 ## Navigation
@@ -376,22 +390,39 @@ an inactive state to elicit good user experience.
 
 # Technologies Utilised
 
-* GitHub :- collaborative tool in a community of developers
-* GitPod :- editor utilised to code the website
-* Git :- a form of versioning control
-* Bootstrap v4.5.2 :- this is a CSS framework which is used to assist with making the design
-* Google Fonts
-* Font Awesome
-* jQuery :- a brief bit of HTML coding has been applied which relates to the functionality of the 
-hamburger menu component applicable in mobile view.
-* Popper :- a brief bit of HTML coding has been applied which relates to the functionality of the 
-hamburger menu component applicable in mobile view.
-* JavaScript :- a brief bit of HTML coding has been applied which relates to the functionality of the 
-hamburger menu component applicable in mobile view.
+* Balsamiq:- the software has been utilised that is related to the creation of wireframes as part of the 
+preparational work into the duration of the design process through the website portfolio.
+
+* GitHub:- this is a collaborative tool which consists of a community of developers and has been used to 
+store the coding of the project subsequent from being pushed via Git.
+
+* GitPod:- an online Integrated Development Environment (IDE) editor utilised to create files and code 
+the website.
+
+* Git:- a form of versioning control by way of utilising the terminal within Gitpod to commit to Git, 
+then subsequently push to GitHub.
+
+* Bootstrap v4.5.2:- this is a CSS framework which is used to assist with making the design responsive 
+whilst complimentary with the styling of the website.
+
+* Google Fonts:- these were used to import the typography of the website into the stylesheet file and is 
+utilised on all webpages.
+
+* Font Awesome:- a sparse amount of icons was added for the purpose of aesthetic appeal and UX design.
+
+* jQuery :- a brief bit of HTML coding has been applied to link with Bootstrap's navbar being responsive, 
+which relates to the functionality of the hamburger menu component applicable in mobile view.
+
+* Popper :- a brief bit of HTML coding has been applied to link with Bootstrap's navbar being responsive, 
+which relates to the functionality of the hamburger menu component applicable in mobile view.
+
+* JavaScript :- a brief bit of HTML coding has been applied to link with Bootstrap's navbar being responsive, 
+which relates to the functionality of the hamburger menu component applicable in mobile view.
+
 * CSS3 :- this is the current standard that is used.
+
 * HTML5 :- this is the current standard that is used.
-* Balsamiq :- the software has been utilised to create wireframes as part of the preparational work into 
-the website portfolio in mock up form.
+
 
 # Project Bugs and Solutions
 
@@ -409,11 +440,22 @@ couple of breakpoints using media query as I scaled up the navbar for laptop vie
 
 2. The logo image was overflowing the hamburger menu icon, meaning that it forced this to go below the 
 logo as opposed to next to it as I had wireframed the design. After consulting with the Slack community, 
-it was because the logo was set at 320px and needed to be set at 200px maximum.
+it was because the logo was set at 320px i.e. the logo size was too big to fit into mobile view and 
+needed to be set at 200px maximum.
 
-3. 
+3. Within the Current Skills section I experienced a margin/padding issue to Bootstrap's grid whereby 
+each progress bar had moved below the logo of various languages, tools & technologies that I was 
+competent in, between mobile breakpoints at 320px to 380px (see first illustration). Also by the time the 
+website was at 380px, there was no spacing between the end of the progress bar and the border of the 
+sub-section (see second illustration).
 
-<!-- experienced a margin/padding issue to Bootstrap's grid whereby each skill block wasn't being separated -->
+<img src="assets/images/bootstrap-grid-issue-1.png"> <img src="assets/images/bootstrap-grid-issue-2.png">
+
+Finally each sub-section wasn't being separated i.e. Front-End, Back-End & Miscellaneous which resulted 
+in having to consult the Code Institute's tutors to assist me with this issue overall as it was quite a 
+main challenge to overcome. It was eventually rectified by changing a col-11 to a col-10 that accounts 
+for the progress bar column and this greatly resolved the spacing between the logo and the border of the 
+sub-section.
 
 # Testing
 
@@ -514,7 +556,11 @@ scheme slightly as the contrast ratio was a bit low meaning it rendered it as a 
 considered this yet it required tweaking it by adjustment to ensure compliance. Also double checked on 
 [a11y](https://color.a11y.com/) after Accessible Colors which it passed with flying colours.
 
-19. Tested by utilising [Google's Mobile-Friendly Test](https://search.google.com/test/mobile-friendly) 
+19. Executed the CSS coding via [Autoprefixer](https://autoprefixer.github.io/) whereby my original 
+stylesheet is copied and the Autoprefixer's code is pasted into style.css to ensure cross browser 
+compatibility in the styling of the website.
+
+20. Tested by utilising [Google's Mobile-Friendly Test](https://search.google.com/test/mobile-friendly) 
 into the responsiveness of the website to ensure that as mobile phones are prominent in our daily lives 
 each webpage is rendered correctly to fit within these devices. The following webages have been tested:-
 
@@ -526,7 +572,7 @@ each webpage is rendered correctly to fit within these devices. The following we
 
 - [Contact](https://search.google.com/test/mobile-friendly?id=-UFIP_KVTRLG4OFN4cqJTA)
 
-20. Tested the performance of the website via Google's Lighthouse for mobile devices 
+21. Tested the performance of the website via Google's Lighthouse for mobile devices 
 and the report suggested it was excellent as illustrated below:
  
 <img src="assets/images/google-lighthouse-mobile.png">
@@ -535,9 +581,11 @@ Also this has been tested for desktop PC as well, again similarly to the result 
 
 <img src="assets/images/google-lighthouse-desktop.png">
 
-21. Executed the CSS coding via [Autoprefixer](https://autoprefixer.github.io/) whereby my original 
-stylesheet is copied and the Autoprefixer's code is pasted into style.css to ensure cross browser 
-compatibility in the styling of the website.
+22. Tested the website in browsers such as Google Chrome via Android mobile phone and the website is very 
+responsive. Also tested this on desktop PC through Google Chrome and again the website works well. In 
+addition to this, it has also been tested on an iPhone 6 and iPad Pro (thanks to a developer within the 
+Slack community for doing this) and feedback was "Looks really good, checked it on iPhone 6s and iPad Pro, 
+didn’t notice anything wrong or out of place. Good job on responsiveness"
 
 # Deployment
 
@@ -545,9 +593,9 @@ This project has been deployed on GitHub Pages with the following process:
 
 * All code was written on Gitpod, an online IDE.
 * The code was then pushed to GitHub where it is stored in my Repository.
-* Under the settings section of the GitHub repository, scrolled down to GitHub Pages section.
+* Under the settings section of the GitHub repository, scroll down to GitHub Pages section.
 * Under 'Source' drop-down, the 'Master branch' was selected.
-* Once selected, this publishes the project to GitHub Pages and displays the site url.
+* Once selected, this publishes the project to GitHub Pages and displays the site's url.
 * There is no difference between the deployed version and the development version.
 * The code can be run locally through clone or download.
 * You can do this by opening the repository, clicking on the green 'Code' button and selecting either 'clone or download'.
