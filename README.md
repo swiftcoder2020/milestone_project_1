@@ -459,7 +459,41 @@ set height & width using CSS animation.
 13. Tested both the GitHub & external link icons to guide new/returning visitors to specific projects 
 developed within the repository and also a live link to demonstrate the finished result of the website.
 
-14. Tested the Submit button within the Contact webpage whereby 
+14. Tested all fields whereby once clicked into the input area, it highlights the specific data entry 
+field to engage the user's attention what section is currently being filled in.
+
+15. Tested the Submit button within the Contact webpage whereby all fields remained blank with no inputs 
+to result in an error message conveying 'Please fill out this field' to validate all fields have been 
+inputted prior to submission.
+
+16. Tested by utilising the [HTML Validator](https://validator.w3.org/) for each webpage of the website 
+to ensure the coding quality is of a high standard.
+
+- Homepage:- this flagged up 3 warnings regarding a misuse of aria-label.
+
+- Projects:- this flagged up 6 warnings regarding a misuse of aria-label.
+
+- Profile:- this flagged up 3 warnings regarding a misuse of aria-label.
+
+- Contact:- this flagged up 2 errors, the first was regarding an attribute not allowed on the input 
+element, however this was rectified by removing aria-desscribedby="". The second was concerning the label 
+and input whereby the value of the 'for' attribute of the 'label' element must be the ID of a non-hidden 
+form control. This was rectified by ensuring that the for and id have matching names. Otherwise, this 
+flagged up 3 warnings regarding a misuse of aria label.
+
+
+17. Tested by utilising [Google's Mobile-Friendly Test](https://search.google.com/test/mobile-friendly) 
+into the responsiveness of the website to ensure that as mobile phones are prominent in our daily lives 
+each webpage is rendered correctly to fit within these devices. The following webages have been tested:-
+
+- [Homepage](https://search.google.com/test/mobile-friendly?id=h2UaGWAm35-C1obj2TCJhA)
+
+- [Projects](https://search.google.com/test/mobile-friendly?id=u9JssgcSh9xVHkm98k0WGw)
+
+- [Profile](https://search.google.com/test/mobile-friendly?id=yjE3a13AyV9FRkj7c7pl4A)
+
+- [Contact](https://search.google.com/test/mobile-friendly?id=-UFIP_KVTRLG4OFN4cqJTA)
+
 
  
 
