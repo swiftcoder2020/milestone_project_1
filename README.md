@@ -478,11 +478,19 @@ to ensure the coding quality is of a high standard.
 - Contact:- this flagged up 2 errors, the first was regarding an attribute not allowed on the input 
 element, however this was rectified by removing aria-desscribedby="". The second was concerning the label 
 and input whereby the value of the 'for' attribute of the 'label' element must be the ID of a non-hidden 
-form control. This was rectified by ensuring that the for and id have matching names. Otherwise, this 
-flagged up 3 warnings regarding a misuse of aria label.
+form control. This was rectified by ensuring that the for and id have matching names which is something 
+that was suggested on [Stack Overflow](https://stackoverflow.com/questions/38569235/the-for-attribute-of-the-label-element-must-refer-to-a-non-hidden-form-control/44844597). 
+Otherwise, this flagged up 3 warnings regarding a misuse of aria label.
 
+17. Tested by utilising the [CSS Validator](https://jigsaw.w3.org/css-validator/)
 
-17. Tested by utilising [Google's Mobile-Friendly Test](https://search.google.com/test/mobile-friendly) 
+18. Tested the colour palette to ensure of its accessibility via [Accessible Colors](https://www.accessible-colors.com) 
+and realised that I hadn't considered the emphasis of checking this prior to the development of the 
+website. This was rectified by amending the colour scheme slightly as the contrast ratio was a bit low 
+which meant I had considered this yet adjusted it to ensure compliance. Also double checked on 
+[a11y](https://color.a11y.com/) after Accessible Colors which it passed with flying colours.
+
+19. Tested by utilising [Google's Mobile-Friendly Test](https://search.google.com/test/mobile-friendly) 
 into the responsiveness of the website to ensure that as mobile phones are prominent in our daily lives 
 each webpage is rendered correctly to fit within these devices. The following webages have been tested:-
 
@@ -501,10 +509,7 @@ each webpage is rendered correctly to fit within these devices. The following we
 
 
 
-
-
-
-<!-- realised that I hadn't considered the element of accessibility, therefore amended the colour scheme slightly as the contrast ration was a bit low after running through https://www.accessible-colors.com -->
+<!--   as the contrast ration was a bit low after running through  -->
 
 
 
